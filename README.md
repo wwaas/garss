@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-07 04:06:51)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-07 05:05:49)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 462](https://weekly.pychina.org/issue/issue-462.html)<br/>[‣ pythonista-weekly : Pyw 488](https://weekly.pychina.org/python-weekly/pyw-488.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.1 增强了可重复使用的块，更新了社交图标的间距选项并规范了图像块工具栏](https://www.wpdaxue.com/gutenberg-10-1.html)<br/>[‣ WordPress 5.7 增强导入/导出功能](https://www.wpdaxue.com/wordpress-5-7-enhanced-import-export.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 写字的纸条就能骗过 OpenAI 的物体识别](https://linux.cn/article-13183-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 如何在 Ubuntu Linux 上安装最新的 Erlang](https://linux.cn/article-13182-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[随想\] 王伟下班回家, 瘫在他破烂的小屋里, 打开 V10EX](https://www.v2ex.com/t/759193#reply0)<br/>[‣ \[问与答\] 最近 Chrome 不支持打开本地 html 文件翻译了，各位大佬有什么解决方法吗？](https://www.v2ex.com/t/759192#reply1) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[MacBook Pro\] 2018 MBP 视频会议 100 分钟掉电 50%](https://www.v2ex.com/t/759195#reply0)<br/>[‣ \[微信\] WeChat 对比微信区别](https://www.v2ex.com/t/759194#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 深渊的凝视：在镜头盲区揪出“沉睡者” (评论: 暴风眼)](https://movie.douban.com/review/13301250/)<br/>[‣ 《无依之地》撤档，谈谈个人看法。 (评论: 无依之地)](https://movie.douban.com/review/13299804/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 从赵婷、哈金获奖想到的 (评论: 等待)](https://book.douban.com/review/13296837/)<br/>[‣ 完全颠覆了我对牛顿的印象 (评论: 牛顿新传-牛津通识读本)](https://book.douban.com/review/13277703/) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ 决策树模型浅尝辄止](https://my.oschina.net/knifecms/blog/4973141)<br/>[‣ 可用于Clickhouse的五个开源图形客户端](https://my.oschina.net/taogang/blog/4973018) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - 软件工艺师](http://www.cnblogs.com/cgzl/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ IDEA中便捷内存数据库H2的最简使用方式 - 岁月已走远](http://www.cnblogs.com/xuruiming/p/14493257.html)<br/>[‣ MySQL锁 - Gouden](http://www.cnblogs.com/gouden/p/14493126.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[討論\] 漫威角色的起源電影哪部最好看?](https://www.ptt.cc/bbs/movie/M.1615054760.A.84F.html)<br/>[‣ \[問片\] 一個很舊有關娃娃的18禁恐怖片](https://www.ptt.cc/bbs/movie/M.1615054386.A.645.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[微好雷\] 王牌大騙子](https://www.ptt.cc/bbs/movie/M.1615063155.A.7DA.html)<br/>[‣ \[討論\] 漫威角色的起源電影哪部最好看?](https://www.ptt.cc/bbs/movie/M.1615054760.A.84F.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 中信兄弟啦啦隊Passion Sisters新成員－妮可](https://www.ptt.cc/bbs/Beauty/M.1615054876.A.AFB.html)<br/>[‣ \[正妹\] 越南](https://www.ptt.cc/bbs/Beauty/M.1615053089.A.694.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
