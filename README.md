@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-06 11:25:33)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-06 11:37:58)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -24,7 +24,7 @@
 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
-| 反斗限免 | 反斗软件旗下软件限免资讯网站 | [订阅地址](https://free.apprcn.com/feed/) |  [‣ WinSysClean X10 PRO – 系统清理软件\[Windows\]\[$19.5→0\]](https://free.apprcn.com/winsysclean-x10-pro/)<br/>[‣ 免费获取游戏 Royal Defense\[Windows\]](https://free.apprcn.com/get-game-royal-defense-for-free/) |
+| 反斗限免 | 反斗软件旗下软件限免资讯网站 | [订阅地址](https://free.apprcn.com/feed/) |  [‣ WinSysClean X10 PRO – 系统清理软件\[Windows\]\[$19.5→0\]](http://free.apprcn.com/winsysclean-x10-pro/)<br/>[‣ 免费获取游戏 Royal Defense\[Windows\]](http://free.apprcn.com/get-game-royal-defense-for-free/) |
 | 不死鸟 | 不死鸟:专注分享优质资源 | [订阅地址](https://iao.su/feed) |  [‣ 网页在线工具汇总](https://iao.su/1492/)<br/>[‣ 软购商城 - Internet Download Manager - 官方正版限时限量特价！ IDM 永久版 / 89 元！](https://iao.su/3749/) |
 | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 | [订阅地址](https://xclient.info/feed) |  [‣ Waves 12 Complete 03.03.2021 混音工具包](https://xclient.info/s/waves.html)<br/>[‣ Keep It 1.10.1 内容收藏夹](https://xclient.info/s/keep-it.html) |
 | 老殁 | 免费推荐优秀软件 | [订阅地址](https://www.mpyit.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
@@ -95,7 +95,7 @@
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ 机器学习隐私研究新进展：数据增强风险被低估，新算法“降服”维数依赖](https://www.msra.cn/zh-cn/news/features/private-ml)<br/>[‣ 微软与清华专家纵论天下AI](https://www.msra.cn/zh-cn/news/features/the-world-of-ai) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ 知乎计划赴美 IPO 融资 10 亿美元；滴滴遭交通部约谈：立即整改；微软百亿美元云计算大单恐失败](http://www.geekpark.net/news/274604)<br/>[‣ 科技巨头接下来的计划，都在「两会」剧透了](http://www.geekpark.net/news/274603) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
-| 雪球 | 聪明的投资者都在这里,雪球每日精华 | [订阅地址](https://xueqiu.com/hots/topic/rss) |  [‣ 投资中的转换游戏](http://xueqiu.com/9320604669/173407208)<br/>[‣ 买指数，或许是最适合大多数普通投资者的投资方式](http://xueqiu.com/4433266172/173090807) |
+| 雪球 | 聪明的投资者都在这里,雪球每日精华 | [订阅地址](https://xueqiu.com/hots/topic/rss) |  [‣ 谈谈我心中比亚迪的上涨逻辑](http://xueqiu.com/5481287480/173651845)<br/>[‣ 投资中的转换游戏](http://xueqiu.com/9320604669/173407208) |
 | <h2 id="学习类">学习类</h2> |  |   |  |
 | 扔物线 | 帮助 Android 工程师进阶成长 | [订阅地址](https://rengwuxian.com/feed) |  [‣ 我用 Jetpack Compose 写了个春节版微信主题，带炸弹特效](https://rengwuxian.com/360.html)<br/>[‣ 海外社交 APP 社交平台公司 Android 面试分享](https://rengwuxian.com/303.html) |
 | MOOC中国 | 慕课改变你，你改变世界  | [订阅地址](https://www.mooc.cn/feed) |  [‣ 黑色星期五从现在开始！好课年度大优惠](https://www.mooc.cn/news/32024.html)<br/>[‣ 研究方法](https://www.mooc.cn/course/31468.html) |
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2)<br/>[‣ 小雪腌菜大雪腌肉。年关将近可不就各种腌嘛榨菜头 萝卜干、腊肉  香肠通通挂起来！萝卜怎么落花成籽，埋种地下。怎么发芽，如何开花，怎样长大…这是《一生系列...](https://weibo.com/2970452952/JCpfQlIyF) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 实验室带你过周末：2021.3.6 - 3.7 深圳篇](http://www.toodaylab.com/79588)<br/>[‣ 今日消费资讯：太平洋咖啡带来“畅享大咖团”活动、​迪卡侬中国和阿里云达成合作协议](http://www.toodaylab.com/79584) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ NT ZEU](https://www.behance.net/gallery/114736941/NT-ZEU)<br/>[‣ Dubai Above The Clouds](https://www.behance.net/gallery/114105733/Dubai-Above-The-Clouds) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Hamilton ? Murph Watch](https://www.behance.net/gallery/104396893/Hamilton-Murph-Watch)<br/>[‣ NT ZEU](https://www.behance.net/gallery/114736941/NT-ZEU) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Kervin Brisseaux](https://medium.com/behance-blog/meet-this-months-guest-curator-kervin-brisseaux-55e5124c9382?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Christina Poku](https://medium.com/behance-blog/meet-this-months-guest-curator-christina-poku-ce518f15ec3c?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest hosted first-ever global advertiser summit “Pinterest Presents”](https://newsroom.pinterest.com/en/post/draft-pinterest-presents)<br/>[‣ Pinterest is empowering women this season through the Pinterest Shop](https://newsroom.pinterest.com/en/PinterestShopIWD) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ Ai 教程！从零开始教你制作油墨印刷质感邮票](https://www.uisdc.com/ink-stamps)<br/>[‣ 万字干货！电商高手设计前的4个思考环节！](https://www.uisdc.com/e-business-design-thinking-process) |
@@ -120,8 +120,8 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 462](https://weekly.pychina.org/issue/issue-462.html)<br/>[‣ pythonista-weekly : Pyw 488](https://weekly.pychina.org/python-weekly/pyw-488.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.1 增强了可重复使用的块，更新了社交图标的间距选项并规范了图像块工具栏](https://www.wpdaxue.com/gutenberg-10-1.html)<br/>[‣ WordPress 5.7 增强导入/导出功能](https://www.wpdaxue.com/wordpress-5-7-enhanced-import-export.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 不懂代码的人也可以干的 4 种技术工作](https://linux.cn/article-13178-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ awk：一个强大的文本分析工具](https://linux.cn/article-13177-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 关于虚拟内存](https://www.v2ex.com/t/759000#reply1)<br/>[‣ \[程序员\] 写了篇 微服务上 kubernetes 的入门文章 欢迎加星 https://github.com/xiaojiaqi/deploy-microservices-to-a-Kubernetes-cluster](https://www.v2ex.com/t/758999#reply0) |
-| 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[MySQL\] 有没有免费的 MySQL 监控工具，或者开源代码。 Python 、 Java 、 PHP 都可以](https://www.v2ex.com/t/759003#reply0)<br/>[‣ \[职场话题\] 业务运维、系统运维、业务运维，这三个岗位哪个对后期的职业发展好一点](https://www.v2ex.com/t/759002#reply0) |
+| 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《无依之地》撤档，谈谈个人看法。 (评论: 无依之地)](https://movie.douban.com/review/13299804/)<br/>[‣ 我拍的《郊区的鸟》，不推荐看，理由有十个 (评论: 郊区的鸟)](https://movie.douban.com/review/13293273/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 从赵婷、哈金获奖想到的 (评论: 等待)](https://book.douban.com/review/13296837/)<br/>[‣ 完全颠覆了我对牛顿的印象 (评论: 牛顿新传-牛津通识读本)](https://book.douban.com/review/13277703/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 用一张专辑读懂坂本龙一《async》 (评论: async)](https://music.douban.com/review/13280260/)<br/>[‣ 非完全乐评 —— 有关午马天蝎座的吴亦凡的一些来自三年前的个人感想，以及寅虎狮子座的彩蛋——蔡徐坤。是的，这张专辑，我打出的是“偏心”的满星。 (评论: Antares)](https://music.douban.com/review/13290628/) |
