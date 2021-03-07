@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-08 03:05:06)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-08 04:06:29)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 462](https://weekly.pychina.org/issue/issue-462.html)<br/>[‣ pythonista-weekly : Pyw 488](https://weekly.pychina.org/python-weekly/pyw-488.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.1 增强了可重复使用的块，更新了社交图标的间距选项并规范了图像块工具栏](https://www.wpdaxue.com/gutenberg-10-1.html)<br/>[‣ WordPress 5.7 增强导入/导出功能](https://www.wpdaxue.com/wordpress-5-7-enhanced-import-export.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 在 Linux 上运行你最喜欢的 Windows 应用程序](https://linux.cn/article-13184-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 逐行解读 MIT 许可证](https://linux.cn/article-13180-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[宽带症候群\] 有关 Mikrotik 的产品和 RoutrrOS 的疑问请教各位](https://www.v2ex.com/t/759420#reply0)<br/>[‣ \[杭州\] \[个人求租\] 想找一找滨江江晖路附近个人房源整租](https://www.v2ex.com/t/759419#reply1) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[酷工作\] \[纽约华尔街 startup\] 诚聘远程 Typescript 或 Python 程序员](https://www.v2ex.com/t/759421#reply0)<br/>[‣ \[宽带症候群\] 有关 Mikrotik 的产品和 RoutrrOS 的疑问请教各位](https://www.v2ex.com/t/759420#reply2) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 粗活：全片时间线整理（彻底剧透，慎入） (评论: 打开心世界)](https://movie.douban.com/review/13303102/)<br/>[‣ 女生要革命，哪怕从女厕所发传单开始，而不是女生节 (评论: 女生要革命)](https://movie.douban.com/review/13302491/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 从赵婷、哈金获奖想到的 (评论: 等待)](https://book.douban.com/review/13296837/)<br/>[‣ 完全颠覆了我对牛顿的印象 (评论: 牛顿新传-牛津通识读本)](https://book.douban.com/review/13277703/) |
@@ -134,7 +134,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 一家亲 超清](https://bukaivip.com/index.php/vod/detail/id/46412.html)<br/>[‣ 一切如你 超清](https://bukaivip.com/index.php/vod/detail/id/42717.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 爱的理想生活 更新到12集](https://bukaivip.com/index.php/vod/detail/id/47865.html)<br/>[‣ 暴风眼 更新到23集](https://bukaivip.com/index.php/vod/detail/id/47724.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 从《赛马娘》开始，分享我们对于日本赛马的感受](https://www.gcores.com/volumes/134719)<br/>[‣ 《新世纪福音战士：终》明天上映，开场12分10秒10帧画面公开](https://www.gcores.com/articles/134718) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 【社长jing了！Vol.96】原来马力欧进的水管是赵四的裤腿](https://www.yystv.cn/p/7664)<br/>[‣ 因为被玩家忽悠，日本黄牛将冷门《万智牌》卡包抢购一空](https://www.yystv.cn/p/7659) |
