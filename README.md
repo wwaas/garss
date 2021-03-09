@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-10 02:19:59)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-10 03:04:17)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -24,7 +24,7 @@
 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
-| 反斗限免 | 反斗软件旗下软件限免资讯网站 | [订阅地址](https://free.apprcn.com/feed/) |  [‣ 免费获取游戏 Trainpunk Run\[Windows\]](http://free.apprcn.com/get-game-trainpunk-run-for-free/)<br/>[‣ Abelssoft mp3 cutter – MP3 剪辑工具\[Windows\]\[$14.9→0\]](http://free.apprcn.com/abelssoft-mp3-cutter-3/) |
+| 反斗限免 | 反斗软件旗下软件限免资讯网站 | [订阅地址](https://free.apprcn.com/feed/) |  [‣ ĺ…č´ščŽˇĺ–ć¸¸ćˆ Trainpunk Run\[Windows\]](http://free.apprcn.com/get-game-trainpunk-run-for-free/) |
 | 不死鸟 | 不死鸟:专注分享优质资源 | [订阅地址](https://iao.su/feed) |  [‣ 网页在线工具汇总](https://iao.su/1492/)<br/>[‣ 软购商城 - Internet Download Manager - 官方正版限时限量特价！ IDM 永久版 / 89 元！](https://iao.su/3749/) |
 | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 | [订阅地址](https://xclient.info/feed) |  [‣ A Better Finder Rename 11.29 文件批量重命名](https://xclient.info/s/a-better-finder-rename.html)<br/>[‣ AudioFinder 6.0.6 音频管理处理工具](https://xclient.info/s/audiofinder.html) |
 | 老殁 | 免费推荐优秀软件 | [订阅地址](https://www.mpyit.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 使用CSS text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/)<br/>[‣ CSS line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 如何优雅获取B站壁纸？](https://v2fy.com/p/2021-03-09-bilibili-paper-1615269784000/)<br/>[‣ 如何快捷下载不知名小网站的视频？](https://v2fy.com/p/2021-03-08-1615165838000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ 阿里云新人新春采购值得买的几款产品分析（你薅对了吗）](https://www.laozuo.org/18537.html)<br/>[‣ Hostodo - 拉斯维加斯VPS主机 年付17.99美元 送DirectAdmin授权](https://www.laozuo.org/18532.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Curse of the Dead Gods Trainer](https://flingtrainer.com/trainer/curse-of-the-dead-gods-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=curse-of-the-dead-gods-trainer)<br/>[‣ Persona 5 Strikers Trainer](https://flingtrainer.com/trainer/persona-5-strikers-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=persona-5-strikers-trainer) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ RunningCheese Firefox（2021-03-01 86.0 正式版）](https://www.runningcheese.com/firefox)<br/>[‣ RunningCheese Firefox for Mac（2021-03-01 86.0 正式版）](https://www.runningcheese.com/firefox-for-mac) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 我对比特币的理解](https://blog.devtang.com/2021/02/23/talk-about-btc/)<br/>[‣ 华为手机 vs 苹果手机，我的一年评测对比报告](https://blog.devtang.com/2021/02/21/huawei-vs-apple/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 我在新加坡一个月的生活费明细](https://www.kawabangga.com/posts/4201)<br/>[‣ 写油猴脚本的传统艺能（Tampermonkey）- 教程](https://www.kawabangga.com/posts/4194) |
@@ -128,9 +128,9 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ 开源世界里的重要理念：上游优先（UpStream First）](https://my.oschina.net/lihuimingxs/blog/4977991)<br/>[‣ 鸿蒙内核源码分析(汇编汇总篇) \| 鸿蒙所有的汇编代码都在这里 \| 中文注解HarmonyOS源码 \| v40.01](https://my.oschina.net/weharmony/blog/4977924) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - 软件工艺师](http://www.cnblogs.com/cgzl/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ CNN结构演变总结（三）设计原则 - CV技术指南（公众号）](http://www.cnblogs.com/wxkang/p/14509189.html)<br/>[‣ 性能追击：万字长文30+图揭秘8大主流服务器程序线程模型 \| Node.js,Apache,Nginx,Netty,Redis,Tomcat,MySQL,Zuul - arthinking-itzhai](http://www.cnblogs.com/arthinking/p/14509130.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[問片\] 一部以妓女生活為主題的港片（已解決）](https://www.ptt.cc/bbs/movie/M.1615305781.A.DE9.html)<br/>[‣ \[新聞\] 布麗談《驚奇隊長》最難的動作戲與感情戲](https://www.ptt.cc/bbs/movie/M.1615305689.A.910.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[挑戰\] 出賣朋友（請鞭小力一點](https://www.ptt.cc/bbs/Beauty/M.1615313728.A.5EF.html)<br/>[‣ \[正妹\] 浪友](https://www.ptt.cc/bbs/Beauty/M.1615311679.A.9E1.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 一种通用超简单的Android Java Native方法Hook，无需依赖任何Hook框架](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1381225)<br/>[‣ 【春节】解题领红包之三 {Android 中级题}解题过程分享](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1380895) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[情報\] 2021 美國導演工會獎 入圍名單](https://www.ptt.cc/bbs/movie/M.1615315207.A.FB1.html)<br/>[‣ \[新聞\] 奧斯卡女星慘穿口香糖衣 「老娘演很大」](https://www.ptt.cc/bbs/movie/M.1615314463.A.489.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 瑜珈](https://www.ptt.cc/bbs/Beauty/M.1615314787.A.2AA.html)<br/>[‣ \[挑戰\] 出賣熟女姐姐（給她一點自信請鞭小力一點](https://www.ptt.cc/bbs/Beauty/M.1615313728.A.5EF.html) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
