@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-14 01:26:08)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-14 02:08:29)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2)<br/>[‣ 小雪腌菜大雪腌肉。年关将近可不就各种腌嘛榨菜头 萝卜干、腊肉  香肠通通挂起来！萝卜怎么落花成籽，埋种地下。怎么发芽，如何开花，怎样长大…这是《一生系列...](https://weibo.com/2970452952/JCpfQlIyF) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 实验室带你过周末：2021.3.13 - 3.14 上海篇](http://www.toodaylab.com/79611)<br/>[‣ 优衣库进军家居领域，以创新科技和品质面料重新定义居家生活](http://www.toodaylab.com/79610) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ hong9](https://www.behance.net/gallery/114639721/hong9)<br/>[‣ BANDO](https://www.behance.net/gallery/114461399/BANDO) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Illustration Play](https://www.behance.net/gallery/115287947/Illustration-Play)<br/>[‣ hong9](https://www.behance.net/gallery/114639721/hong9) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Kervin Brisseaux](https://medium.com/behance-blog/meet-this-months-guest-curator-kervin-brisseaux-55e5124c9382?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Christina Poku](https://medium.com/behance-blog/meet-this-months-guest-curator-christina-poku-ce518f15ec3c?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest announces new initiatives to fight against COVID-19 vaccine misinformation](https://newsroom.pinterest.com/en/post/pinterest-announces-new-initiatives-to-fight-against-covid-19-vaccine-misinformation)<br/>[‣ Pinterest hosted first-ever global advertiser summit “Pinterest Presents”](https://newsroom.pinterest.com/en/post/draft-pinterest-presents) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 为什么千万别随便学国外的极简设计？](https://www.uisdc.com/dont-study-minimalism)<br/>[‣ 2021年3月设计圈超实用干货大合集](https://www.uisdc.com/tools-for-designers-march-2021) |
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 463](https://weekly.pychina.org/issue/issue-463.html)<br/>[‣ Issue 462](https://weekly.pychina.org/issue/issue-462.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7 正式版已发布，你更新了吗？](https://www.wpdaxue.com/wordpress-5-7.html)<br/>[‣ WordPress 5.7 新功能一览（延迟加载、HTTPS、UI更新、新API等）](https://www.wpdaxue.com/new-features-of-wordpress-5-7.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 6 个最佳的 Git 仓库管理实践](https://linux.cn/article-13200-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 如何更新 openSUSE Linux 系统](https://linux.cn/article-13199-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 3000￥多的 人体工学 椅子 和 300 多的 有啥区别么？ 看上去几乎没啥区别呀？ 多出来的是品牌溢价吗](https://www.v2ex.com/t/761421#reply6)<br/>[‣ \[Apple\] Apple Music 上传的歌可以添加滚动歌词吗](https://www.v2ex.com/t/761420#reply1) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 3000￥多的 人体工学 椅子 和 300 多的 有啥区别么？ 看上去几乎没啥区别呀？ 多出来的是品牌溢价吗](https://www.v2ex.com/t/761421#reply14)<br/>[‣ \[Apple\] Apple Music 上传的歌可以添加滚动歌词吗](https://www.v2ex.com/t/761420#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《奇葩说》是怎么堕落到菜市场骂街的？ (评论: 奇葩说 第七季)](https://movie.douban.com/review/13316547/)<br/>[‣ 盘点那些狗血魔改——垃圾编剧小初Nada你不配8.6分 (评论: 山河令)](https://movie.douban.com/review/13315558/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 从赵婷、哈金获奖想到的 (评论: 等待)](https://book.douban.com/review/13296837/)<br/>[‣ 读《多样性团队》评“中印加勒万河谷冲突” (评论: 多样性团队)](https://book.douban.com/review/13305651/) |
@@ -128,8 +128,8 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ 实战 \| JAVA读取WORD，包含表格。](https://my.oschina.net/u/1388595/blog/4984169)<br/>[‣ 鸿蒙第三方组件——SwipeCaptcha滑动拼图验证组件](https://my.oschina.net/u/4857646/blog/4983679) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - 软件工艺师](http://www.cnblogs.com/cgzl/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ C# 通过ServiceStack 操作Redis——Set类型的使用及示例   - 明志德道](http://www.cnblogs.com/for-easy-fast/p/14531235.html)<br/>[‣ 单链表反转 - Ryan.Miao](http://www.cnblogs.com/woshimrf/p/link-node-inverse.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[好雷\] 迴路殺手](https://www.ptt.cc/bbs/movie/M.1615655857.A.DE7.html)<br/>[‣ Re: \[情報\] 「真三國無雙」真人版定檔預告](https://www.ptt.cc/bbs/movie/M.1615655541.A.C89.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 大學生/可愛/馬尾](https://www.ptt.cc/bbs/Beauty/M.1615656363.A.BC7.html)<br/>[‣ \[正妹\] 金栽經](https://www.ptt.cc/bbs/Beauty/M.1615656217.A.53B.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[討論\] 愛在午夜希臘時的小問題](https://www.ptt.cc/bbs/movie/M.1615659112.A.4BF.html)<br/>[‣ \[  普雷\] 弒樂園Willy's Wonderland](https://www.ptt.cc/bbs/movie/M.1615658924.A.355.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[帥哥\] 席維斯‧史特龍](https://www.ptt.cc/bbs/Beauty/M.1615658723.A.E88.html)<br/>[‣ \[正妹\] 馬光南希](https://www.ptt.cc/bbs/Beauty/M.1615657131.A.377.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 从项目中看BypassUAC和BypassAMSI](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1386972)<br/>[‣ 【春节】解题领红包之三 {Android 中级题}解题过程分享](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1380895) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
