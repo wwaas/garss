@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-13 14:07:31)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-13 15:06:20)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -24,18 +24,18 @@
 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
-| 反斗限免 | 反斗软件旗下软件限免资讯网站 | [订阅地址](https://free.apprcn.com/feed/) |  [‣ 免费获取游戏 Little Kite\[Windows\]](http://free.apprcn.com/get-game-little-kite-for-free/) |
+| 反斗限免 | 反斗软件旗下软件限免资讯网站 | [订阅地址](https://free.apprcn.com/feed/) |  [‣ 免费获取游戏 Little Kite\[Windows\]](http://free.apprcn.com/get-game-little-kite-for-free/)<br/>[‣ WinX DVD Copy Pro – DVD 备份软件\[Windows\]\[$49.95→0\]](http://free.apprcn.com/winx-dvd-copy-pro-29/) |
 | 不死鸟 | 不死鸟:专注分享优质资源 | [订阅地址](https://iao.su/feed) |  [‣ 网页在线工具汇总](https://iao.su/1492/)<br/>[‣ 软购商城 - Internet Download Manager - 官方正版限时限量特价！ IDM 永久版 / 89 元！](https://iao.su/3749/) |
 | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 | [订阅地址](https://xclient.info/feed) |  [‣ Cisdem Duplicate Finder 5.7.0 重复文件清理应用](https://xclient.info/s/cisdem-duplicate-finder.html)<br/>[‣ DxO PhotoLab 4 ELITE Edition 4.2.0.51 专业的raw图片处理工具](https://xclient.info/s/dxo-photolab.html) |
 | 老殁 | 免费推荐优秀软件 | [订阅地址](https://www.mpyit.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
-| 鹏少资源网 | 专注于精品软件收录分享 | [订阅地址](https://www.jokerps.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 鹏少资源网 | 专注于精品软件收录分享 | [订阅地址](https://www.jokerps.com/feed) |  [‣ Thunderbird](https://www.jokerps.com/6036.html)<br/>[‣ QuickLook](https://www.jokerps.com/6032.html) |
 | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [订阅地址](https://www.appinn.com/feed/) | [‣ 同时连接网线和 Wi-Fi，如何优先使用 Wi-Fi？试试接口跃点数](https://www.appinn.com/wi-fi-or-lan/)<br/>[‣ Waterful 喝水宝！- 是时候提醒喝水了\[iPhone/Android\]](https://www.appinn.com/waterful-for-iphone-and-android/) |
 | <h2 id="个人博客">个人博客</h2> |  |   |  |
 | 阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) | [‣ 科技爱好者周刊（第 149 期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)<br/>[‣ 科技爱好者周刊（第 148 期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html) |
 | 当我在扯淡 | 王垠的博客，观点奇妙有趣 | [订阅地址](https://yinwang1.wordpress.com/feed/) | [‣ 饭店的服务质量问题](https://yinwang1.wordpress.com/2021/03/05/%e9%a5%ad%e5%ba%97%e7%9a%84%e6%9c%8d%e5%8a%a1%e8%b4%a8%e9%87%8f%e9%97%ae%e9%a2%98/)<br/>[‣ Classic 时代的音乐](https://yinwang1.wordpress.com/2021/02/10/classic-%e6%97%b6%e4%bb%a3%e7%9a%84%e9%9f%b3%e4%b9%90/) |
 | 黑果小兵的部落阁 | Hackintosh安装镜像、教程及经验分享| [订阅地址](https://blog.daliansky.net/atom.xml) | [‣ 【黑果小兵】【微信首发】macOS Big Sur 11.2.2 20D80 Installer for OpenCore 0.6.7 and CLOVER 5131 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.2.2-20D80-Release-version-with-OC-0.6.7-and-Clover-5131-and-PE-original-image.html)<br/>[‣ 【黑果小兵】【微信首发】macOS Big Sur 11.2.3 20D91 Installer for OpenCore 0.6.7 and CLOVER 5131 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.2.3-20D91-Release-version-with-OC-0.6.7-and-Clover-5131-and-PE-original-image.html) |
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 使用CSS text-combine-upright实现字符的横向合并](https://www.zhangxinxu.com/wordpress/2021/02/css-text-combine-upright/)<br/>[‣ CSS line-break属性与中文标点换行](https://www.zhangxinxu.com/wordpress/2021/02/css-line-break/) |
-| V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 如何识别视频中的中文语音并导出标准srt字幕文件?](https://v2fy.com/p/2021-03-10-premiere-1615356371000/)<br/>[‣ 如何优雅获取B站壁纸？](https://v2fy.com/p/2021-03-09-bilibili-paper-1615269784000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ ShockHosting - 新增新加坡VPS主机 2GB内存 30GB SSD 月费$4.99](https://www.laozuo.org/18583.html)<br/>[‣ AlphaVPS - 保加利亚VPS主机 512MB内存 128GB大硬盘 €15/年](https://www.laozuo.org/18578.html) |
 | FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Stronghold: Warlords Trainer](https://flingtrainer.com/trainer/stronghold-warlords-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=stronghold-warlords-trainer)<br/>[‣ Curse of the Dead Gods Trainer](https://flingtrainer.com/trainer/curse-of-the-dead-gods-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=curse-of-the-dead-gods-trainer) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ RunningCheese Chrome（2021-03-10 89.0 稳定版）](https://www.runningcheese.com/chrome)<br/>[‣ RunningCheese Edge (2021-03-10 89.0 稳定版)](https://www.runningcheese.com/edge) |
@@ -75,7 +75,7 @@
 | 文三娃| 网络上甘岭战区候任参谋长 | [订阅地址](https://wentommy.wordpress.com/feed/) | [‣ 环球节律赏析](https://wentommy.wordpress.com/2019/08/19/%e7%8e%af%e7%90%83%e8%8a%82%e5%be%8b%e8%b5%8f%e6%9e%90/)<br/>[‣ 胡侃偶记之『推特篇』](https://wentommy.wordpress.com/2019/06/01/%e8%83%a1%e4%be%83%e5%81%b6%e8%ae%b0%e4%b9%8b%e3%80%8e%e6%8e%a8%e7%89%b9%e7%af%87%e3%80%8f/) |
 | <h2 id="数码">数码</h2> |  |   |  |
 | 少数派 | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质 | [订阅地址](https://sspai.com/feed) | [‣ 一周游戏见闻：微软收购 B 社、Switch 要出 Pro 版？](https://sspai.com/post/65495)<br/>[‣ 本周看什么｜最近值得一看的 7 部作品](https://sspai.com/post/65490) |
-| 数字尾巴 | 分享美好数字生活 | [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | [‣ 银欣Alta-F1装机show-微星Z590暗黑板/影驰3060/海韵Focus](http://www.dgtle.com/article-1643457-1.html)<br/>[‣ 到咖啡店拍摄开店的人 一言不合就开始做咖啡](http://www.dgtle.com/article-1643445-1.html) |
+| 数字尾巴 | 分享美好数字生活 | [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | [‣ Gyeonlee 作品分享：富士X-E4 人像拍摄](http://www.dgtle.com/article-1643347-1.html)<br/>[‣ 银欣Alta-F1装机show-微星Z590暗黑板/影驰3060/海韵Focus](http://www.dgtle.com/article-1643457-1.html) |
 | Chiphell  | 分享与交流用户体验 | [订阅地址](https://www.chiphell.com/portal.php?mod=rss)  | [‣ 这次不聊HIFI搭配，这次只想聊聊Astell&Kern SA700 Vegas Gold](https://www.chiphell.com/article-25182-1.html)<br/>[‣ 美容仪届的爱马仕——Dr.Arrivo ZeusⅡ 宙斯二代美容仪](https://www.chiphell.com/article-25181-1.html) |
 | <h2 id="IT团队博客">IT团队博客</h2> |  |   |  |
 | AlloyTeam | 腾讯全端AlloyTeam团队的技术博客 | [订阅地址](http://www.alloyteam.com/feed/) | [‣ 深入学习定时器](http://www.alloyteam.com/2021/03/15389/)<br/>[‣ 提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) |
@@ -115,26 +115,26 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 同时连接网线和 Wi-Fi，如何优先使用 Wi-Fi？试试接口跃点数](https://www.appinn.com/wi-fi-or-lan/)<br/>[‣ Waterful 喝水宝！- 是时候提醒喝水了\[iPhone/Android\]](https://www.appinn.com/waterful-for-iphone-and-android/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 国际电信联盟：2020年全球电子垃圾报告](https://www.199it.com/archives/1214434.html)<br/>[‣ 联合国粮农组织：农业食品行业中区块链应用的新机遇](https://www.199it.com/archives/1215931.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 一加 9/9 Pro 获 3C 认证：全系标配 65W 快充 + 4500mAh 双电芯](https://www.ithome.com/0/539/832.htm)<br/>[‣ 中核集团开展新冠病毒辐照灭活实验，将用于进口冷链食品消杀](https://www.ithome.com/0/539/830.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 谷歌 ARCore 泄露大量未上市手机型号：OPPO Reno 5 Pro+ 5G Bosch、华硕 ZenFone 8 Flip 在列](https://www.ithome.com/0/539/843.htm)<br/>[‣ 为上海工厂产能扩张做准备，特斯拉中国加码提升零部件产能](https://www.ithome.com/0/539/842.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/)<br/>[‣ HelloGitHub 第 58 期](https://hellogithub.com/periodical/volume/58/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 463](https://weekly.pychina.org/issue/issue-463.html)<br/>[‣ Issue 462](https://weekly.pychina.org/issue/issue-462.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7 正式版已发布，你更新了吗？](https://www.wpdaxue.com/wordpress-5-7.html)<br/>[‣ WordPress 5.7 新功能一览（延迟加载、HTTPS、UI更新、新API等）](https://www.wpdaxue.com/new-features-of-wordpress-5-7.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 如何更新 openSUSE Linux 系统](https://linux.cn/article-13199-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 \| 吴晟当选首位华人 Apache 软件基金会董事](https://linux.cn/article-13198-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享创造\] 敏感词检查 API](https://www.v2ex.com/t/761283#reply4)<br/>[‣ \[问与答\] 电视机坏了，怎么处置比较好？](https://www.v2ex.com/t/761281#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[酷工作\] \[杭州\]东南亚跨境综合服务商来赞宝扩招，感兴趣的小伙伴找我内推啊!](https://www.v2ex.com/t/761297#reply0)<br/>[‣ \[程序员\] 有没有好用的 gateway 推荐.](https://www.v2ex.com/t/761296#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 8.6分唯独不属于垃圾编剧小初Nada，盘点那些无耻魔改 (评论: 山河令)](https://movie.douban.com/review/13315558/)<br/>[‣ 二刷后的一些感受 (评论: 锈与骨)](https://movie.douban.com/review/13316271/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 从赵婷、哈金获奖想到的 (评论: 等待)](https://book.douban.com/review/13296837/)<br/>[‣ 读《多样性团队》评“中印加勒万河谷冲突” (评论: 多样性团队)](https://book.douban.com/review/13305651/) |
-| 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 关于WISEFAKE这个项目第一次发专辑的事 (评论: constants)](https://music.douban.com/review/13300495/)<br/>[‣ ROSÉ新专辑，有人要失望了？ (评论: -R-)](https://music.douban.com/review/13316338/) |
+| 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ “为了人间壮美的沦亡”——《冀西南林路行》的现代性寓言 (评论: 冀西南林路行)](https://music.douban.com/review/13303377/)<br/>[‣ 关于WISEFAKE这个项目第一次发专辑的事 (评论: constants)](https://music.douban.com/review/13300495/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ 实战 \| JAVA读取WORD，包含表格。](https://my.oschina.net/u/1388595/blog/4984169)<br/>[‣ 鸿蒙第三方组件——SwipeCaptcha滑动拼图验证组件](https://my.oschina.net/u/4857646/blog/4983679) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - 软件工艺师](http://www.cnblogs.com/cgzl/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 代码审查：从 ArrayList 说线程安全 - mzlogin](http://www.cnblogs.com/mazhuang/p/14528527.html)<br/>[‣ Java 并发编程之 Condition 接口 - 低吟不作语](http://www.cnblogs.com/Yee-Q/p/14528487.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[問片\] 韓國黑道電影](https://www.ptt.cc/bbs/movie/M.1615615714.A.212.html)<br/>[‣ \[情報\] 2021 法國 凱薩獎 得獎名單](https://www.ptt.cc/bbs/movie/M.1615614267.A.D52.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 蝴蝶結](https://www.ptt.cc/bbs/Beauty/M.1615611195.A.52B.html)<br/>[‣ \[正妹\] 網路閨蜜Skimmy](https://www.ptt.cc/bbs/Beauty/M.1615606654.A.1E3.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 新人第一次逆向CS生成exe木马](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1380480)<br/>[‣ InfinityHook 事件逆向](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1379718) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ MyBatis(九):MyBatis类型处理器(TypeHandler)详解 - 列兵许三多](http://www.cnblogs.com/rangers-sun/p/14528712.html)<br/>[‣ 封装和继承 - LemonSquash](http://www.cnblogs.com/npeng/p/14338693.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 迴路殺手](https://www.ptt.cc/bbs/movie/M.1615616957.A.47D.html)<br/>[‣ \[普好雷\] 醉好的時光](https://www.ptt.cc/bbs/movie/M.1615616834.A.004.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] Lily](https://www.ptt.cc/bbs/Beauty/M.1615616686.A.D46.html)<br/>[‣ \[正妹\] 蝴蝶結](https://www.ptt.cc/bbs/Beauty/M.1615611195.A.52B.html) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 罗莎的婚礼 高清](https://bukaivip.com/index.php/vod/detail/id/48184.html)<br/>[‣ 武动天地 高清](https://bukaivip.com/index.php/vod/detail/id/48183.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 且看《阿米蒂奇档案》带来的坡起级挑战，如何在克总的世界历练剐蹭](https://www.gcores.com/articles/134905)<br/>[‣ 《尼尔RE in Carnation》：被游戏框架拖了后腿的偏科选手](https://www.gcores.com/articles/134893) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 有关桌游出版商被恶意注册商标，这些是我的想法](https://www.gcores.com/articles/134880)<br/>[‣ 且看《阿米蒂奇档案》带来的坡起级挑战，如何在克总的世界历练剐蹭](https://www.gcores.com/articles/134905) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 在欧美，数十万人不相信鸟是真的](https://www.yystv.cn/p/7695)<br/>[‣ 【白夜谈】多邻国让应试教育又赢了一次](https://www.yystv.cn/p/7697) |
