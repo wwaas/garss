@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-15 02:07:15)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-15 03:05:19)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价《一人之下》第 517（549）话？](http://www.zhihu.com/question/448865505/answer/1776172894?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价游戏《帕斯卡契约：终极版》登陆 Steam，PC 体验如何？](http://www.zhihu.com/question/448228653/answer/1776086834?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Swifty – 免费、离线、开源的简易密码管理器](https://www.appinn.com/swifty-free-online-password-manager/)<br/>[‣ 同时连接网线和 Wi-Fi，如何优先使用 Wi-Fi？试试接口跃点数](https://www.appinn.com/wi-fi-or-lan/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 企业数字化联盟&D1Net：2021数字化转型白皮书（附下载）](https://www.199it.com/archives/1216297.html)<br/>[‣ 36氪研究院：2021年中国剧本杀行业研究报告（附下载）](https://www.199it.com/archives/1216238.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Dealroom：2020年全球教育科技风险投资同比增长94%](https://www.199it.com/archives/1215773.html)<br/>[‣ Mob研究院：2021中国『95后』女性洞察报告（附下载）](https://www.199it.com/archives/1216268.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 微软 Edge 浏览器好评如潮，这几款简单实用的拓展插件安利给你](https://www.ithome.com/0/539/976.htm)<br/>[‣ 4999 元起，RedmiBook Pro 15 今日开售：3.2K 90Hz 屏、11 代酷睿、小爱同学](https://www.ithome.com/0/539/975.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/)<br/>[‣ HelloGitHub 第 58 期](https://hellogithub.com/periodical/volume/58/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 463](https://weekly.pychina.org/issue/issue-463.html)<br/>[‣ Issue 462](https://weekly.pychina.org/issue/issue-462.html) |
@@ -134,7 +134,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 爱的理想生活 更新到24集](https://bukaivip.com/index.php/vod/detail/id/47865.html)<br/>[‣ 青春有你第三季 20210314期](https://bukaivip.com/index.php/vod/detail/id/47509.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ HIStory4-近距离爱上你 更新到02集](https://bukaivip.com/index.php/vod/detail/id/48237.html)<br/>[‣ 爱的理想生活 更新到24集](https://bukaivip.com/index.php/vod/detail/id/47865.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ “夜城迷梦” 奖项公布（文本创作类） 杰作汇聚，远超预期](https://www.gcores.com/radios/134929)<br/>[‣ 轻科幻丨伞中圣途（节一）：陆网](https://www.gcores.com/articles/134892) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 《天地劫》是如何提高手游剧情沉浸感的](https://www.yystv.cn/p/7698)<br/>[‣ 在欧美，数十万人不相信鸟是真的](https://www.yystv.cn/p/7695) |
