@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-23 04:07:13)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-23 05:06:32)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2)<br/>[‣ 小雪腌菜大雪腌肉。年关将近可不就各种腌嘛榨菜头 萝卜干、腊肉  香肠通通挂起来！萝卜怎么落花成籽，埋种地下。怎么发芽，如何开花，怎样长大…这是《一生系列...](https://weibo.com/2970452952/JCpfQlIyF) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 今日消费资讯：Louis Vuitton 重庆星光 68 广场店开幕、夏普全新 Q 系电视开卖](http://www.toodaylab.com/79634)<br/>[‣ 每周鞋报：“死亡之吻”再迎新配色；A BATHING APE x New Balance 2002R 袭来](http://www.toodaylab.com/79638) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ MUUS ? an extraordinary patisserie](https://www.behance.net/gallery/114304427/MUUS-an-extraordinary-patisserie)<br/>[‣ INFLUENCERS](https://www.behance.net/gallery/114830481/INFLUENCERS) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ DEEP](https://www.behance.net/gallery/115931545/DEEP)<br/>[‣ MUUS ? an extraordinary patisserie](https://www.behance.net/gallery/114304427/MUUS-an-extraordinary-patisserie) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Lisa Odette Butean](https://medium.com/behance-blog/meet-this-months-guest-curator-lisa-odette-butean-dd2d1cb00738?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Kervin Brisseaux](https://medium.com/behance-blog/meet-this-months-guest-curator-kervin-brisseaux-55e5124c9382?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest expands the skin tone range feature to more countries](https://newsroom.pinterest.com/en/post/pinterest-expands-the-skin-tone-range-feature-to-more-countries)<br/>[‣ Pinterest announces new initiatives to fight against COVID-19 vaccine misinformation](https://newsroom.pinterest.com/en/post/pinterest-announces-new-initiatives-to-fight-against-covid-19-vaccine-misinformation) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 如何正确使用样机素材，才能让你的作品集脱颖而出？](https://www.uisdc.com/proper-use-of-prototype)<br/>[‣ 壹周速读：在这里跟着 Dribbble 大神学设计](https://www.uisdc.com/quick-reading-weekly-vol96) |
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 464](https://weekly.pychina.org/issue/issue-464.html)<br/>[‣ Issue 463](https://weekly.pychina.org/issue/issue-463.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.2 添加导航间隔、模板部件分类，并引入查询块模式](https://www.wpdaxue.com/gutenberg-10-2.html)<br/>[‣ WordPress 将计划放弃对 IE11 的支持，你怎么看？](https://www.wpdaxue.com/discussion-dropping-support-for-ie11.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ Kooha：一款支持 Wayland 的新生 GNOME 屏幕录像机](https://linux.cn/article-13227-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 《代码英雄》第四季（1）：小型机 —— 旧机器的灵魂](https://linux.cn/article-13226-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 现在还用 Eclipse 系 IDE 的人还多不多？](https://www.v2ex.com/t/764100#reply2)<br/>[‣ \[macOS\] 有没有支持 macos apple m1 下的下载软件，](https://www.v2ex.com/t/764099#reply4) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享发现\] 火星? github page 更新文件后, 很久才刷新, 似乎是维护中](https://www.v2ex.com/t/764104#reply0)<br/>[‣ \[问与答\] V 友们大家好，请问对于稍有基础的程序员，应该如何快速入门 Java ？](https://www.v2ex.com/t/764103#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ DCEU结束了，爷的青春也结束了 (评论: 扎克·施奈德版正义联盟)](https://movie.douban.com/review/13336159/)<br/>[‣ 写给无脑黑的人 (评论: 扎克·施奈德版正义联盟)](https://movie.douban.com/review/13327308/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 私人意见：我不会再被余华的新书感动了 (评论: 文城)](https://book.douban.com/review/13305311/)<br/>[‣ 从赵婷、哈金获奖想到的 (评论: 等待)](https://book.douban.com/review/13296837/) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ 一套亿级用户的IM架构技术干货(下篇)：可靠性、有序性、弱网优化等](https://my.oschina.net/u/4231722/blog/4994430)<br/>[‣ 开源初学者指南（二）：怎样才是一个优秀的开源贡献者](https://my.oschina.net/yubandidi/blog/4993985) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - 软件工艺师](http://www.cnblogs.com/cgzl/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 文件上传漏洞全面渗透姿势总结 - wolfshadow](http://www.cnblogs.com/TomDwan/p/14550984.html)<br/>[‣ RPC 框架设计 - ice_image](http://www.cnblogs.com/ice-image/p/14554250.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[吐槽負雷\] 哥吉拉對金剛](https://www.ptt.cc/bbs/movie/M.1616439668.A.CA0.html)<br/>[‣ \[好雷\] 查克史奈德之正義聯盟 ZSJL，薪火相傳](https://www.ptt.cc/bbs/movie/M.1616432354.A.BB5.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[雷\] DCEU原上映順序及劇情安排討論](https://www.ptt.cc/bbs/movie/M.1616445707.A.94F.html)<br/>[‣ \[吐槽負雷\] 哥吉拉對金剛](https://www.ptt.cc/bbs/movie/M.1616439668.A.CA0.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[神人\]  珐爾桌遊店員](https://www.ptt.cc/bbs/Beauty/M.1616440247.A.176.html)<br/>[‣ \[正妹\] 一毛不拔的金髮正妹](https://www.ptt.cc/bbs/Beauty/M.1616418489.A.393.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
