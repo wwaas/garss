@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-24 06:07:29)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-24 07:06:47)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -91,7 +91,7 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Apple expands free professional learning to help teachers champion creativity](https://www.apple.com/newsroom/2021/03/apple-expands-free-professional-learning-to-help-teachers-champion-creativity/)<br/>[‣ Caria app helps debunk the myths of menopause](https://www.apple.com/newsroom/2021/03/caria-app-helps-debunk-the-myths-of-menopause/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ Model3变机械海豚，不打孔如何进行外观改装？](http://www.huxiu.com/article/416942.html?f=wangzhan)<br/>[‣ 我和宝马集团 CTO，聊了聊 4 年后的事儿](http://www.huxiu.com/article/416952.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 最前线丨同程旅行2020年营收59亿，经调利润9.54亿](https://36kr.com/p/1150648417699201)<br/>[‣ 创投日报 \| 「岸迈生物」完成1.2亿美元C轮融资；「艾上AI」获得近亿元融资；以及今天值得关注的早期项目](https://36kr.com/p/1150317135512961) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 联发科全新 5G 旗舰报价大幅提升，三星电子将向日本最大移动运营商提供5G设备\| 36氪5G日报0323](https://36kr.com/p/1150348902991238)<br/>[‣ 最前线丨同程旅行2020年营收59亿，经调利润9.54亿](https://36kr.com/p/1150648417699201) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ 带你读论文 \| 微软亚洲研究院高被引论文不完全清单（上篇）](https://www.msra.cn/zh-cn/news/features/paperdigest-paper-list)<br/>[‣ 微软AI系统刷新美国司法学院入学考试逻辑推理纪录](https://www.msra.cn/zh-cn/news/features/reclor) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ 拳打「韩流」脚踢「日系」，中国美妆是怎么崛起的？](http://www.geekpark.net/news/275388)<br/>[‣ 100 亿美元，微软收购了一个有 3 亿人口的「互联网社会」](http://www.geekpark.net/news/275429) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ tabExtend – 用「新标签页」管理多标签页，还可以添加备注、ToDo\[Chrome/Firefox\]](https://www.appinn.com/tabextend/)<br/>[‣ 秘塔写作猫是如何拯救错别字大王的](https://www.appinn.com/xiezuocat/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ IAB：2020年网络广告生态系统报告](https://www.199it.com/archives/1220601.html)<br/>[‣ 普华永道：机遇之城2021](https://www.199it.com/archives/1220990.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苹果 iPhone 13 前面板曝光，刘海更小，听筒在顶部](https://www.ithome.com/0/541/792.htm)<br/>[‣ 一加智能手表 OnePlus Watch 发布：支持 NFC 与血氧检测，充电 20 分钟续航一周](https://www.ithome.com/0/541/791.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 英国王子到硅谷打工：需要养家还房贷](https://www.ithome.com/0/541/804.htm)<br/>[‣ 三星研发 “双折”手机：Note 系列改折叠，能否逆转颓势](https://www.ithome.com/0/541/803.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/)<br/>[‣ HelloGitHub 第 58 期](https://hellogithub.com/periodical/volume/58/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 464](https://weekly.pychina.org/issue/issue-464.html)<br/>[‣ Issue 463](https://weekly.pychina.org/issue/issue-463.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.2 添加导航间隔、模板部件分类，并引入查询块模式](https://www.wpdaxue.com/gutenberg-10-2.html)<br/>[‣ WordPress 将计划放弃对 IE11 的支持，你怎么看？](https://www.wpdaxue.com/discussion-dropping-support-for-ie11.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 在 Firefox 上使用 WebAssembly 要了解的 6 件事](https://linux.cn/article-13230-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 使用 Grafana Tempo 进行分布式跟踪](https://linux.cn/article-13229-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] Android 是否有类似 iOS 的 servercat 
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Android\] Android 是否有类似 iOS 的 servercat 
 软件？难道 Android 除了 juice ssh 可以实现类似的效果就没有别的可以吗？](https://www.v2ex.com/t/764457#reply1)<br/>[‣ \[天黑以后\] 20210324 午夜俱乐部](https://www.v2ex.com/t/764456#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ DCEU结束了，爷的青春也结束了 (评论: 扎克·施奈德版正义联盟)](https://movie.douban.com/review/13336159/)<br/>[‣ 似美还似静，大宋宫词何至于此？ (评论: 大宋宫词)](https://movie.douban.com/review/13336251/) |
@@ -137,5 +137,5 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 限时营救 超清](https://bukaivip.com/index.php/vod/detail/id/48520.html)<br/>[‣ 灵剑尊 更新至160集/共200集](https://bukaivip.com/index.php/vod/detail/id/9782.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 在那个蛮荒的时代，我们就这样进入了漫画和动画的世界](https://www.gcores.com/radios/135321)<br/>[‣ 全新光照系统：《美洲卡车模拟》1.4版本现已实装](https://www.gcores.com/articles/135314) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 一个科研工作者的硬核《动森》之旅](https://www.gcores.com/articles/135310)<br/>[‣ 在那个蛮荒的时代，我们就这样进入了漫画和动画的世界](https://www.gcores.com/radios/135321) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ ​速通玩家正在《辐射3》里练习如何最快“吃小孩”](https://www.yystv.cn/p/7726)<br/>[‣ 因为XGP版游戏体验更好，《尼尔：机械纪元》Steam版遭到差评轰炸](https://www.yystv.cn/p/7725) |
