@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-26 04:12:00)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-26 05:10:37)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2)<br/>[‣ 小雪腌菜大雪腌肉。年关将近可不就各种腌嘛榨菜头 萝卜干、腊肉  香肠通通挂起来！萝卜怎么落花成籽，埋种地下。怎么发芽，如何开花，怎样长大…这是《一生系列...](https://weibo.com/2970452952/JCpfQlIyF) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 《黑寡妇》再次延期，迪士尼也选择院线和流媒体同步上映了](http://www.toodaylab.com/79646)<br/>[‣ 全面顶配加上哈苏加持，一加 9 系列正式发布](http://www.toodaylab.com/79645) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Sesi; Four Seasons Characters](https://www.behance.net/gallery/115674539/Sesi-Four-Seasons-Characters)<br/>[‣ The Coolest Man You Know®](https://www.behance.net/gallery/115792679/The-Coolest-Man-You-Know) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Staring at Buildings II](https://www.behance.net/gallery/116031753/Staring-at-Buildings-II)<br/>[‣ Sesi; Four Seasons Characters](https://www.behance.net/gallery/115674539/Sesi-Four-Seasons-Characters) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Lisa Odette Butean](https://medium.com/behance-blog/meet-this-months-guest-curator-lisa-odette-butean-dd2d1cb00738?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Kervin Brisseaux](https://medium.com/behance-blog/meet-this-months-guest-curator-kervin-brisseaux-55e5124c9382?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest expands the skin tone range feature to more countries](https://newsroom.pinterest.com/en/post/pinterest-expands-the-skin-tone-range-feature-to-more-countries)<br/>[‣ Pinterest announces new initiatives to fight against COVID-19 vaccine misinformation](https://newsroom.pinterest.com/en/post/pinterest-announces-new-initiatives-to-fight-against-covid-19-vaccine-misinformation) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 底部标签导航有哪些设计形式？来看这篇超全总结！](https://www.uisdc.com/bottom-label-design)<br/>[‣ 大厂都在用的目标导向设计，快来学会！](https://www.uisdc.com/goal-oriented-design) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 剑盾双打宝可梦分析·铁螯龙虾](http://zhuanlan.zhihu.com/p/358201432?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 特斯拉 Model Y 在哪些方面是最有可能翻车的？](http://www.zhihu.com/question/442501004/answer/1794481067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ SwitchDesktop – 为 Windows 10 多桌面切换添加 Win + 数字快捷键](https://www.appinn.com/switchdesktop-ahk-windows-10/)<br/>[‣ Just Focus 2.0 – 免费的标准番茄钟与全屏休息工具\[macOS\]](https://www.appinn.com/just-focus-2-0/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ IBM：一张蓝图九大行动领域，实现AI赋能的企业转型（附下载）](https://www.199it.com/archives/1016195.html)<br/>[‣ 文化科技融合2021：迈向数字文化经济时代报告（附下载）](https://www.199it.com/archives/1219762.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 联合国贸发会议：2021年技术与创新报告](https://www.199it.com/archives/1221760.html)<br/>[‣ 人民银行：2020年支付体系运行总体情况报告](https://www.199it.com/archives/1221813.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ DigiTimes：供应商开始供货，苹果新 AirPods 有望在第三季度推出](https://www.ithome.com/0/542/275.htm)<br/>[‣ 2999/3299 元，荣耀 V40 轻奢版今日开卖：轻薄超曲屏、66W 超级快充](https://www.ithome.com/0/542/274.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/)<br/>[‣ HelloGitHub 第 58 期](https://hellogithub.com/periodical/volume/58/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 465](https://weekly.pychina.org/issue/issue-465.html)<br/>[‣ Issue 464](https://weekly.pychina.org/issue/issue-464.html) |
@@ -127,14 +127,14 @@
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ Pitchfork三千字高深乐评翻译：Lana的美国性 (评论: Chemtrails Over The Country Club)](https://music.douban.com/review/13330216/)<br/>[‣ 王源——与时代共频的歌者 (评论: 姐姐)](https://music.douban.com/review/13325315/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ 关于AJAX（你一定要知道的秘密）](https://my.oschina.net/u/4615818/blog/4997893)<br/>[‣ 数据结构与算法的实际应用——根据表关系构建SQL语句](https://my.oschina.net/windlively/blog/4997870) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - 软件工艺师](http://www.cnblogs.com/cgzl/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 来了阿里终于知道专科如何进大厂 - 安琪拉的博客](http://www.cnblogs.com/guofuangela/p/14580137.html)<br/>[‣ 目前最火的Java主流技术栈及开发工具 - 悟_dskq](http://www.cnblogs.com/wudskq/p/14567382.html) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 来了阿里终于知道专科如何进大厂 - 安琪拉的博客](http://www.cnblogs.com/guofuangela/p/14580137.html)<br/>[‣ 目前最火的Java主流技术栈及开发工具 - 九尾鸣人](http://www.cnblogs.com/wudskq/p/14567382.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[ 無雷\]  還我日本哥吉拉啊](https://www.ptt.cc/bbs/movie/M.1616692348.A.FF9.html)<br/>[‣ \[普好雷\] 我的親親小妹](https://www.ptt.cc/bbs/movie/M.1616692170.A.133.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 唱歌好聽](https://www.ptt.cc/bbs/Beauty/M.1616690771.A.96B.html)<br/>[‣ \[神人\] 網路部落格看到的女生](https://www.ptt.cc/bbs/Beauty/M.1616688906.A.7AF.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 从零开始pwn掉一台古董路由器](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1400371)<br/>[‣ \[HeapLab学习\] House of Force](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1399142) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] Olivia Culpo](https://www.ptt.cc/bbs/Beauty/M.1616705292.A.3B1.html)<br/>[‣ \[正妹\] 唱歌好聽](https://www.ptt.cc/bbs/Beauty/M.1616690771.A.96B.html) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 长安幻街 更新至28集/共40集](https://bukaivip.com/index.php/vod/detail/id/45689.html)<br/>[‣ 我是大神仙 更新至21集/共32集](https://bukaivip.com/index.php/vod/detail/id/43284.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 唯我独神 更新至17集/共50集](https://bukaivip.com/index.php/vod/detail/id/46955.html)<br/>[‣ 长安幻街 更新至28集/共40集](https://bukaivip.com/index.php/vod/detail/id/45689.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《John Wick》导演将执导《对马岛之魂》游戏改编电影](https://www.gcores.com/articles/135000)<br/>[‣ 【节目变更通知】下周节目预告3.22~3.28](https://www.gcores.com/articles/135203) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 【白夜谈】一条玩宝可梦的鱼去世了](https://www.yystv.cn/p/7735)<br/>[‣ 奥妮克希亚在魔兽怀旧服又遭新姿势迫害，被两名玩家完成击杀](https://www.yystv.cn/p/7734) |
