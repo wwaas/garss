@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-26 03:22:56)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-26 04:12:00)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)<br/>[‣ CSS line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 100《Volume master》完美控制每个网页的音量](https://v2fy.com/p/100-volume-master-2021-03-25/)<br/>[‣ 将iPad折腾为台式机的调色扩展屏幕](https://v2fy.com/p/2021-03-24-ipad-power-1616550808000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ 微微云VVY香港沙田CN2云服务器评测](https://www.laozuo.org/18714.html)<br/>[‣ KhanWebHost - 巴基斯坦主机商提供德国/英国/美国VPS 月$4.5](https://www.laozuo.org/18709.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ NieR: Automata Trainer](https://flingtrainer.com/trainer/nier-automata-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=nier-automata-trainer)<br/>[‣ Big Bia Trainer](https://flingtrainer.com/trainer/big-bia-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=big-bia-trainer) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ RunningCheese Chrome（2021-03-10 89.0 稳定版）](https://www.runningcheese.com/chrome)<br/>[‣ RunningCheese Edge (2021-03-10 89.0 稳定版)](https://www.runningcheese.com/edge) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 码农装逼菜谱 (二) - 麻辣香锅](https://blog.devtang.com/2021/03/20/the-food-of-mlxg/)<br/>[‣ 码农装逼菜谱 (一) - 糖醋排骨](https://blog.devtang.com/2021/03/20/the-food-of-tcpg/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 瞎扯：软件的分层](https://www.kawabangga.com/posts/4199)<br/>[‣ 我在新加坡一个月的生活费明细](https://www.kawabangga.com/posts/4201) |
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 465](https://weekly.pychina.org/issue/issue-465.html)<br/>[‣ Issue 464](https://weekly.pychina.org/issue/issue-464.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.2 添加导航间隔、模板部件分类，并引入查询块模式](https://www.wpdaxue.com/gutenberg-10-2.html)<br/>[‣ WordPress 将计划放弃对 IE11 的支持，你怎么看？](https://www.wpdaxue.com/discussion-dropping-support-for-ie11.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 数据显示 QQ 用户数一年间减少 5000 多万](https://linux.cn/article-13235-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 使用 gdu 进行更快的磁盘使用情况检查](https://linux.cn/article-13234-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 请问有挖矿教程吗](https://www.v2ex.com/t/765230#reply3)<br/>[‣ \[程序员\] Mr.2 帮助你将本地端口暴露在外网.支持 TCP/UDP \[ 增加 httpsserver 和 httpsclient \]](https://www.v2ex.com/t/765229#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 电信限速真恶心](https://www.v2ex.com/t/765231#reply0)<br/>[‣ \[问与答\] 请问有挖矿教程吗](https://www.v2ex.com/t/765230#reply5) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ DCEU结束了，爷的青春也结束了 (评论: 扎克·施奈德版正义联盟)](https://movie.douban.com/review/13336159/)<br/>[‣ 众生皆苦，有情皆孽，唯有你是苹果味的——评张哲瀚版周子舒 (评论: 山河令)](https://movie.douban.com/review/13339870/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 私人意见：我不会再被余华的新书感动了 (评论: 文城)](https://book.douban.com/review/13305311/)<br/>[‣ 悬停、消解与即兴 (评论: 伊春)](https://book.douban.com/review/13331388/) |
