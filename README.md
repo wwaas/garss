@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-31 02:26:50)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-03-31 03:17:03)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 465](https://weekly.pychina.org/issue/issue-465.html)<br/>[‣ Issue 464](https://weekly.pychina.org/issue/issue-464.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress主题开发基础：Body 类指南](https://www.wpdaxue.com/wordpress-theme-development-body-class-guide.html)<br/>[‣ Gutenberg 10.2 添加导航间隔、模板部件分类，并引入查询块模式](https://www.wpdaxue.com/gutenberg-10-2.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 用一个开源工具实现多线程 Python 程序的可视化](https://linux.cn/article-13253-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 学习如何用 C 语言来进行文件输入输出操作](https://linux.cn/article-13252-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[酷工作\] \[上海\] 麦淘亲子，急招 Java 攻城狮](https://www.v2ex.com/t/766689#reply0)<br/>[‣ \[分享创造\] IFTTT 无法正常工作的问题](https://www.v2ex.com/t/766688#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Python\] pyplot 怎么输出 svg 代码？](https://www.v2ex.com/t/766690#reply0)<br/>[‣ \[酷工作\] \[上海\] 麦淘亲子，急招 Java 攻城狮](https://www.v2ex.com/t/766689#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 吹爆《哥斯拉大战金刚》之前，先看看两只怪兽怎么打起来的 (评论: 哥斯拉大战金刚)](https://movie.douban.com/review/13347843/)<br/>[‣ 【TNABO】解构怪兽电影的三项不平衡 (评论: 哥斯拉大战金刚)](https://movie.douban.com/review/13346934/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 后来的读者，如果你对一星短评感到困惑 (评论: 奧森巴赫之眼)](https://book.douban.com/review/13351872/)<br/>[‣ 甚为博尔赫斯不值 (评论: 对话博尔赫斯)](https://book.douban.com/review/13352893/) |
@@ -130,11 +130,11 @@
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 特征金字塔技术总结 - CV技术指南（公众号）](http://www.cnblogs.com/wxkang/p/14599456.html)<br/>[‣ MongoDB数据库的使用 - Elite-Wang](http://www.cnblogs.com/Elite-Wang/p/14587595.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好無雷\]當男人戀愛時](https://www.ptt.cc/bbs/movie/M.1617128956.A.186.html)<br/>[‣ \[討論\] 漫威女英雄集結短片慶祝婦女月！最喜歡？](https://www.ptt.cc/bbs/movie/M.1617123441.A.5D7.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] MAISIE](https://www.ptt.cc/bbs/Beauty/M.1617121722.A.BCC.html)<br/>[‣ \[正妹\] 頓知気さきな](https://www.ptt.cc/bbs/Beauty/M.1617121473.A.C61.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 【vc】【笔记】游戏逆向分析和商业挂研究](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1403797)<br/>[‣ Freefloat FTP Server1.0栈溢出漏洞分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1400918) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 皇朝太医 全24集](https://bukaivip.com/index.php/vod/detail/id/21738.html)<br/>[‣ 当个大小姐真难 全12集](https://bukaivip.com/index.php/vod/detail/id/35120.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 哥斯拉大战金刚 超清](https://bukaivip.com/index.php/vod/detail/id/48755.html)<br/>[‣ 妈妈在等你 更新至46集](https://bukaivip.com/index.php/vod/detail/id/48278.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《瑞克与莫蒂》第五季放出首支预告，6月20日正式回归](https://www.gcores.com/articles/135548)<br/>[‣ 《电锯惊魂9：漩涡》发布全新正式预告](https://www.gcores.com/articles/135544) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 《永劫无间》：聚窟洲不相信武德](https://www.yystv.cn/p/7751)<br/>[‣ 一个监控路口的直播摄像头，吸引了14万观众在线围观](https://www.yystv.cn/p/7750) |
