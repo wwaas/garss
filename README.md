@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-06 03:17:30)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-06 04:12:30)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 《DOTA2》新加坡 Major 决赛 iG 让二追三击败 EG 夺冠，你有什么想说的？](http://www.zhihu.com/question/452854474/answer/1818256596?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 动画电影《西游记之再世妖王》的黑化悟空值得期待吗？](http://www.zhihu.com/question/426669246/answer/1817131427?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 李跳跳 – 自动跳过开屏广告与青少年模式\[Android\]](https://www.appinn.com/li-tiaotiao-for-android/)<br/>[‣ 如何根据关键词，批量删除短信？8 年前的短信小秘书可以](https://www.appinn.com/sms-xiaomishu-for-android/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 中国信通院：2021年隐私保护计算与合规应用研究报告（附下载）](https://www.199it.com/archives/1225988.html)<br/>[‣ 人民电竞&九九研究院：2020年度电竞营销行业报告（附下载）](https://www.199it.com/archives/1226037.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 骁龙 855 + 2K 屏旗舰机只卖 800 块，闲鱼上的 “洋垃圾”手机真牛](https://www.ithome.com/0/544/291.htm)<br/>[‣ 研究机构：2020 年全球电动车方形封装锂电池占比最高，达到 49.2%](https://www.ithome.com/0/544/290.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/)<br/>[‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 466](https://weekly.pychina.org/issue/issue-466.html)<br/>[‣ Issue 465](https://weekly.pychina.org/issue/issue-465.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress主题开发基础：Body 类指南](https://www.wpdaxue.com/wordpress-theme-development-body-class-guide.html)<br/>[‣ Gutenberg 10.2 添加导航间隔、模板部件分类，并引入查询块模式](https://www.wpdaxue.com/gutenberg-10-2.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 研究人员教会机器人如何逃离熊孩子殴打](https://linux.cn/article-13269-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 用 Lua 操作文件中的数据](https://linux.cn/article-13268-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Google\] 诸位 Pixel5 的使用者有遇到掉 drm 的情况吗](https://www.v2ex.com/t/768218#reply3)<br/>[‣ \[问与答\] 有没有魔都的老铁愿意置换主板？](https://www.v2ex.com/t/768217#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Google\] 诸位 Pixel5 的使用者有遇到掉 drm 的情况吗](https://www.v2ex.com/t/768218#reply4)<br/>[‣ \[问与答\] 有没有魔都的老铁愿意置换主板？](https://www.v2ex.com/t/768217#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 我只看出两个价值观 (评论: 我的姐姐)](https://movie.douban.com/review/13361413/)<br/>[‣ 为什么一定要把弟弟扔了才算新时代独立女性？ (评论: 我的姐姐)](https://movie.douban.com/review/13363001/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 你努力的水平和机翻差不多。但搞事儿的水平比机翻厉害。 (评论: 对话博尔赫斯)](https://book.douban.com/review/13354261/)<br/>[‣ 后来的读者，如果你对一星短评感到困惑 (评论: 奧森巴赫之眼)](https://book.douban.com/review/13351872/) |
