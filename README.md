@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-07 04:12:18)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-07 05:10:47)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 《DOTA2》新加坡 Major 决赛 iG 让二追三击败 EG 夺冠，你有什么想说的？](http://www.zhihu.com/question/452854474/answer/1818256596?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 动画电影《西游记之再世妖王》的黑化悟空值得期待吗？](http://www.zhihu.com/question/426669246/answer/1817131427?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 如何在 4K 显示器上显示低分辨率窗口软件？](https://www.appinn.com/how-to-use-low-resolution-window-software-normally-on-4k-monitors/)<br/>[‣ GIF 动图助手 –  免费无广告的 GIF 制作和编辑工具\[iPhone/iPad\]](https://www.appinn.com/gif-animation-assistant-for-ios/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ AirDNA：2021年旅游趋势报告](https://www.199it.com/archives/1210649.html)<br/>[‣ 新形势下：企业如何进行数字化转型（附下载）](https://www.199it.com/archives/1069230.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ IATA：2020年航空安全报告（244页）](https://www.199it.com/archives/1226375.html)<br/>[‣ AirDNA：2021年旅游趋势报告](https://www.199it.com/archives/1210649.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 两轮电动车智能换电柜火了，300 元 / 月不限次数换电池，购新车只需原来半价](https://www.ithome.com/0/544/500.htm)<br/>[‣ DigiTimes：苹果 iPhone 13/Pro 的 A15 芯片将于 5 月底提前大规模量产](https://www.ithome.com/0/544/499.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/)<br/>[‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 466](https://weekly.pychina.org/issue/issue-466.html)<br/>[‣ Issue 465](https://weekly.pychina.org/issue/issue-465.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.3 规范化工具栏，对主题块进行分类，改进导航块等](https://www.wpdaxue.com/gutenberg-10-3.html)<br/>[‣ WordPress主题开发基础：Body 类指南](https://www.wpdaxue.com/wordpress-theme-development-body-class-guide.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 谷歌赢得十年之久的甲骨文版权战](https://linux.cn/article-13272-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 值得现在就去尝试的四款开源聊天应用软件](https://linux.cn/article-13271-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 求助：想入 IT 是否该放弃跨专业考研去参加机构培训](https://www.v2ex.com/t/768542#reply0)<br/>[‣ \[北京\] 老哥们 有没有 it 方面的靠谱北京猎头](https://www.v2ex.com/t/768541#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] e 绅士的标签系统是如何实现的](https://www.v2ex.com/t/768544#reply0)<br/>[‣ \[问与答\] 求助：想入 IT 是否该放弃跨专业考研去参加机构培训](https://www.v2ex.com/t/768542#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ “自愿”选择  “亲情”枷锁 (评论: 我的姐姐)](https://movie.douban.com/review/13361413/)<br/>[‣ 为什么一定要把弟弟扔了才算新时代独立女性？ (评论: 我的姐姐)](https://movie.douban.com/review/13363001/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 你努力的水平和机翻差不多。但搞事儿的水平比机翻厉害。 (评论: 对话博尔赫斯)](https://book.douban.com/review/13354261/)<br/>[‣ 后来的读者，如果你对一星短评感到困惑 (评论: 奧森巴赫之眼)](https://book.douban.com/review/13351872/) |
@@ -130,11 +130,11 @@
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ CVE-2020-1472 Zerologon - Zh1z3ven](http://www.cnblogs.com/Zh1z3ven/p/14624772.html)<br/>[‣ 2021精选 Java面试题附答案（一） - 初一丶](http://www.cnblogs.com/wyl-0120/p/14624766.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[討論\] 賈玲《李煥英》成為全球票房最高女導演](https://www.ptt.cc/bbs/movie/M.1617737719.A.D6D.html)<br/>[‣ \[超好雷\] 當男人戀愛時](https://www.ptt.cc/bbs/movie/M.1617735667.A.A5D.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 交大職員](https://www.ptt.cc/bbs/Beauty/M.1617734407.A.394.html)<br/>[‣ \[神人\] 廣告代言人](https://www.ptt.cc/bbs/Beauty/M.1617730196.A.CBA.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 【vc】【笔记】游戏逆向分析和商业挂研究](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1403797)<br/>[‣ Freefloat FTP Server1.0栈溢出漏洞分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1400918) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 陪你一起长大DVD版 更新至17集](https://bukaivip.com/index.php/vod/detail/id/48788.html)<br/>[‣ 即使被骗也要做梦 更新至06集](https://bukaivip.com/index.php/vod/detail/id/48761.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 愈爱药房 更新至05集](https://bukaivip.com/index.php/vod/detail/id/48152.html)<br/>[‣ 今天开始契约恋爱 更新至12集](https://bukaivip.com/index.php/vod/detail/id/47807.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《Apex英雄》出现数据丢失问题，受影响玩家账户将回滚至4月5日备份](https://www.gcores.com/articles/135764)<br/>[‣ XGP四月游戏更新，《GTAV》《MLB The Show 21》共8款游戏登陆](https://www.gcores.com/articles/135775) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 一个马力欧在东京奥运会开幕式出场的提案被废除了](https://www.yystv.cn/p/7773)<br/>[‣ 动森的复活节兔子回来了，大家这次原谅了它](https://www.yystv.cn/p/7772) |
