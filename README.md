@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-08 06:12:52)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-08 07:13:59)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ USBCopyer – USB 后台静默拷贝工具，插入 U 盘立即复制全部内容到硬盘\[Windows\]](https://www.appinn.com/usbcopyer-for-windows/)<br/>[‣ 如何在 4K 显示器上显示低分辨率窗口软件？](https://www.appinn.com/how-to-use-low-resolution-window-software-normally-on-4k-monitors/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Influencer Marketing Hub：2021年意见领袖营销基准报告](https://www.199it.com/archives/1226577.html)<br/>[‣ 腾讯研究院&Newzoo：2021中国云游戏市场趋势报告](https://www.199it.com/archives/1227194.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 10 秒破亿，1799 元起：realme GT Neo 正式现货开售，搭载天玑 1200 + 120Hz 三星电竞屏](https://www.ithome.com/0/544/734.htm)<br/>[‣ 《英雄联盟手游》国服召唤师峡谷官方揭秘：英雄体验还原，出装简单，操作简化](https://www.ithome.com/0/544/733.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 实测拼多多 “砍一刀”：5 个新用户仅砍 3.25 元，砍下手机或需上千老用户](https://www.ithome.com/0/544/747.htm)<br/>[‣ iPhone 12 热销，分析师：苹果今年将售出超 2.4 亿部 iPhone](https://www.ithome.com/0/544/746.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/)<br/>[‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 467](https://weekly.pychina.org/issue/issue-467.html)<br/>[‣ pythonista-weekly : Pyw 493](https://weekly.pychina.org/python-weekly/pyw-493.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 使用REST API TO MiniProgram插件快速为WordPress网站生成小程序](https://www.wpdaxue.com/rest-api-to-miniprogram-wordpress.html)<br/>[‣ 使用MailPoet扩展您的电子商务邮件列表](https://www.wpdaxue.com/expand-your-e-commerce-mailing-list-with-mailpoe.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 50 岁大叔用 FaceApp 冒充“超人气美少女骑手”，揭穿后却得到了更多支持](https://linux.cn/article-13275-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 在 Linux 中把多个 Markdown 文件转换成 HTML 或其他格式](https://linux.cn/article-13274-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享创造\] Show V2EX : 基于人工智能和统计模型的美股自动交易](https://www.v2ex.com/t/768904#reply0)<br/>[‣ \[分享发现\] 开源中国——《开源项目必须用英文命名标识符吗？》](https://www.v2ex.com/t/768903#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[macOS\] 异地的社保合并问题？](https://www.v2ex.com/t/768906#reply0)<br/>[‣ \[分享创造\] Show V2EX : 基于人工智能和统计模型的美股自动交易](https://www.v2ex.com/t/768904#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 为什么一定要把弟弟扔了才算新时代独立女性？ (评论: 我的姐姐)](https://movie.douban.com/review/13363001/)<br/>[‣ “自愿”选择  “亲情”枷锁 (评论: 我的姐姐)](https://movie.douban.com/review/13361413/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 你努力的水平和机翻差不多。但搞事儿的水平比机翻厉害。 (评论: 对话博尔赫斯)](https://book.douban.com/review/13354261/)<br/>[‣ 后来的读者，如果你对一星短评感到困惑 (评论: 奧森巴赫之眼)](https://book.douban.com/review/13351872/) |
