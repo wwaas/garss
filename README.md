@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-15 02:20:29)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-15 03:14:30)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 最近跟去年过完年一样，搁家里忙春种来着。因为想自己做发饰拍照所以有了这个视频用真丝布料做了些“绢花”工艺的汉服饰品趁着春色正好，桃花漫山带上老人家去她...](https://weibo.com/2970452952/K9G6zC37c)<br/>[‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 实验室带你过周末：2021.4.17 - 4.18 北京篇](http://www.toodaylab.com/79718)<br/>[‣ 带货这么多年，木村拓哉终于和雷朋带来首个联名产品了](http://www.toodaylab.com/79717) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Robinhood Visual Identity](https://www.behance.net/gallery/114623577/Robinhood-Visual-Identity)<br/>[‣ So I Am So I Act](https://www.behance.net/gallery/117143447/So-I-Am-So-I-Act) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Chocotoy Art Collection/02](https://www.behance.net/gallery/117366809/Chocotoy-Art-Collection02)<br/>[‣ Robinhood Visual Identity](https://www.behance.net/gallery/114623577/Robinhood-Visual-Identity) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Lisa Odette Butean](https://medium.com/behance-blog/meet-this-months-guest-curator-lisa-odette-butean-dd2d1cb00738?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest launches Creator Code and new comment moderation tools to keep content positive, safe and inspiring](https://newsroom.pinterest.com/en/creatorcode)<br/>[‣ Pinterest expands the skin tone range feature to more countries](https://newsroom.pinterest.com/en/post/pinterest-expands-the-skin-tone-range-feature-to-more-countries) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 如何强化图标设计的品牌基因？我总结了12个方法！](https://www.uisdc.com/brand-gene-icon)<br/>[‣ 只需少量修改，就能大幅提升作品集质量的8个技巧！](https://www.uisdc.com/8-portfolio-tips) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 新加坡major全记录](http://zhuanlan.zhihu.com/p/362929650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 什么是谷圈？新人有哪些要注意的地方？](http://www.zhihu.com/question/454376859/answer/1833927249?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Last Time – 不止是记录上一次，这简直就是时间线管理神器\[Android\]](https://www.appinn.com/last-time-activity-timeline-manager/)<br/>[‣ XAgo – 上次浇花、上次体检、上次换滤芯，是什么时候？](https://www.appinn.com/xago-app/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 德勤咨询：5G赋能未来电力（附下载）](https://www.199it.com/archives/1212688.html)<br/>[‣ 多鲸行研：2021少儿编程教育行业报告（附下载）](https://www.199it.com/archives/1231330.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 业务“大众化”与固移融合：把握全球电信行业的发展趋势（附下载）](https://www.199it.com/archives/980040.html)<br/>[‣ 德勤咨询：5G赋能未来电力（附下载）](https://www.199it.com/archives/1212688.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ AMD AGESA 1.2.0.2 微码发布：厂商已推出 BIOS 固件，解决 USB 断连问题](https://www.ithome.com/0/546/094.htm)<br/>[‣ 小米：Redmi K40 以及 Redmi 游戏手机支持《和平精英》高品质振动](https://www.ithome.com/0/546/093.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/)<br/>[‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 468](https://weekly.pychina.org/issue/issue-468.html)<br/>[‣ Issue 467](https://weekly.pychina.org/issue/issue-467.html) |
@@ -134,7 +134,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 九叔之夜行疯魔 高清](https://bukaivip.com/index.php/vod/detail/id/49243.html)<br/>[‣ 婆婆和妈妈2秘密版 2021-04-14期](https://bukaivip.com/index.php/vod/detail/id/48948.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 九叔之夜行疯魔 高清](https://bukaivip.com/index.php/vod/detail/id/49243.html)<br/>[‣ 咸鱼先生，Rose小姐之彗星来了 更新至18集](https://bukaivip.com/index.php/vod/detail/id/49161.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ Konami突然发力！《月风魔传 Undying Moon》公布，任天堂独立世界直播汇总](https://www.gcores.com/articles/136081)<br/>[‣ 《速度与激情9》放出全新正式预告，内地有望定档](https://www.gcores.com/articles/136080) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 棋盘上分不出胜负的国际象棋大师，偶尔也会“真人快打”](https://www.yystv.cn/p/7803)<br/>[‣ 《怪物猎人：崛起》中的破龙炮，已经成为新的友尽利器](https://www.yystv.cn/p/7801) |
