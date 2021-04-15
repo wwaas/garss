@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-16 00:19:26)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-16 01:36:03)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,21 +120,21 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 468](https://weekly.pychina.org/issue/issue-468.html)<br/>[‣ Issue 467](https://weekly.pychina.org/issue/issue-467.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html)<br/>[‣ 什么是301重定向？如何在WordPress网站创建301重定向？](https://www.wpdaxue.com/what-is-301-redirection.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 加密货币交易所第一股 Coinbase 上市，创始人致谢中本聪](https://linux.cn/article-13300-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 开源为你带来竞争优势的 4 种方式](https://linux.cn/article-13299-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[程序员\] 请教一下大佬们，前端开发如何在某一技术细分领域成为专家](https://www.v2ex.com/t/770968#reply0)<br/>[‣ \[酷工作\] \[南京\] \[端点科技\] 星河滚烫、热血战场 快来加入我们](https://www.v2ex.com/t/770967#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[iPad\] iPad Pro 的秒空键盘，大家谁用了？进来分享一下是否值得购买？](https://www.v2ex.com/t/770973#reply0)<br/>[‣ \[问与答\] 同栋楼狗从十点叫到现在（凌晨一点）最近经常这样，有什么办法解决吗](https://www.v2ex.com/t/770972#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 无处申诉的女性困境 (评论: 我的姐姐)](https://movie.douban.com/review/13447345/)<br/>[‣ 情境的内部变化与外部演进 (评论: 草叶集)](https://movie.douban.com/review/13450912/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 你努力的水平和机翻差不多。但搞事儿的水平比机翻厉害。 (评论: 对话博尔赫斯)](https://book.douban.com/review/13354261/)<br/>[‣ 后来的读者，如果你对一星短评感到困惑 (评论: 奧森巴赫之眼)](https://book.douban.com/review/13351872/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 打开这张专辑能听到什么 (评论: 三十二·立)](https://music.douban.com/review/13386992/)<br/>[‣ 张信哲的变与不变 (评论: 就懂了)](https://music.douban.com/review/13375235/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ MISC 从标题中找信息](https://my.oschina.net/hetianlab/blog/5020920)<br/>[‣ 有道写作浏览器扩展实践](https://my.oschina.net/youdaotech/blog/5020656) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ OAuth2.0理解和用法 - Ryan.Miao](http://www.cnblogs.com/woshimrf/p/OAuth2.html)<br/>[‣ spieces-in-pieces动画编辑器 - Lowki](http://www.cnblogs.com/lowki/p/14665047.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 郭富城、段奕宏、許瑋甯新片《秘密訪客》](https://www.ptt.cc/bbs/movie/M.1618503607.A.BD5.html)<br/>[‣ \[情報\] 爾冬陞將執導新片《海的盡頭是草原》](https://www.ptt.cc/bbs/movie/M.1618502862.A.0C6.html) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 将一个字符串进行反转：将字符串中指定部分进行反转。比如“abcdefg”反转为”abfedcg” - 小白冲](http://www.cnblogs.com/CCTVCHCH/p/14665239.html)<br/>[‣ OAuth2.0理解和用法 - Ryan.Miao](http://www.cnblogs.com/woshimrf/p/OAuth2.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[討論\] 跟佛教有些關係的電影..你會想到？](https://www.ptt.cc/bbs/movie/M.1618507404.A.BFD.html)<br/>[‣ \[情報\] 尹汝貞確定會親自前往洛杉磯出席奧斯卡頒獎典禮](https://www.ptt.cc/bbs/movie/M.1618506238.A.0AA.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 柏青哥女孩們  pachislot girl](https://www.ptt.cc/bbs/Beauty/M.1618501452.A.984.html)<br/>[‣ \[正妹\] 一張怎麼選](https://www.ptt.cc/bbs/Beauty/M.1618497091.A.EC3.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 2021腾讯游戏安全技术竞赛PC客户端方向-思路分享](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1418111)<br/>[‣ MRCTF2021逆向题解](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1417678) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 究极进化：如果究极进化的完全沉浸RPG比现实更可恶的话 更新至2集](https://bukaivip.com/index.php/vod/detail/id/49302.html)<br/>[‣ 东四牌楼东 更新至10集](https://bukaivip.com/index.php/vod/detail/id/49224.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 星月对话2021 2021-04-15期](https://bukaivip.com/index.php/vod/detail/id/49312.html)<br/>[‣ 究极进化：如果究极进化的完全沉浸RPG比现实更可恶的话 更新至2集](https://bukaivip.com/index.php/vod/detail/id/49302.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《往日不再》将于5月18日登陆Steam，自带繁中](https://www.gcores.com/articles/136121)<br/>[‣ 玩家使用原版MOD在《暗黑破坏神II：狱火重生》A测解锁未开放职业](https://www.gcores.com/articles/136105) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 夜深了……却难以入眠？Netflix全新剧集《安眠指南》或许可以给你答案](https://www.gcores.com/articles/136122)<br/>[‣ 《往日不再》将于5月18日登陆Steam，自带繁中](https://www.gcores.com/articles/136121) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ ​为了给新游戏让路，育碧将关闭一系列老游戏的服务器](https://www.yystv.cn/p/7808)<br/>[‣ 动视想给COD战区申请商标，遭到一家页游厂商的阻挠](https://www.yystv.cn/p/7807) |
