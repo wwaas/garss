@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-20 03:15:46)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-20 04:12:04)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价《一人之下》第522（554）话？](http://www.zhihu.com/question/454819684/answer/1841501420?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ There and back again——跨越半个世纪的《魔戒》改编路](http://zhuanlan.zhihu.com/p/365362390?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 目前还能买到的大容量硬盘：西部数据 14TB、希捷 8TB](https://www.appinn.com/amazon-harddisk-419/)<br/>[‣ 读典籍 – 语文老师背书推荐，读懂《史记》《资治通鉴》《三国志》等 47 部典籍](https://www.appinn.com/dudianji-app/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 深化资产管理业务监管制度改革：建设现代化的资产管理业务体系（附简版下载）](https://www.199it.com/archives/1162923.html)<br/>[‣ 艾瑞咨询：2021年中国食品饮料行业营销监测报告（附下载）](https://www.199it.com/archives/1232682.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 2020年度联合国工业发展组织报告](https://www.199it.com/archives/1232889.html)<br/>[‣ 深化资产管理业务监管制度改革：建设现代化的资产管理业务体系（附简版下载）](https://www.199it.com/archives/1162923.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 特斯拉凌晨再回应上海车展女子维权：质量问题负责到底，对不合理诉求不妥协](https://www.ithome.com/0/547/050.htm)<br/>[‣ 今日谷雨：春去夏来，雨水无闲，百谷种田间](https://www.ithome.com/0/547/049.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/)<br/>[‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 468](https://weekly.pychina.org/issue/issue-468.html)<br/>[‣ Issue 467](https://weekly.pychina.org/issue/issue-467.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html)<br/>[‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 废弃电厂重启成为比特币矿场](https://linux.cn/article-13312-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ Stratis 加密入门](https://linux.cn/article-13311-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Apple\] 2021 iMac 如果标配 32 寸的丐版 XDR Display 你们会买吗](https://www.v2ex.com/t/771787#reply0)<br/>[‣ \[职场话题\] 如何相对准确评估自己的水平？](https://www.v2ex.com/t/771786#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[程序员\] 关于程序员申请公司 迫于很多产品都需要企业资质 icp 审核之类](https://www.v2ex.com/t/771788#reply2)<br/>[‣ \[Apple\] 2021 iMac 如果标配 32 寸的丐版 XDR Display 你们会买吗](https://www.v2ex.com/t/771787#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 单斧劈开首富楼，三兽大闹三巷岛 (评论: 哥斯拉大战金刚)](https://movie.douban.com/review/13489303/)<br/>[‣ 我虽不懂，但大为震撼的几点吐槽（全文剧透） (评论: 名侦探柯南：绯色的子弹)](https://movie.douban.com/review/13486306/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 你努力的水平和机翻差不多。但搞事儿的水平比机翻厉害。 (评论: 对话博尔赫斯)](https://book.douban.com/review/13354261/)<br/>[‣ 已经向中山大学党委信箱举报了 (评论: 奧森巴赫之眼)](https://book.douban.com/review/13355643/) |
