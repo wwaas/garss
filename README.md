@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-23 03:18:21)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-23 04:12:24)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -102,7 +102,7 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ 用好这个高招，选刊轻轻松松！](https://iseex.github.io//2021-03/iJournal-journal-relationships/)<br/>[‣ Zotero iOS App重要更新！和PDF滚动方向和深浅模式有关！](https://iseex.github.io//2021-03/zotero-app-pdf-view-settings/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 最近跟去年过完年一样，搁家里忙春种来着。因为想自己做发饰拍照所以有了这个视频用真丝布料做了些“绢花”工艺的汉服饰品趁着春色正好，桃花漫山带上老人家去她...](https://weibo.com/2970452952/K9G6zC37c)<br/>[‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 2021 上海车展：阿斯顿·马丁 Vantage F1 特别版全球首发](http://www.toodaylab.com/79742)<br/>[‣ 今日消费资讯：​LINDBERG 推出全新 thintanium 镜架系列、​麦咖啡推出“醒醒浓香系列”](http://www.toodaylab.com/79737) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Early 2021 illustrations](https://www.behance.net/gallery/117995539/Early-2021-illustrations)<br/>[‣ L'Oréal - Branding](https://www.behance.net/gallery/117414305/LOral-Branding) |
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html)<br/>[‣ pythonista-weekly : Pyw 495](https://weekly.pychina.org/python-weekly/pyw-495.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html)<br/>[‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 用开源工具定制 Mac 终端主题的 4 个步骤](https://linux.cn/article-13323-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 \| 人们真正从 Stack Overflow 复制和粘贴的频率是多少？](https://linux.cn/article-13322-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[酷工作\] \[诚聘远程\] 有经验或者善于学习钻研的 PHP /MYSQL 后端程序员](https://www.v2ex.com/t/772593#reply0)<br/>[‣ \[Vue.js\] Vue 如何同时触发两个叠在一起的 div 的点击事件？](https://www.v2ex.com/t/772591#reply3) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[酷工作\] \[远程兼职\] 有对视频主持，拍摄和剪辑感兴趣的吗？](https://www.v2ex.com/t/772597#reply0)<br/>[‣ \[酷工作\] \[华尔街 startup\] 诚聘远程 Python 程序员](https://www.v2ex.com/t/772594#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 他的之后，她的之后 (评论: 之后)](https://movie.douban.com/review/13496145/)<br/>[‣ 字数正好够了就发长评了。注意，这部动漫很可能引起你的反胃！ (评论: 魔法少女网站)](https://movie.douban.com/review/13493627/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 北京二外副教授芈岚的这本著作是否抄袭来的？ (评论: 媒介、传播与文化系列之六：好莱坞类型片中男性主体的身份建构)](https://book.douban.com/review/13493756/)<br/>[‣ 读《新青年文选》 (评论: 《新青年》文选)](https://book.douban.com/review/13480362/) |
