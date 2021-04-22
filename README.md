@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-23 04:12:24)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-23 05:10:29)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -103,7 +103,7 @@
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ 用好这个高招，选刊轻轻松松！](https://iseex.github.io//2021-03/iJournal-journal-relationships/)<br/>[‣ Zotero iOS App重要更新！和PDF滚动方向和深浅模式有关！](https://iseex.github.io//2021-03/zotero-app-pdf-view-settings/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 最近跟去年过完年一样，搁家里忙春种来着。因为想自己做发饰拍照所以有了这个视频用真丝布料做了些“绢花”工艺的汉服饰品趁着春色正好，桃花漫山带上老人家去她...](https://weibo.com/2970452952/K9G6zC37c)<br/>[‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2) |
-| 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 2021 上海车展：阿斯顿·马丁 Vantage F1 特别版全球首发](http://www.toodaylab.com/79742)<br/>[‣ 今日消费资讯：​LINDBERG 推出全新 thintanium 镜架系列、​麦咖啡推出“醒醒浓香系列”](http://www.toodaylab.com/79737) |
+| 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ realme 真我 Q3 系列正式发布，最低配已经进入千元大关](http://www.toodaylab.com/79743)<br/>[‣ 2021 上海车展：阿斯顿·马丁 Vantage F1 特别版全球首发](http://www.toodaylab.com/79742) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Early 2021 illustrations](https://www.behance.net/gallery/117995539/Early-2021-illustrations)<br/>[‣ L'Oréal - Branding](https://www.behance.net/gallery/117414305/LOral-Branding) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Lisa Odette Butean](https://medium.com/behance-blog/meet-this-months-guest-curator-lisa-odette-butean-dd2d1cb00738?source=rss-f5272b7f3182------2) |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何通过玩游戏拯救地球？应该怎么做？](http://www.zhihu.com/question/455858774/answer/1847759604?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价苹果搭载 M1 芯片的 iPad Pro，有哪些亮点和槽点，值得购买吗？](http://www.zhihu.com/question/455712081/answer/1846130885?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ ToDesk – 还是那款免费快速的远程控制工具](https://www.appinn.com/todesk-2/)<br/>[‣ 阅读了 18 位设计师 4.5 万字心得，原来行业大佬这样使用 Eagle](https://www.appinn.com/eagle-1845/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 千瓜：2021小红书活跃用户画像趋势报告（附下载）](https://www.199it.com/archives/1235406.html)<br/>[‣ 中国信通院：2021人工智能核心技术产业白皮书（附下载）](https://www.199it.com/archives/1234979.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Stream Hatchet：大学电子竞技报告](https://www.199it.com/archives/1232174.html)<br/>[‣ 全球灯塔网络：重构运营模式，促进企业发展](https://www.199it.com/archives/1235243.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 特斯拉马斯克：太阳能电池板将与 Powerwall 电池捆绑销售](https://www.ithome.com/0/547/796.htm)<br/>[‣ 《消费者报告》轻松骗过特斯拉 Model Y ：驾驶位没人也能自动驾驶](https://www.ithome.com/0/547/795.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/)<br/>[‣ HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html)<br/>[‣ pythonista-weekly : Pyw 495](https://weekly.pychina.org/python-weekly/pyw-495.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html)<br/>[‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 用开源工具定制 Mac 终端主题的 4 个步骤](https://linux.cn/article-13323-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 \| 人们真正从 Stack Overflow 复制和粘贴的频率是多少？](https://linux.cn/article-13322-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[酷工作\] \[远程兼职\] 有对视频主持，拍摄和剪辑感兴趣的吗？](https://www.v2ex.com/t/772597#reply0)<br/>[‣ \[酷工作\] \[华尔街 startup\] 诚聘远程 Python 程序员](https://www.v2ex.com/t/772594#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 关于 systemctl --version 里面的 features + -...](https://www.v2ex.com/t/772598#reply0)<br/>[‣ \[酷工作\] \[远程兼职\] 有对视频主持，拍摄和剪辑感兴趣的吗？](https://www.v2ex.com/t/772597#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 他的之后，她的之后 (评论: 之后)](https://movie.douban.com/review/13496145/)<br/>[‣ 字数正好够了就发长评了。注意，这部动漫很可能引起你的反胃！ (评论: 魔法少女网站)](https://movie.douban.com/review/13493627/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 北京二外副教授芈岚的这本著作是否抄袭来的？ (评论: 媒介、传播与文化系列之六：好莱坞类型片中男性主体的身份建构)](https://book.douban.com/review/13493756/)<br/>[‣ 读《新青年文选》 (评论: 《新青年》文选)](https://book.douban.com/review/13480362/) |
