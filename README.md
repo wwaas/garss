@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-25 03:15:41)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-25 04:12:01)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 最近跟去年过完年一样，搁家里忙春种来着。因为想自己做发饰拍照所以有了这个视频用真丝布料做了些“绢花”工艺的汉服饰品趁着春色正好，桃花漫山带上老人家去她...](https://weibo.com/2970452952/K9G6zC37c)<br/>[‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 我们在上海车展感受了一下极星 Precept：极简的外在、有趣的灵魂](http://www.toodaylab.com/79749)<br/>[‣ Blue Bottle Coffee 和 NIGO 带来联名系列，这是为即将开业的涩谷新店助兴](http://www.toodaylab.com/79748) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Australian National University](https://www.behance.net/gallery/116397713/Australian-National-University)<br/>[‣ Dream States](https://www.behance.net/gallery/118053291/Dream-States) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Immortality](https://www.behance.net/gallery/118064141/Immortality)<br/>[‣ Australian National University](https://www.behance.net/gallery/116397713/Australian-National-University) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Lisa Odette Butean](https://medium.com/behance-blog/meet-this-months-guest-curator-lisa-odette-butean-dd2d1cb00738?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest and Shopify expand partnership to boost social commerce globally](https://newsroom.pinterest.com/en/post/pinterest-and-shopify-expand-partnership-to-boost-social-commerce-globally)<br/>[‣ Introducing the Content Claiming Portal, a new tool to help creators claim their content and decide how it appears on Pinterest](https://newsroom.pinterest.com/en/post/introducing-the-content-claiming-portal-a-new-tool-to-help-creators-claim-their-content-and) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 问卷发布后，如何整理体验反馈意见？](https://www.uisdc.com/experience-problem-sorting)<br/>[‣ 万字干货！15个著名的设计心理学原理和应用深度解析！](https://www.uisdc.com/15-principles-of-psychology) |
@@ -128,13 +128,13 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [‣ 四年磨一剑：我是如何拿到蚂蚁offer的？](https://my.oschina.net/objcoding/blog/5030381)<br/>[‣ 鸿蒙内核源码分析(ELF反汇编篇) \| 程序的入口函数并不是main \| 百篇博客分析HarmonyOS源码 \| v51.02](https://my.oschina.net/weharmony/blog/5030288) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Pytorch系列:（二）数据加载 - Quant-Q](http://www.cnblogs.com/quant-q/p/14698595.html)<br/>[‣ Typora+PicGo+阿里云写博客笔记 - Snorlax356](http://www.cnblogs.com/Snorlax356/p/14698547.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[討論\] 哥吉拉海扁金剛 導演給問](https://www.ptt.cc/bbs/movie/M.1619288361.A.EC1.html)<br/>[‣ \[問片\] 一部佔領綁架國會的亞洲電影](https://www.ptt.cc/bbs/movie/M.1619286047.A.5DA.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[請益\] 有軍方或警方視角的喪屍片嗎?](https://www.ptt.cc/bbs/movie/M.1619293425.A.DF7.html)<br/>[‣ \[微好雷\] 殺戮重生犬屋敷](https://www.ptt.cc/bbs/movie/M.1619292624.A.F7D.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] AKB48 TEAM TP陳詩雅](https://www.ptt.cc/bbs/Beauty/M.1619278603.A.AB0.html)<br/>[‣ \[神人\] I-PRIMO 廣告的女生](https://www.ptt.cc/bbs/Beauty/M.1619274486.A.0E0.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 一道反调试小题分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1419930)<br/>[‣ 2021腾讯游戏安全技术竞赛PC客户端方向-思路分享](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1418111) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 东海异闻录 1080P](https://bukaivip.com/index.php/vod/detail/id/49748.html)<br/>[‣ 真人快打 1080P](https://bukaivip.com/index.php/vod/detail/id/49730.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 东海异闻录 1080P](https://bukaivip.com/index.php/vod/detail/id/49748.html)<br/>[‣ 八零九零 更新至06集](https://bukaivip.com/index.php/vod/detail/id/49645.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《绯红结系》新实机演示公开，6月24日正式发售](https://www.gcores.com/articles/136482)<br/>[‣ 官方消息，GadioNews04.24](https://www.gcores.com/radios/136487) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 摸鱼都摸累了的年轻人，正在信奉“躺平学”](https://www.yystv.cn/p/7841)<br/>[‣ 都说自己玩的是dead game，但究竟谁才是真的dead game？](https://www.yystv.cn/p/7840) |
