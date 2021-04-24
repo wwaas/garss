@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-25 02:23:33)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-25 03:15:41)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html)<br/>[‣ pythonista-weekly : Pyw 495](https://weekly.pychina.org/python-weekly/pyw-495.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html)<br/>[‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 财务软件 bug 导致数百人被错误定罪](https://linux.cn/article-13327-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 14 种可以在古老的 32 位计算机上使用的 Linux 发行版](https://linux.cn/article-13326-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[互联网\] 有没有办法在四层实现负载均衡？](https://www.v2ex.com/t/773012#reply0)<br/>[‣ \[问与答\] 请问 怎么下载谷歌翻译的读音呀](https://www.v2ex.com/t/773011#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[生活\] 下个月买房， 150 平左右够宽敞吗？](https://www.v2ex.com/t/773014#reply0)<br/>[‣ \[硬件\] N 块服务器主板直接串联/并联的方案有没有？](https://www.v2ex.com/t/773013#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 他的之后，她的之后 (评论: 之后)](https://movie.douban.com/review/13496145/)<br/>[‣ 给系列粉丝总结一下设定与游戏的不同和梗点 (评论: 真人快打)](https://movie.douban.com/review/13499928/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 北京二外副教授芈岚的这本著作是否抄袭来的？ (评论: 媒介、传播与文化系列之六：好莱坞类型片中男性主体的身份建构)](https://book.douban.com/review/13493756/)<br/>[‣ 纸寿千年，读书不必争朝夕。 (评论: 荒野猎人)](https://book.douban.com/review/13497913/) |
@@ -134,7 +134,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 东海异闻录 1080P](https://bukaivip.com/index.php/vod/detail/id/49748.html)<br/>[‣ 八零九零 更新至06集](https://bukaivip.com/index.php/vod/detail/id/49645.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 东海异闻录 1080P](https://bukaivip.com/index.php/vod/detail/id/49748.html)<br/>[‣ 真人快打 1080P](https://bukaivip.com/index.php/vod/detail/id/49730.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《绯红结系》新实机演示公开，6月24日正式发售](https://www.gcores.com/articles/136482)<br/>[‣ 官方消息，GadioNews04.24](https://www.gcores.com/radios/136487) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 摸鱼都摸累了的年轻人，正在信奉“躺平学”](https://www.yystv.cn/p/7841)<br/>[‣ 都说自己玩的是dead game，但究竟谁才是真的dead game？](https://www.yystv.cn/p/7840) |
