@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-28 10:00:08)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-28 10:48:08)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -91,7 +91,7 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Three apps enabling financial wellness for all](https://www.apple.com/newsroom/2021/04/three-apps-enabling-financial-wellness-for-all/)<br/>[‣ Clips adds immersive new AR Spaces](https://www.apple.com/newsroom/2021/04/clips-adds-immersive-new-arspaces/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 网络色情灰产遍地，揭秘年轻人裸聊陷阱内幕](http://www.huxiu.com/article/424644.html?f=wangzhan)<br/>[‣ 特斯拉盈利全靠比特币？](http://www.huxiu.com/article/424586.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 36氪首发 \| 婴童食品品牌「秋田满满」完成千万美元级A轮融资，顺为资本、清流资本参投](https://36kr.com/p/1199906127907081)<br/>[‣ IPO观察｜读书郎三年卖出20亿平板电脑，创始人曾师从段永平](https://36kr.com/p/1200888272013568) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 快手的下一站是上海？](https://36kr.com/p/1201043449203203)<br/>[‣ 苹果4300亿美元投资包括5G在内的创新技术，常州推出校园5G新冠疫苗接种车 \| 36氪5G创新日报](https://36kr.com/p/1200183710894595) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ ICLR 2021 \| 微软亚洲研究院精选论文一览](https://www.msra.cn/zh-cn/news/features/iclr-2021)<br/>[‣ 世界读书日宝藏书单来了！关于思考和梦想的六本书](https://www.msra.cn/zh-cn/news/features/book-list-world-book-day-2021) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ Redmi K40 游戏增强版评测：1999 元起售，年轻人的第一台游戏手机？](http://www.geekpark.net/news/277275)<br/>[‣ 持续除甲醛，戴森这款六千块的空气净化风扇真挺值](http://www.geekpark.net/news/277543) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ TimeJot – Last Time 改名，新增中文界面、数字属性，还是那个时间线管理神器\[Android\]](https://www.appinn.com/timejot-for-android/)<br/>[‣ ZipInstaller – 来自 Nirsoft ，为便携软件制作安装包\[Win\]](https://www.appinn.com/zipinstaller-nirsoft/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 倒计时一天！IDCC2021深圳站参会指南发布（附完整议程）](https://www.199it.com/archives/1238014.html)<br/>[‣ 今日数据行业日报（2021.04.28）『2021年Q1北京薪酬报告 新职业平均22717元/月』](https://www.199it.com/archives/1237901.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 鹏博士 2020 年净利 1.01 亿元，同比增长 101.75%](https://www.ithome.com/0/548/833.htm)<br/>[‣ 工信部、国家能源局开展换电模式应用试点工作](https://www.ithome.com/0/548/832.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 阿里巴巴文化上诉华为，涉及作品传播权纠纷](https://www.ithome.com/0/548/858.htm)<br/>[‣ 做游戏手机，Redmi 能行吗](https://www.ithome.com/0/548/854.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html)<br/>[‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| DroidScript 软件被谷歌关闭后，开发者被蒙在鼓里](https://linux.cn/article-13342-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 用 Linux 翻新旧的 MacBook](https://linux.cn/article-13341-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Apple\] 升级 macOS BigSur 11.3 后， mac App Store 不再显示小红点](https://www.v2ex.com/t/773767#reply0)<br/>[‣ \[云计算\] 淦。。Oracle 注册始终不给过](https://www.v2ex.com/t/773766#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 请问 IDEA 有没有插件帮助增强在 IDEA 中写.sql 的自动补全？](https://www.v2ex.com/t/773784#reply0)<br/>[‣ \[酷工作\] \[小红书\] 高级后端开发工程师招聘-直播带货业务 组内直招岗位！](https://www.v2ex.com/t/773783#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 你以为编剧是智障其实编剧早就预判了你的预判 (评论: 风暴舞)](https://movie.douban.com/review/13505527/)<br/>[‣ 《使女的故事》：不必等候炬火 (评论: 使女的故事 第四季)](https://movie.douban.com/review/13508643/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 不被看见的百万中国女性卡车司机们 (评论: 中国卡车司机调查报告No.3)](https://book.douban.com/review/13505872/)<br/>[‣ 书外游侠，纸上历险
@@ -135,7 +135,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 对照记 更新至01期](https://bukaivip.com/index.php/vod/detail/id/49894.html)<br/>[‣ 德云社德云二队小园子新街口剧场站2021 1期全/已完结](https://bukaivip.com/index.php/vod/detail/id/49896.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 天荒战神 更新至50集](https://bukaivip.com/index.php/vod/detail/id/43672.html)<br/>[‣ 绝世武魂 更新至57集](https://bukaivip.com/index.php/vod/detail/id/42703.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 安德鲁·斯科特，露丝·威尔森主演电影《奥斯陆》发布首支预告](https://www.gcores.com/articles/136589)<br/>[‣ 4K重制版《指环王：王者无敌》确定将于5月14日登录内地院线](https://www.gcores.com/articles/136604) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《辐射76：子弹上膛》更新上线](https://www.gcores.com/articles/136603)<br/>[‣ 安德鲁·斯科特，露丝·威尔森主演电影《奥斯陆》发布首支预告](https://www.gcores.com/articles/136589) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 不要偷看《尼尔：人工生命》女主角凯妮的裙底](https://www.yystv.cn/p/7850)<br/>[‣ 【白夜谈】我爱没用的生活小妙招](https://www.yystv.cn/p/7851) |
