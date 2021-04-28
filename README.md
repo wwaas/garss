@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-29 04:12:33)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-29 05:10:37)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -88,7 +88,7 @@
 | JDC  | 京东设计中心 | [订阅地址](https://jdc.jd.com/feed)  | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 凹凸实验室  | 凹凸技术揭秘 · 技术精进与业务发展两不误 | [订阅地址](https://aotu.io/atom.xml)  | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | <h2 id="公司官方新闻">公司官方新闻</h2> |  |   |  |
-| Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Three apps enabling financial wellness for all](https://www.apple.com/newsroom/2021/04/three-apps-enabling-financial-wellness-for-all/)<br/>[‣ Clips adds immersive new AR Spaces](https://www.apple.com/newsroom/2021/04/clips-adds-immersive-new-arspaces/) |
+| Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2021/04/apple-reports-second-quarter-results/)<br/>[‣ Three apps enabling financial wellness for all](https://www.apple.com/newsroom/2021/04/three-apps-enabling-financial-wellness-for-all/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 奔驰还是那个奔驰，但EQS还算S级么？](http://www.huxiu.com/article/424967.html?f=wangzhan)<br/>[‣ 《使命召唤手游》的电竞悖论：只看不玩可行吗？](http://www.huxiu.com/article/424852.html?f=wangzhan) |
 | 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 最前线｜潮玩品牌TOP TOY发布新品牌战略，目标从亚洲转向全球](https://36kr.com/p/1201651660982528)<br/>[‣ 阿里云加速器创新时辰北京站闭幕，助力赛道明星构建产业生态](https://36kr.com/p/1201458372545026) |
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 最近跟去年过完年一样，搁家里忙春种来着。因为想自己做发饰拍照所以有了这个视频用真丝布料做了些“绢花”工艺的汉服饰品趁着春色正好，桃花漫山带上老人家去她...](https://weibo.com/2970452952/K9G6zC37c)<br/>[‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ LVMH 继续人事洗牌：KENZO 艺术总监 Felipe Oliveira Baptista 即将离任](http://www.toodaylab.com/79764)<br/>[‣ 荧光绿加身，Beats 和 Psychworld 联名版 Studio3 Wireless 开箱图赏](http://www.toodaylab.com/79762) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Let's Move! - a book for toddlers](https://www.behance.net/gallery/118325969/Lets-Move-a-book-for-toddlers)<br/>[‣ Concrete Miniatures](https://www.behance.net/gallery/118378187/Concrete-Miniatures) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Enerim](https://www.behance.net/gallery/117573411/Enerim)<br/>[‣ Let's Move! - a book for toddlers](https://www.behance.net/gallery/118325969/Lets-Move-a-book-for-toddlers) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest supports Mental Health Awareness Month and sheds light on emotional well-being](https://newsroom.pinterest.com/en/post/pinterest-supports-mental-health-awareness-month)<br/>[‣ Pinterest and Shopify expand partnership to boost social commerce globally](https://newsroom.pinterest.com/en/post/pinterest-and-shopify-expand-partnership-to-boost-social-commerce-globally) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 想要找到设计方向和优化方向的，收下这篇方法论！](https://www.uisdc.com/design-optimization-methodology)<br/>[‣ 超多案例！设计师应该掌握的文案基础知识！](https://www.uisdc.com/basic-knowledge-of-copywriting) |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何通过玩游戏拯救地球？应该怎么做？](http://www.zhihu.com/question/455858774/answer/1851173954?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 里基·戴维斯遇到刚出道的詹皇时是一个什么样的人?他的实力究竟配不配得上骑士前老大的身份?](http://www.zhihu.com/question/441491046/answer/1850964567?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Tree Style History – 扩展不更新，手搓大佬自己写：树形显示浏览历史的扩展\[Chrome/Edge\]](https://www.appinn.com/tree-style-history-for-edge/)<br/>[‣ TimeJot – Last Time 改名，新增中文界面、数字属性，还是那个时间线管理神器\[Android\]](https://www.appinn.com/timejot-for-android/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 阿里研究院：2021头皮养护趋势报告（附下载）](https://www.199it.com/archives/1238912.html)<br/>[‣ 2021年上海车展开幕：自动驾驶引领汽车智能化新变革（附下载）](https://www.199it.com/archives/1237537.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 耐人寻味：蛋白质的转型报告](https://www.199it.com/archives/1238411.html)<br/>[‣ ESCAP：亚太地区如何在后疫情时代实现可持续发展报告](https://www.199it.com/archives/1238565.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 部分 iOS 14.5 正式版中“允许 App 请求追踪”按钮为何是灰色的，苹果回应](https://www.ithome.com/0/549/007.htm)<br/>[‣ 腾讯 QQ 安卓版 8.7.0 正式版“炸场”更新：表情弹射“轰炸”屏幕](https://www.ithome.com/0/549/006.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html)<br/>[‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| DroidScript 软件被谷歌关闭后，开发者被蒙在鼓里](https://linux.cn/article-13342-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 用 Linux 翻新旧的 MacBook](https://linux.cn/article-13341-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[iPhone\] 苹果服务器又炸了吗](https://www.v2ex.com/t/773967#reply1)<br/>[‣ \[Android\] 这个应用优化是 AOSP 就有吗](https://www.v2ex.com/t/773965#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[iPhone\] 苹果服务器又炸了吗](https://www.v2ex.com/t/773967#reply3)<br/>[‣ \[Android\] 这个应用优化是 AOSP 就有吗](https://www.v2ex.com/t/773965#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《使女的故事》：不必等候炬火 (评论: 使女的故事 第四季)](https://movie.douban.com/review/13508643/)<br/>[‣ 风暴舞的细节把控 (评论: 风暴舞)](https://movie.douban.com/review/13509914/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 不被看见的百万中国女性卡车司机们 (评论: 中国卡车司机调查报告No.3)](https://book.douban.com/review/13505872/)<br/>[‣ 书外游侠，纸上历险
