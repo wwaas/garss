@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-30 05:08:13)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-04-30 06:10:36)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 在你的心目中，奥特曼是什么？](http://www.zhihu.com/question/356652071/answer/1860492016?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《画江湖之不良人》第四季第 1 - 2集？](http://www.zhihu.com/question/456851431/answer/1860888650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ TreeSize Free – 快速扫描磁盘，显示文件夹大小\[Windows\]](https://www.appinn.com/treesize-free-for-windows/)<br/>[‣ Tree Style History – 扩展不更新，手搓大佬自己写：树形显示浏览历史的扩展\[Chrome/Edge\]](https://www.appinn.com/tree-style-history-for-edge/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 商业周刊&星期零：2021年中国植物肉行业洞察白皮书](https://www.199it.com/archives/1239016.html)<br/>[‣ 中国移动&NGMN：6G驱动力与愿景白皮书](https://www.199it.com/archives/1239129.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 大觉醒：新冠流行对美国人的影响报告](https://www.199it.com/archives/1237860.html)<br/>[‣ 世界经济论坛：2021年房地产的未来框架报告](https://www.199it.com/archives/1239065.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 卢伟冰：游戏手机未普及因太贵，小米之家已覆盖全国 60% 县城](https://www.ithome.com/0/549/206.htm)<br/>[‣ 诺基亚 CEO ：全球芯片短缺问题将持续到 2023 年](https://www.ithome.com/0/549/205.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html)<br/>[‣ WordPress 5.7.1 修复2个安全问题，请及时更新](https://www.wpdaxue.com/wordpress-5-7-1.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 雅虎可能又要被卖了](https://linux.cn/article-13345-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 我最喜欢的开源项目管理工具](https://linux.cn/article-13344-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[macOS\] 小白求助大佬，有关 MAC HDMI 外接显示器帧率锁 30HZ 的问题（19 年 16 寸 mbp）](https://www.v2ex.com/t/774238#reply2)<br/>[‣ \[分享创造\] 又一个随机 ACG 图 API](https://www.v2ex.com/t/774237#reply3) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Apple\] apple 地图有没有一种方法可以同时显示国内高德数据和国外地图信息呢？](https://www.v2ex.com/t/774240#reply1)<br/>[‣ \[macOS\] 小白求助大佬，有关 MAC HDMI 外接显示器帧率锁 30HZ 的问题（19 年 16 寸 mbp）](https://www.v2ex.com/t/774238#reply2) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《指环王》重映：这是部经典佳作，还是“又臭又长”？ (评论: 指环王1：护戒使者)](https://movie.douban.com/review/13511718/)<br/>[‣ “即是救赎，亦是归途” (评论: 城市的边缘)](https://movie.douban.com/review/13509735/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 不被看见的百万中国女性卡车司机们 (评论: 中国卡车司机调查报告No.3)](https://book.douban.com/review/13505872/)<br/>[‣ 书外游侠，纸上历险
@@ -129,9 +129,9 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ SpringMVC笔记（五） - linzeliang](http://www.cnblogs.com/linzeliang1222/p/14720386.html)<br/>[‣ 经典论文系列\| 实例分割中的新范式-SOLO - CV技术指南（公众号）](http://www.cnblogs.com/wxkang/p/14720294.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[請益\] 請問玩命鈔劫的某個角色 \[有雷\]](https://www.ptt.cc/bbs/movie/M.1619719716.A.BFA.html)<br/>[‣ \[請益\] 沒看過魔戒  該注意什麼？](https://www.ptt.cc/bbs/movie/M.1619719370.A.AE9.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[公告\] 水桶 aehvtleo](https://www.ptt.cc/bbs/movie/M.1619731153.A.A59.html)<br/>[‣ \[公告\] 多人水桶](https://www.ptt.cc/bbs/movie/M.1619730815.A.83C.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 陸戰六六旅少尉 陳子婷](https://www.ptt.cc/bbs/Beauty/M.1619720754.A.821.html)<br/>[‣ \[正妹\] Violet](https://www.ptt.cc/bbs/Beauty/M.1619715021.A.5D0.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 魔改CobaltStrike：协议全剖析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1426936)<br/>[‣ 【原创】TP驱动保护分析系列一 定位TenProtect保护](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1426244) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
