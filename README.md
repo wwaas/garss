@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-02 05:07:39)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-02 06:10:03)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价游戏《天地劫：寰神结》？](http://www.zhihu.com/question/453771337/answer/1862892662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价 24 Entertainment 研发的游戏《永劫无间》?](http://www.zhihu.com/question/361077302/answer/1862792327?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 免费开源图片压缩工具 Squoosh 离线版](https://www.appinn.com/squoosh-desktop-app/)<br/>[‣ 网络测速应用 iPerf 上线 tvOS，与 iOS 版本一起限免](https://www.appinn.com/iperf-speed-test-tool-for-ios-and-tvos/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Crunchbase：2021年Q1北美风险投资总额环比增长57%](https://www.199it.com/archives/1233971.html)<br/>[‣ 埃森哲：79%的美国人希望疫情后继续保持工作地点灵活性](https://www.199it.com/archives/1232220.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Calabrio：2021年呼叫中心报告](https://www.199it.com/archives/1233855.html)<br/>[‣ Crunchbase：2021年Q1北美风险投资总额环比增长57%](https://www.199it.com/archives/1233971.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 久违的更新：哔哩哔哩动画 Win10 UWP 版 v2.14.26 到来](https://www.ithome.com/0/549/534.htm)<br/>[‣ 爆料：苹果第一颗双芯封装 CPU 将于第三季度量产](https://www.ithome.com/0/549/533.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
@@ -134,7 +134,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 斗罗大陆 更新154集](https://bukaivip.com/index.php/vod/detail/id/39708.html)<br/>[‣ 御赐小仵作 共36集,更新至12集](https://bukaivip.com/index.php/vod/detail/id/49972.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 顾少的小甜心 更新至26集](https://bukaivip.com/index.php/vod/detail/id/49824.html)<br/>[‣ 情陷聊斋 更新至13集](https://bukaivip.com/index.php/vod/detail/id/49928.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 五一快乐！GadioNews05.01](https://www.gcores.com/radios/136746)<br/>[‣ 回忆学校时光，总是能记起逃学那点事儿](https://www.gcores.com/radios/136745) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 一家探索游戏叙事的公司，拿到上亿融资开始招人](https://www.yystv.cn/p/7868)<br/>[‣ 【社长jing了！Vol.104】上海自由高达已经可以接香客了吗？](https://www.yystv.cn/p/7866) |
