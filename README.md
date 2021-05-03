@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-03 07:08:47)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-03 08:28:32)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 只做最纯净的稍后阅读器《Again》](https://www.appinn.com/again-for-ios/)<br/>[‣ 免费开源图片压缩工具 Squoosh 离线版](https://www.appinn.com/squoosh-desktop-app/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 亚马逊：1Q21财报电话会议实录 对上门配送进行了大量投资](https://www.199it.com/archives/1240004.html)<br/>[‣ 苹果：2Q21财报电话会议实录 库克称中国消费者对iPhone12全系列好评](https://www.199it.com/archives/1239998.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ Caviar 定制特斯拉 Model S 限量版 iPhone 12 Pro 以及汽车](https://www.ithome.com/0/549/619.htm)<br/>[‣ DigiTimes：英特尔代工仍是新手，难以对台积电三星构成威胁](https://www.ithome.com/0/549/618.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 2021 年巴菲特股东大会：减仓苹果或是错误，SPAC 市场不会永远狂热](https://www.ithome.com/0/549/626.htm)<br/>[‣ 低价售课、提前收费叫停后，在线教育市场谁在做最后挣扎](https://www.ithome.com/0/549/625.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.4 在自定义程序中引入了块小工具](https://www.wpdaxue.com/gutenberg-10-4.html)<br/>[‣ WordPress 为当前文章在【分类】小工具中的所属分类添加current-cat类名](https://www.wpdaxue.com/categories-widget-current-cat-class.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| AI 赢得填字游戏冠军](https://linux.cn/article-13354-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ dnspeep：监控 DNS 查询的工具](https://linux.cn/article-13353-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[求职\] 1 年经验 Java 后端开发找一个大厂机会](https://www.v2ex.com/t/774694#reply0)<br/>[‣ \[剧集\] 看了剧感觉很难受，是不是有心理疾病，需要看医生？](https://www.v2ex.com/t/774693#reply6) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[iPad\] Mini-LED 的调光模式是什么？](https://www.v2ex.com/t/774700#reply1)<br/>[‣ \[Apple\] 失而复得的手机](https://www.v2ex.com/t/774698#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《秘密访客》人物解析及解密（剧透警告） (评论: 秘密访客)](https://movie.douban.com/review/13516281/)<br/>[‣ 好看，但又不是完全好看 (评论: 悬崖之上)](https://movie.douban.com/review/13512932/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 不被看见的百万中国女性卡车司机们 (评论: 中国卡车司机调查报告No.3)](https://book.douban.com/review/13505872/)<br/>[‣ 一博士论文，一本书，一次全球外包 (评论: Norms, Storytelling and International Institutions in China)](https://book.douban.com/review/13515348/) |
@@ -129,12 +129,12 @@
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ BadUsb配合Cobalt-Strike免杀上线 - 天问非攻](http://www.cnblogs.com/Tianwenfeigong/p/14726887.html)<br/>[‣ 认证授权的设计与实现 - 狼爷](http://www.cnblogs.com/powercto/p/14726179.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 「奪魂鋸」超狂回歸！要送觀眾9999元現金](https://www.ptt.cc/bbs/movie/M.1619996749.A.0F8.html)<br/>[‣ Re: \[討論\] 只有我認為 瘋狂麥斯很難看嗎?](https://www.ptt.cc/bbs/movie/M.1619994817.A.8E8.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[神人\] 咖啡廣告的女演](https://www.ptt.cc/bbs/Beauty/M.1619980293.A.BA0.html)<br/>[‣ \[正妹\] 兵庫縣美人](https://www.ptt.cc/bbs/Beauty/M.1619975550.A.E28.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[帥哥\] 愛貓男人的笑容](https://www.ptt.cc/bbs/Beauty/M.1619997841.A.56B.html)<br/>[‣ \[神人\] 咖啡廣告的女演](https://www.ptt.cc/bbs/Beauty/M.1619980293.A.BA0.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 情陷聊斋 更新至16集](https://bukaivip.com/index.php/vod/detail/id/49928.html)<br/>[‣ 一周的说唱歌手 更新至2021-05-01期](https://bukaivip.com/index.php/vod/detail/id/49775.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《圣莫妮卡》：朋友说看了封面就打算剁手](https://www.gcores.com/articles/136734)<br/>[‣ 2021年4月第四周手办模型情报总汇](https://www.gcores.com/articles/136721) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《指环王》重映之际，再谈一谈幻想作品](https://www.gcores.com/articles/136319)<br/>[‣ 《圣莫妮卡》：朋友说看了封面就打算剁手](https://www.gcores.com/articles/136734) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 一家探索游戏叙事的公司，拿到上亿融资开始招人](https://www.yystv.cn/p/7868)<br/>[‣ 【社长jing了！Vol.104】上海自由高达已经可以接香客了吗？](https://www.yystv.cn/p/7866) |
