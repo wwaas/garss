@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-05 00:10:08)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-05 01:28:40)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,17 +120,17 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.5 支持嵌入PDF，新增块模式，增强自定义器的小工具功能](https://www.wpdaxue.com/gutenberg-10-5.html)<br/>[‣ Gutenberg 10.4 在自定义程序中引入了块小工具](https://www.wpdaxue.com/gutenberg-10-4.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 通过无人机上远程入侵特斯拉汽车](https://linux.cn/article-13360-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ Fedora Workstation 34 中的新变化](https://linux.cn/article-13359-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 像 Twitch 和 斗鱼 网页端怎么检测用户是否在浏览当前页面的？](https://www.v2ex.com/t/774925#reply2)<br/>[‣ \[问与答\] 异地登录，被 face`book 封了账号（如图），这种情况还能恢复吗？](https://www.v2ex.com/t/774924#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[深圳\] 广东人，打算珠三角定居。房子买哪里好呢？周末回去住或者放东西。](https://www.v2ex.com/t/774929#reply0)<br/>[‣ \[Apple\] 啊，不是，这个 airTag 根本不能用来找车啊](https://www.v2ex.com/t/774928#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《秘密访客》人物解析及解密（剧透警告） (评论: 秘密访客)](https://movie.douban.com/review/13516281/)<br/>[‣ 有多少人被《你的婚礼》的欺诈营销骗了？ (评论: 你的婚礼)](https://movie.douban.com/review/13522178/) |
-| 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 不被看见的百万中国女性卡车司机们 (评论: 中国卡车司机调查报告No.3)](https://book.douban.com/review/13505872/)<br/>[‣ 一博士论文，一本书，一次全球外包 (评论: Norms, Storytelling and International Institutions in China)](https://book.douban.com/review/13515348/) |
+| 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 一博士论文，一本书，一次全球外包 (评论: Norms, Storytelling and International Institutions in China)](https://book.douban.com/review/13515348/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 了不起的女孩们，你们一定会光芒万丈， (评论: 了不起的女孩)](https://music.douban.com/review/13507478/)<br/>[‣ 《双马尾》 (评论: 了不起的女孩)](https://music.douban.com/review/13507602/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ MVC之实现基于token的认证 - CN_Simo](http://www.cnblogs.com/lxmwb/p/mvc-zhi-shi-xian-ji-yutoken-de-ren-zheng.html)<br/>[‣ 微软加入字节码联盟，进一步开发支持Blazor 的WebAssembly技术 - 张善友](http://www.cnblogs.com/shanyou/p/14730373.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 《永恆族》片段首曝光 疑似拍到攝影師](https://www.ptt.cc/bbs/movie/M.1620144208.A.345.html)<br/>[‣ \[新聞\] 安德魯．加菲爾德回應蜘蛛人：無家日傳言](https://www.ptt.cc/bbs/movie/M.1620143366.A.BAA.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 朴珪瑛](https://www.ptt.cc/bbs/Beauty/M.1620139167.A.A4A.html)<br/>[‣ \[正妹\] 甩～甩～](https://www.ptt.cc/bbs/Beauty/M.1620131487.A.AD5.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 【译】Android NDK API 规范 - 秋城](http://www.cnblogs.com/houser0323/p/14730734.html)<br/>[‣ 14.构造器 - WNAOII](http://www.cnblogs.com/WNAOII/p/14730682.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 他看不慣成龍！故意拍部電影來諷刺](https://www.ptt.cc/bbs/movie/M.1620149476.A.2AB.html)<br/>[‣ \[討論\] 為什麼板上沒討論過拳腳之路？](https://www.ptt.cc/bbs/movie/M.1620149263.A.F76.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 楓Karen](https://www.ptt.cc/bbs/Beauty/M.1620144933.A.1DD.html)<br/>[‣ \[正妹\] 朴珪瑛](https://www.ptt.cc/bbs/Beauty/M.1620139167.A.A4A.html) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 魔改CobaltStrike：协议全剖析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1426936)<br/>[‣ 【原创】TP驱动保护分析系列一 定位TenProtect保护](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1426244) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
