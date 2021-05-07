@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-08 01:33:30)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-08 02:14:35)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)<br/>[‣ JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 用明基99%AdobeRGB的屏幕修一加8拍摄的夜景图片](https://v2fy.com/p/2021-05-05-benq-1620222216000/)<br/>[‣ 《觉醒年代》近年少有的演技在线摄影水平一流的好剧（附无广告超清观看地址）](https://v2fy.com/p/2021-05-04-bit-1620091081000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ 腾讯云全球云服务器活动再现 - 涵美国/香港等CVM云服务器和轻量服务器](https://www.laozuo.org/19165.html)<br/>[‣ IMIDC - 直连香港VPS低至年$49且香港服务器30M带宽月59美元](https://www.laozuo.org/19160.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Mega Man X Legacy Collection Trainer](https://flingtrainer.com/trainer/mega-man-x-legacy-collection-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=mega-man-x-legacy-collection-trainer)<br/>[‣ PC Building Simulator Trainer](https://flingtrainer.com/trainer/pc-building-simulator-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=pc-building-simulator-trainer) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ 互联网的“套娃行为”有多凶残?](https://www.runningcheese.com/useragent)<br/>[‣ 100% 解决浏览器内存占用大的问题！](https://www.runningcheese.com/browser-ram-usage) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/)<br/>[‣ 鼓励犯错 - 读《华为供应链管理》](https://blog.devtang.com/2021/04/18/the-supply-chain-of-huawei-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 在你家公司使用 Django Migrate](https://www.kawabangga.com/posts/4249)<br/>[‣ Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) |
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 通过代码实现 Ajax 自动完成搜索](https://www.wpdaxue.com/making-autocomplete-search-in-wordpress-with-code.html)<br/>[‣ Gutenberg 10.5 支持嵌入PDF，新增块模式，增强自定义器的小工具功能](https://www.wpdaxue.com/gutenberg-10-5.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 《地铁：离去》终于来到了 Steam for Linux](https://linux.cn/article-13370-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 \| 纳斯达克股票系统遭遇“巴菲特千年虫”](https://linux.cn/article-13369-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[JetBrains\] IntelliJ IDEA 不能通过装插件来写 C、C++和 C#吗？](https://www.v2ex.com/t/775545#reply1)<br/>[‣ \[天黑以后\] 昨天的这个时候，我跟我喜欢的男生表白； 6 个小时后，我们只能是朋友](https://www.v2ex.com/t/775544#reply1) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[程序员\] 一年经验不到，如果公司没有好的项目怎么办？](https://www.v2ex.com/t/775546#reply0)<br/>[‣ \[JetBrains\] IntelliJ IDEA 不能通过装插件来写 C、C++和 C#吗？](https://www.v2ex.com/t/775545#reply2) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 说体面收场，是对这份爱的最大侮辱 (评论: 山河令生来知己演唱会)](https://movie.douban.com/review/13523241/)<br/>[‣ 剧与观众的互相尊重、彼此成就。（观众：你不搞我，我就不搞你。 (评论: 御赐小仵作)](https://movie.douban.com/review/13527355/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 不被看见的百万中国女性卡车司机们 (评论: 中国卡车司机调查报告No.3)](https://book.douban.com/review/13505872/)<br/>[‣ 一博士论文，一本书，一次全球外包 (评论: Norms, Storytelling and International Institutions in China)](https://book.douban.com/review/13515348/) |
