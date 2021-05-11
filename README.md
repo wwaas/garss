@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-12 05:05:43)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-12 06:08:04)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 可以有已经通关了《生化危机 8》的大神来讲解一下剧情吗？](http://www.zhihu.com/question/458226745/answer/1874790534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 中国漫画的寒冬到底是因为网文，还是说原创漫画家挣不到钱？](http://www.zhihu.com/question/457656271/answer/1872221730?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ DDNSTO – 梅林、爱快、老毛子，群晖、威联通、Openwrt，26元/年的 内网穿透 要不要？](https://www.appinn.com/ddnsto/)<br/>[‣ \[5月荔枝\]5 款学术工具让你如虎添翼，正版学术软件特价](https://www.appinn.com/lizhi-5-2021/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 埃森哲报告：跨越发展，领军未来](https://www.199it.com/archives/1244512.html)<br/>[‣ WTO：技术性贸易壁垒协议手册](https://www.199it.com/archives/1244494.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ AgileSherpas：2021年敏捷营销报告](https://www.199it.com/archives/1240091.html)<br/>[‣ 凯度&Google：2021年BrandZ™中国全球化品牌50强报告](https://www.199it.com/archives/1244425.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 微星 GS76 Stealth 正式发布：i9-11980HK+RTX 3080，4K 120Hz 屏](https://www.ithome.com/0/550/946.htm)<br/>[‣ 新款雷蛇灵刃 15 精英版：最高 i9-11900H，RTX3060 版仅 15.8mm](https://www.ithome.com/0/550/944.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
