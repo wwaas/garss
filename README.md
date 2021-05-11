@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-11 07:06:37)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-11 08:17:34)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -91,7 +91,7 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Apple awards Corning $45 million from its Advanced Manufacturing Fund](https://www.apple.com/newsroom/2021/05/apple-awards-corning-45-million-from-its-advanced-manufacturing-fund/)<br/>[‣ Apple awards an additional $410 million from its Advanced Manufacturing Fund to II-VI](https://www.apple.com/newsroom/2021/05/apple-awards-an-additional-410-million-from-its-advanced-manufacturing-fund-to-ii-vi/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 活在红杉和高瓴的阴影之下](http://www.huxiu.com/article/426960.html?f=wangzhan)<br/>[‣ 澳大利亚利用铁矿石制约中国，中国如何反击？](http://www.huxiu.com/article/426848.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 8点1氪 \| 上海消保委约谈美团、拼多多；微博CEO称被钻空子的“粉丝经济”需要整改；索尼：PlayStation 5供应紧缺将持续到明年](https://36kr.com/p/1218802655138433)<br/>[‣ Pico推出Neo 3系列VR一体机，搭载高通XR2芯片，售价2499元起](https://36kr.com/p/1218625591562887) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 36氪首发 \| 全面布局结构性心脏病领域，「臻亿医疗」获数亿元A轮融资](https://36kr.com/p/1218524625817984)<br/>[‣ 36氪首发\|聚焦儿童遗传病精准防控与诊疗一体化，「赛福基因」完成超亿元B轮融资](https://36kr.com/p/1218744283091588) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ 微软亚洲研究院最新研究成果：文字生成视频，只需一步](https://www.msra.cn/zh-cn/news/features/godiva)<br/>[‣ ICLR 2021 \| 协同调制生成对抗网络，轻松帮你实现任意大区域图像填充](https://www.msra.cn/zh-cn/news/features/iclr-2021-comodgan) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ 讯飞双屏翻译机体验：两块屏幕，双倍效率？](http://www.geekpark.net/news/277946)<br/>[‣ Chromebook 是好产品，可惜不适合中国](http://www.geekpark.net/news/278020) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
@@ -115,26 +115,26 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ \[5月荔枝\]5 款学术工具让你如虎添翼，正版学术软件特价](https://www.appinn.com/lizhi-5-2021/)<br/>[‣ Screen Sizes – Apple 移动设备屏幕完整指南，包含 iPhone、iPad、Watch 、ATV、CarPlay 屏幕参数](https://www.appinn.com/screen-sizes-from-apple-mobile-devices/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ GDC：2021年游戏行业报告](https://www.199it.com/archives/1243104.html)<br/>[‣ IAB：2021年网络定向广告报告](https://www.199it.com/archives/1238179.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 黑客组织攻击美燃油管道只为钱，不想制造混乱](https://www.ithome.com/0/550/759.htm)<br/>[‣ 苹果 iOS 14.6/iPadOS 14.6 开发者预览版 / 公测版 Beta 3 发布](https://www.ithome.com/0/550/758.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 芯片短缺导致减产裁员，美商务部长计划就此召开会议](https://www.ithome.com/0/550/771.htm)<br/>[‣ 谷歌 Chrome 90 浏览器 iOS 版发布：新增搜索和恐龙游戏小组件，支持修改已保存的用户名和密码](https://www.ithome.com/0/550/770.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 让 Rank Math SEO 输出关键词 keywords meta 字段信息](https://www.wpdaxue.com/rank-math-seo-keywords-meta-field.html)<br/>[‣ WooCommerce 带动顾客购物的十种方法](https://www.wpdaxue.com/ten-ways-to-nudge-customers-to-make-a-purchase.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 用 NetworkManager 配置 WireGuard 虚拟私有网络](https://linux.cn/article-13379-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 \| 美国最大的燃油管道运营商遭攻击之后，美国宣布进入紧急状态](https://linux.cn/article-13378-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[职场话题\] 半夜睡不着觉，来吐槽下接手的屎山](https://www.v2ex.com/t/776131#reply2)<br/>[‣ \[Apple\] iPad Pro 变弯是什么原理，这次 12.9 加厚了以后还会出现变弯的问题吗？](https://www.v2ex.com/t/776130#reply5) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] js 火是因为浏览器都内置了 js 引擎吗？那如果出个新的语言 pythonScript，然后浏览器也能执行，能火吗](https://www.v2ex.com/t/776137#reply1)<br/>[‣ \[分享发现\] 最近发现的很棒的写脚本的库： zx](https://www.v2ex.com/t/776136#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 我对扎克版《正义联盟》的看法 (评论: 扎克·施奈德版正义联盟)](https://movie.douban.com/review/13538301/)<br/>[‣ nano7集受了女二影响吧，第8集就有点东西了 (评论: 禁忌女孩2)](https://movie.douban.com/review/13534992/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 《被统治的艺术》deleted中英对照 (评论: 被统治的艺术)](https://book.douban.com/review/13533482/)<br/>[‣ 不被看见的百万中国女性卡车司机们 (评论: 中国卡车司机调查报告No.3)](https://book.douban.com/review/13505872/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 阳光下的金海心（旧文） (评论: 独立日)](https://music.douban.com/review/13536162/)<br/>[‣ 分享一个邪不压正的故事 (评论: 岁岁平安)](https://music.douban.com/review/13529759/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ \[PowerShell\] 快速入门, 基本语法, 常用类型, 函数, .NET 互操作 - SlimeNull](http://www.cnblogs.com/slimenull/p/14753676.html)<br/>[‣ Linux下为Calibre书库打中文目录名与文件名补丁 - 东北小狐狸](http://www.cnblogs.com/hellxz/p/change-calibre-book-path-with-filename-in-chinese.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 梵谷到我家（有雷）](https://www.ptt.cc/bbs/movie/M.1620687417.A.5E2.html)<br/>[‣ \[請益\] 關於魔戒炎魔問題](https://www.ptt.cc/bbs/movie/M.1620687239.A.972.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 峮峮、粿粿表情包](https://www.ptt.cc/bbs/Beauty/M.1620678363.A.C98.html)<br/>[‣ \[公告\] 水桶](https://www.ptt.cc/bbs/Beauty/M.1620669240.A.0F0.html) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 从零开始搞监控系统（1）——SDK - 咖啡机（K.F.J）](http://www.cnblogs.com/strick/p/14574492.html)<br/>[‣ \[PowerShell\] 快速入门, 基本语法, 常用类型, 函数, .NET 互操作 - SlimeNull](http://www.cnblogs.com/slimenull/p/14753676.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 金球獎最大危機！阿湯退還3獎座 NBC放話](https://www.ptt.cc/bbs/movie/M.1620691989.A.DCD.html)<br/>[‣ \[好雷\] 梵谷到我家（有雷）](https://www.ptt.cc/bbs/movie/M.1620687417.A.5E2.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 舒特膚女主角](https://www.ptt.cc/bbs/Beauty/M.1620691428.A.325.html)<br/>[‣ \[正妹\] 峮峮、粿粿表情包](https://www.ptt.cc/bbs/Beauty/M.1620678363.A.C98.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 谁是宝藏歌手嗨看版 2021-05-10期](https://bukaivip.com/index.php/vod/detail/id/49825.html)<br/>[‣ 白玉思无瑕 更新至32集](https://bukaivip.com/index.php/vod/detail/id/49498.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 摄影分享丨凑热闹，图一乐](https://www.gcores.com/articles/136855)<br/>[‣ 《我的世界：地下城》新DLC“隐秘深渊”公布，5月26日全平台发布](https://www.gcores.com/articles/136988) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 从《黑暗骑士归来》到《薛西斯》：弗兰克·米勒的漫画之道](https://www.gcores.com/articles/136891)<br/>[‣ 摄影分享丨凑热闹，图一乐](https://www.gcores.com/articles/136855) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 致敬星露谷的《超级动物园物语》，被指“致敬”过了头](https://www.yystv.cn/p/7883)<br/>[‣ 动森玩家完成了一项耗时六百小时的“速通”纪录](https://www.yystv.cn/p/7882) |
