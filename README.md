@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-12 06:08:04)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-12 07:06:23)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,17 +105,17 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 最近跟去年过完年一样，搁家里忙春种来着。因为想自己做发饰拍照所以有了这个视频用真丝布料做了些“绢花”工艺的汉服饰品趁着春色正好，桃花漫山带上老人家去她...](https://weibo.com/2970452952/K9G6zC37c)<br/>[‣ 一年又到头啦！年俗、年货小零食做起来准备过大年喽～瓜子 花生 糖葫芦、馓子 虾片走起来！给所有没回家就地过年的小伙伴们大大的拥抱我相信，生生不息的希望和...](https://weibo.com/2970452952/K1k5NkiX2) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 明年春季量产，福特首款纯电皮卡被命名为“F-150 Lightning”](http://www.toodaylab.com/79802)<br/>[‣ 今日消费资讯：GUCCI 将在洛杉矶举行新季时装秀、维多利亚的秘密官宣 3 位品牌挚友](http://www.toodaylab.com/79799) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Curious Garden](https://www.behance.net/gallery/118938053/Curious-Garden)<br/>[‣ Pure by Giahi](https://www.behance.net/gallery/119226749/Pure-by-Giahi) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Ziruma Wood Cutting Boards](https://www.behance.net/gallery/117613091/Ziruma-Wood-Cutting-Boards)<br/>[‣ Curious Garden](https://www.behance.net/gallery/118938053/Curious-Garden) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Knit Con 2021: Pinterest’s Employees Celebrate Inspiration, Creativity and Hands-On Learning](https://newsroom.pinterest.com/en/post/knit-con-2021)<br/>[‣ Pinterest Celebrates Asian Pacific Islander Heritage Month](https://newsroom.pinterest.com/en/post/pinterest-celebrates-asian-pacific-islander-heritage-month) |
-| 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 如何顺利通过UI设计评审？掌握这4个注意点！](https://www.uisdc.com/ui-design-review)<br/>[‣ 还缺免费英文字体？7款付费级的优雅风格字体打包！](https://www.uisdc.com/7-english-font) |
+| 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 第二波！我希望能早点知道的 10 个 Figma 技巧](https://www.uisdc.com/11-figma-tricks-wish-i-knew-2)<br/>[‣ 如何顺利通过UI设计评审？掌握这4个注意点！](https://www.uisdc.com/ui-design-review) |
 | 腾讯CDC | 腾讯用户研究与体验设计部 | [订阅地址](https://cdc.tencent.com/feed/) | [‣ Web 应用高并发的思考与实践](https://cdc.tencent.com/2021/03/15/web-%e5%ba%94%e7%94%a8%e9%ab%98%e5%b9%b6%e5%8f%91%e7%9a%84%e6%80%9d%e8%80%83%e4%b8%8e%e5%ae%9e%e8%b7%b5/)<br/>[‣ Chinese User Experience Industry Report on Design Talent](https://cdc.tencent.com/2021/02/03/chinese-user-experience-industry-report-on-design-talent/) |
 | <h2 id="内容平台">内容平台</h2> |  |   |  |
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 可以有已经通关了《生化危机 8》的大神来讲解一下剧情吗？](http://www.zhihu.com/question/458226745/answer/1874790534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 中国漫画的寒冬到底是因为网文，还是说原创漫画家挣不到钱？](http://www.zhihu.com/question/457656271/answer/1872221730?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ DDNSTO – 梅林、爱快、老毛子，群晖、威联通、Openwrt，26元/年的 内网穿透 要不要？](https://www.appinn.com/ddnsto/)<br/>[‣ \[5月荔枝\]5 款学术工具让你如虎添翼，正版学术软件特价](https://www.appinn.com/lizhi-5-2021/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ AgileSherpas：2021年敏捷营销报告](https://www.199it.com/archives/1240091.html)<br/>[‣ 凯度&Google：2021年BrandZ™中国全球化品牌50强报告](https://www.199it.com/archives/1244425.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 微星 GS76 Stealth 正式发布：i9-11980HK+RTX 3080，4K 120Hz 屏](https://www.ithome.com/0/550/946.htm)<br/>[‣ 新款雷蛇灵刃 15 精英版：最高 i9-11900H，RTX3060 版仅 15.8mm](https://www.ithome.com/0/550/944.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 三星与珠宝商推出特别版 Galaxy Watch3，售价 3040 元起](https://www.ithome.com/0/550/955.htm)<br/>[‣ 砸钱吸引网红：YouTube 出资 1 亿美元奖励短视频平台 Shorts 内容创作者](https://www.ithome.com/0/550/954.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 470](https://weekly.pychina.org/issue/issue-470.html)<br/>[‣ Issue 469](https://weekly.pychina.org/issue/issue-469.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 让 Rank Math SEO 输出关键词 keywords meta 字段信息](https://www.wpdaxue.com/rank-math-seo-keywords-meta-field.html)<br/>[‣ WooCommerce 带动顾客购物的十种方法](https://www.wpdaxue.com/ten-ways-to-nudge-customers-to-make-a-purchase.html) |
@@ -136,5 +136,5 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 完美的他 共36集,更新至8集](https://bukaivip.com/index.php/vod/detail/id/50772.html)<br/>[‣ 遇龙 共36集,更新至10集](https://bukaivip.com/index.php/vod/detail/id/50712.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 读起来爽又不缺深度的经典赛博朋克：《雪崩》 导读](https://www.gcores.com/radios/137028)<br/>[‣ 马特·达蒙主演新片《静水》发布全新预告](https://www.gcores.com/articles/137029) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 星际战士和大火箭：总结一下近期的模型作品](https://www.gcores.com/articles/136985)<br/>[‣ 读起来爽又不缺深度的经典赛博朋克：《雪崩》 导读](https://www.gcores.com/radios/137028) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ “周公解梦”是怎么在现代做到与时俱进的？](https://www.yystv.cn/p/7885)<br/>[‣ 【白夜谈】脱发很可怕，但也不是那么可怕](https://www.yystv.cn/p/7886) |
