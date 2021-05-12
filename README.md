@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-13 01:39:08)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-13 02:22:12)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价国产漫画《BLISS～极乐幻奇谭》？](http://www.zhihu.com/question/383710604/answer/1882664114?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 顶刊综述吵起来了，我们还应该推荐大众少吃盐吗？](http://zhuanlan.zhihu.com/p/370828672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 西窗烛 – 用屏幕小组件鉴赏诗句。中华传统文化平台，品味中国诗词之美](https://www.appinn.com/xichuangzhu/)<br/>[‣ DDNSTO – 梅林、爱快、老毛子，群晖、威联通、Openwrt，26元/年的 内网穿透 要不要？](https://www.appinn.com/ddnsto/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 预计2027年电动汽车的生产成本将会低于同类型传统燃油车](https://www.199it.com/archives/1245024.html)<br/>[‣ 威斯敏斯特大学：研究发现粉色饮料能帮助人们提高运动表现](https://www.199it.com/archives/1245018.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 零碳之路：“十四五”开启中国绿色发展新篇章](https://www.199it.com/archives/1184172.html)<br/>[‣ 平安研究：字节强势进入  美团稳扎稳打（附下载）](https://www.199it.com/archives/1244798.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 比尔盖茨“躲在”加州顶级高尔夫俱乐部豪宅内，外人无法进入](https://www.ithome.com/0/551/131.htm)<br/>[‣ 直播打赏乱象，男孩沉迷女主播 70 天打赏 158 万元，法院调解后平台全额返还](https://www.ithome.com/0/551/130.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 472](https://weekly.pychina.org/issue/issue-472.html)<br/>[‣ pythonista-weekly : Pyw 498](https://weekly.pychina.org/python-weekly/pyw-498.html) |
