@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-13 13:18:14)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-13 14:10:48)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,27 +114,27 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价国产漫画《BLISS～极乐幻奇谭》？](http://www.zhihu.com/question/383710604/answer/1882664114?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 顶刊综述吵起来了，我们还应该推荐大众少吃盐吗？](http://zhuanlan.zhihu.com/p/370828672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为何加拿大创投圈不太行](https://wanqu.co/p/7574?s=rss)<br/>[‣ 硅谷的公司能善用软件工程师，而传统公司不能](https://wanqu.co/p/7573?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 西窗烛 – 用屏幕小组件鉴赏诗句。中华传统文化平台，品味中国诗词之美](https://www.appinn.com/xichuangzhu/)<br/>[‣ DDNSTO – 梅林、爱快、老毛子，群晖、威联通、Openwrt，26元/年的 内网穿透 要不要？](https://www.appinn.com/ddnsto/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 深耕“AI+教育”，网易有道携两大明星产品亮相中国品牌日](https://www.199it.com/archives/1245387.html)<br/>[‣ GWI：2021年社交媒体趋势报告](https://www.199it.com/archives/1242993.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ OPPO 注册大量“马里亚纳”商标，或与自研芯片有关](https://www.ithome.com/0/551/224.htm)<br/>[‣ 阿里巴巴副总裁范驰离职，11 年间历任支付宝、口碑、飞猪、大文娱高管](https://www.ithome.com/0/551/223.htm) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 对孩子成功的机会影响最大的是什么？](https://www.199it.com/archives/1245409.html)<br/>[‣ 深耕“AI+教育”，网易有道携两大明星产品亮相中国品牌日](https://www.199it.com/archives/1245387.html) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 中国民营航天计划明年实施首次国际发射](https://www.ithome.com/0/551/234.htm)<br/>[‣ 寒武纪 CEO 回应汽车芯片计划，芯片 IP 落地设备数过亿](https://www.ithome.com/0/551/233.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 472](https://weekly.pychina.org/issue/issue-472.html)<br/>[‣ pythonista-weekly : Pyw 498](https://weekly.pychina.org/python-weekly/pyw-498.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 让 Rank Math SEO 输出关键词 keywords meta 字段信息](https://www.wpdaxue.com/rank-math-seo-keywords-meta-field.html)<br/>[‣ WooCommerce 带动顾客购物的十种方法](https://www.wpdaxue.com/ten-ways-to-nudge-customers-to-make-a-purchase.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 使用 GNU Screen 的小技巧](https://linux.cn/article-13387-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 初级：如何通过 Torrent 下载 Ubuntu](https://linux.cn/article-13386-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 为什么跨平台框架复杂 UI 都会卡顿，而跨平台游戏引擎不会呢？](https://www.v2ex.com/t/776693#reply3)<br/>[‣ \[问与答\] 上海市宛平南路 600 号.有医生推荐么，挂不上号](https://www.v2ex.com/t/776692#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享发现\] \[英文\] 基于 GPT-3 AI 的文字冒险游戏大家都玩上了吗](https://www.v2ex.com/t/776706#reply0)<br/>[‣ \[程序员\] Nebula Graph 的 Ansible 实践](https://www.v2ex.com/t/776705#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 关于《蓝宇》，你可能不知道的N件事 (评论: 蓝宇)](https://movie.douban.com/review/13541299/)<br/>[‣ S6E1目前找到的梗（补充关于“echo”的猜测） (评论: 9号秘事 第六季)](https://movie.douban.com/review/13539941/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 《被统治的艺术》deleted中英对照 (评论: 被统治的艺术)](https://book.douban.com/review/13533482/)<br/>[‣ 王小波说，王道乾译《情人》，用了最好的译笔 (评论: 情人)](https://book.douban.com/review/13541941/) |
-| 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 比短评长一点，比长评短一点 (评论: Good Time (Original Motion Picture Soundtrack))](https://music.douban.com/review/13526324/)<br/>[‣ 内地优秀的实验电子专辑，需要你发现细节 (评论: Alien)](https://music.douban.com/review/13520977/) |
+| 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 你是乌鸦，也是我仅有的夺目闪电。 (评论: 乌鸦)](https://music.douban.com/review/13533540/)<br/>[‣ Texas Reznikoff -- 诗意瞬间凝结为动人的永恒 (评论: Bury Me at Make Out Creek)](https://music.douban.com/review/13531309/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 关于Java处理串口二进制数据的问题  byte的范围 一个字节8bits - 蓝天上的云℡](http://www.cnblogs.com/yucloud/p/Java_byte.html)<br/>[‣ .Net 中两分钟集成敏感词组件 - 张蘅水](http://www.cnblogs.com/chenug/p/ToolGood_Words_Sample.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 查克史奈德：黑人版超人電影早該出現了](https://www.ptt.cc/bbs/movie/M.1620883181.A.360.html)<br/>[‣ \[新聞\] 北影入圍後天公布！邱澤、張震爭帝熱門](https://www.ptt.cc/bbs/movie/M.1620882944.A.133.html) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ .Net 中两分钟集成敏感词组件 - 张蘅水](http://www.cnblogs.com/chenug/p/ToolGood_Words_Sample.html)<br/>[‣ Spring Boot & Cloud 轻量替代框架 Solon 1.3.37 发布 - 刘之西东](http://www.cnblogs.com/noear/p/14764064.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 韓國名導奉俊昊將推深海生物題材動畫片](https://www.ptt.cc/bbs/movie/M.1620885769.A.AC4.html)<br/>[‣ \[討論\] 玩命關頭全套9部，iTunes $1,290特價中](https://www.ptt.cc/bbs/movie/M.1620884668.A.BFC.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[廣告\] 清純派美少女 新條由芽 白嫩身材既性感又撫媚](https://www.ptt.cc/bbs/Beauty/M.1620875571.A.F24.html)<br/>[‣ \[正妹\] 河野萬里奈](https://www.ptt.cc/bbs/Beauty/M.1620874740.A.D36.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 许少的隐婚甜妻第二季 全30集](https://bukaivip.com/index.php/vod/detail/id/50436.html)<br/>[‣ 婆婆和妈妈第二季 2021-05-12期](https://bukaivip.com/index.php/vod/detail/id/47510.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 许少的隐婚甜妻第二季 全30集](https://bukaivip.com/index.php/vod/detail/id/50436.html)<br/>[‣ 完美的他 更新至10集](https://bukaivip.com/index.php/vod/detail/id/50772.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 【票务通知】“核聚变2021”北京站两日门票现已全部售罄](https://www.gcores.com/articles/137101)<br/>[‣ Xbox官方微博：“新世代，即将来临”](https://www.gcores.com/articles/137099) |
-| 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 运营商占领B站舞蹈区背后，是宅舞正在成为时代的眼泪](https://www.yystv.cn/p/7895)<br/>[‣ 《命运2》公布了新赛季预告，玩家却全被里面的外星幼崽吸引走了](https://www.yystv.cn/p/7892) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 一口气看完《生化1》到《生化8》的编年史和制作历史](https://www.gcores.com/videos/137005)<br/>[‣ 诺斯替主义——中二病开始的地方](https://www.gcores.com/articles/136890) |
+| 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 【白夜谈】如何避免社会性死亡](https://www.yystv.cn/p/7896)<br/>[‣ 运营商占领B站舞蹈区背后，是宅舞正在成为时代的眼泪](https://www.yystv.cn/p/7895) |
