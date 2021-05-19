@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-20 05:07:49)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-20 06:10:08)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 使用CSS revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)<br/>[‣ 输入框value属性赋值触发js change事件的实现](https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 无广告版精简版知乎](https://v2fy.com/p/2021-05-18-zhihu-no-ads-1621330789000/)<br/>[‣ 解锁Kindle电子书的加密格式](https://v2fy.com/p/2021-05-17-kindle-1621237478000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ HostXen 五月新用户注册送20元 香港云服务器2GB内存起步月50元](https://www.laozuo.org/19314.html)<br/>[‣ 欧路云OuluCloud夏季促销活动 - 香港/美国/加拿大VPS低至月10元](https://www.laozuo.org/19317.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Days Gone Trainer](https://flingtrainer.com/trainer/days-gone-trainer-20210518/?utm_source=rss&utm_medium=rss&utm_campaign=days-gone-trainer-20210518)<br/>[‣ Mass Effect Legendary Edition (Mass Effect 3) Trainer](https://flingtrainer.com/trainer/mass-effect-legendary-edition-mass-effect-3-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=mass-effect-legendary-edition-mass-effect-3-trainer) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多可获 6折 以上优惠！！！](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/)<br/>[‣ 鼓励犯错 - 读《华为供应链管理》](https://blog.devtang.com/2021/04/18/the-supply-chain-of-huawei-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 在你家公司使用 Django Migrate](https://www.kawabangga.com/posts/4249)<br/>[‣ Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价《进击的巨人》最终话全部加页内容?](http://www.zhihu.com/question/460186596/answer/1894891438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 2021 年 5 月 18 日是国际博物馆日，你认为「一生一定要去」的博物馆是哪座？](http://www.zhihu.com/question/459221242/answer/1892824321?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Dishes Launcher – 托盘里的快速启动工具\[Windows\]](https://www.appinn.com/dishes-launcher/)<br/>[‣ NotesHub – 使用 GitHub 保存数据的在线 Markdown 笔记服务](https://www.appinn.com/noteshub-online/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ FAO：2021国际果蔬年背景文件](https://www.199it.com/archives/1248211.html)<br/>[‣ 氢能源行业前景分析与洞察：借鉴欧洲经验，打造低碳氢经济](https://www.199it.com/archives/1248186.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Tofugear：2020年亚洲网络消费者报告](https://www.199it.com/archives/1247249.html)<br/>[‣ 毕马威：2021年第一季度全球风险投资报告](https://www.199it.com/archives/1236889.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 我国天舟二号货运飞船发射任务推迟，时间另行确定](https://www.ithome.com/0/552/433.htm)<br/>[‣ 大促继续：京东 PLUS + 爱奇艺会员联合年卡 138 元](https://www.ithome.com/0/551/345.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 473](https://weekly.pychina.org/issue/issue-473.html)<br/>[‣ pythonista-weekly : Pyw 499](https://weekly.pychina.org/python-weekly/pyw-499.html) |
