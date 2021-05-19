@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-20 06:10:08)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-20 07:09:51)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -91,7 +91,7 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Apple previews powerful software updates designed for people with disabilities](https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/)<br/>[‣ Endel app creator on the power of endless ambient music](https://www.apple.com/newsroom/2021/05/endel-app-creator-on-the-power-of-endless-ambient-music/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 新 iPad Pro 首发体验：距离完美，只差…](http://www.huxiu.com/article/429011.html?f=wangzhan)<br/>[‣ 美的造车，虚晃一枪](http://www.huxiu.com/article/428958.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 便利店的「山西现象」：国际巨头难入场，规模反超北上广](https://36kr.com/p/1231416448717193)<br/>[‣ 业绩快报｜京东Q1营收2032亿，社区团购等新业务亏损22.8亿](https://36kr.com/p/1231206476436097) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 8点1氪丨加密货币昨日闪崩；京东Q1营收同比增39%；爱奇艺称会费涨价是必然趋势](https://36kr.com/p/1231564215718273)<br/>[‣ 便利店的「山西现象」：国际巨头难入场，规模反超北上广](https://36kr.com/p/1231416448717193) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ 从数据分析、密码学角度看区块链未来](https://www.msra.cn/zh-cn/news/features/pipezk-and-ethereum-mining-power-decentralization)<br/>[‣ 一键部署分布式训练，微软“群策 MARO”上新集群管理助手](https://www.msra.cn/zh-cn/news/features/maro-cli) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ 华为 MateView 体验：一出手就是精品，这块显示器到底有何不同？](http://www.geekpark.net/news/278267)<br/>[‣ 华为 MateBook 16 体验：10bit 屏幕和 AMD 标压处理器，还有更便捷的使用体验](http://www.geekpark.net/news/278315) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Dishes Launcher – 托盘里的快速启动工具\[Windows\]](https://www.appinn.com/dishes-launcher/)<br/>[‣ NotesHub – 使用 GitHub 保存数据的在线 Markdown 笔记服务](https://www.appinn.com/noteshub-online/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Tofugear：2020年亚洲网络消费者报告](https://www.199it.com/archives/1247249.html)<br/>[‣ 毕马威：2021年第一季度全球风险投资报告](https://www.199it.com/archives/1236889.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 我国天舟二号货运飞船发射任务推迟，时间另行确定](https://www.ithome.com/0/552/433.htm)<br/>[‣ 大促继续：京东 PLUS + 爱奇艺会员联合年卡 138 元](https://www.ithome.com/0/551/345.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苹果 Apple Watch Series 7 渲染图出炉：直角边、全新绿色](https://www.ithome.com/0/552/441.htm)<br/>[‣ 美股收跌，拼多多涨逾 4%，中国销售放缓令特斯拉市值蒸发近 3000 亿美元](https://www.ithome.com/0/552/440.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 473](https://weekly.pychina.org/issue/issue-473.html)<br/>[‣ pythonista-weekly : Pyw 499](https://weekly.pychina.org/python-weekly/pyw-499.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7.2 修复 PHPMailer 安全漏洞，请及时更新](https://www.wpdaxue.com/wordpress-5-7-2.html)<br/>[‣ Gutenberg 10.6 添加Duotone过滤器、查询模式轮播和最常用标签选择器](https://www.wpdaxue.com/gutenberg-10-6.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| Android 12 发布，小米等设备可以提前测试](https://linux.cn/article-13406-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ SonoBus：支持跨平台的开源点对点音频流应用](https://linux.cn/article-13405-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Android\] Play 商店的 QQ 倒退回 32 位了？](https://www.v2ex.com/t/778024#reply4)<br/>[‣ \[深圳\] 一房一卫｜回港办事，转租福田上沙好房（下沙站步行 10 分钟内）采光通风俱佳，¥2400 包管理费](https://www.v2ex.com/t/778022#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享发现\] 哔哩哔哩 Android 会在每次启动时往 Documents 目录下写入文件](https://www.v2ex.com/t/778027#reply0)<br/>[‣ \[Java\] Spring controller 的 handler 方法在处理多个请求的时候会在多个线程中运行吗？](https://www.v2ex.com/t/778026#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《速度与光头1~8+外传》：头发越短，战力越强，活得越久 (评论: 速度与激情9)](https://movie.douban.com/review/13554497/)<br/>[‣ 你爱了23年的女孩长大了，别忘了她曾有多有自由 (评论: 还珠格格)](https://movie.douban.com/review/13553569/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《痴人之爱》浅谈“被包养后的逆袭” (评论: 痴人之爱)](https://book.douban.com/review/13550212/)<br/>[‣ 王小波说，王道乾译《情人》，用了最好的译笔 (评论: 情人)](https://book.douban.com/review/13541941/) |
@@ -136,5 +136,5 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《黑相集：灰冥界》公布全新先导预告，将于5月27日带来游玩演示](https://www.gcores.com/articles/137279)<br/>[‣ 聊聊我们对《生化危机 村庄》的看法](https://www.gcores.com/radios/137280) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 光与焰：《光环》先行者单兵武器简介（下）](https://www.gcores.com/articles/137067)<br/>[‣ 《黑相集：灰冥界》公布全新先导预告，将于5月27日带来游玩演示](https://www.gcores.com/articles/137279) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 英国小镇新添的花盆长得像马力欧的水管，可当地居民不太满意](https://www.yystv.cn/p/7916)<br/>[‣ 暴雪官方承认，克罗米曾经是个可爱的男孩子](https://www.yystv.cn/p/7915) |
