@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-21 05:07:53)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-21 06:09:48)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价《画江湖之不良人》第四季第 5 集？](http://www.zhihu.com/question/460308083/answer/1895764578?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 为什么说“谁先提出离婚谁吃亏”？](http://zhuanlan.zhihu.com/p/373402465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ PC 版微信、QQ、TIM 防撤回补丁\[Windows\]](https://www.appinn.com/revoke-msg-patcher-for-wechat-qq-tim/)<br/>[‣ Dishes Launcher – 托盘里的快速启动工具\[Windows\]](https://www.appinn.com/dishes-launcher/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 达信&美世：2020亚洲私募基金调研报告](https://www.199it.com/archives/1248798.html)<br/>[‣ 联合国经济发展：2021年5月全球贸易信息](https://www.199it.com/archives/1248938.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ PayPal：2020年全球影响力报告](https://www.199it.com/archives/1247136.html)<br/>[‣ 614 Group：2021年品牌安全报告](https://www.199it.com/archives/1248112.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 今日小满：微雨过，小荷翻，初夏至](https://www.ithome.com/0/552/680.htm)<br/>[‣ 《王者荣耀》将进一步提升战场清晰度：预警效果、敌我特效、信息补全...](https://www.ithome.com/0/552/681.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 473](https://weekly.pychina.org/issue/issue-473.html)<br/>[‣ pythonista-weekly : Pyw 499](https://weekly.pychina.org/python-weekly/pyw-499.html) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Jetpack Compose What and Why, 6个问题 - 圣骑士wind](http://www.cnblogs.com/mengdd/p/Jetpack-Compose-What-and-Why.html)<br/>[‣ 通俗易懂的JS之Proxy - kongsam](http://www.cnblogs.com/kongsam/p/14792115.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[討論\] 《尚氣》新產品圖！女主角戰鬥服裝微調？](https://www.ptt.cc/bbs/movie/M.1621543671.A.70E.html)<br/>[‣ \[討論\] 在這個版找到心有靈犀的負雷是否很難XD?](https://www.ptt.cc/bbs/movie/M.1621541693.A.9FE.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 漫威爆雷王換人當？《蜘蛛人：無家日》](https://www.ptt.cc/bbs/movie/M.1621548333.A.2FB.html)<br/>[‣ \[討論\] 《尚氣》新產品圖！女主角戰鬥服裝微調？](https://www.ptt.cc/bbs/movie/M.1621543671.A.70E.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 廣告常客](https://www.ptt.cc/bbs/Beauty/M.1621541999.A.CE2.html)<br/>[‣ \[正妹\] 短髮](https://www.ptt.cc/bbs/Beauty/M.1621530457.A.DF8.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ \[DC29 Quals\] Reverse-Tiamat WriteUp](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1437363)<br/>[‣ capstone2llvmir入门---如何把汇编转换为llvmir](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1436845) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
