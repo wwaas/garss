@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-21 06:09:48)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-21 07:08:49)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -91,7 +91,7 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Apple previews powerful software updates designed for people with disabilities](https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/)<br/>[‣ Endel app creator on the power of endless ambient music](https://www.apple.com/newsroom/2021/05/endel-app-creator-on-the-power-of-endless-ambient-music/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 京东第一季度财报释放新信号](http://www.huxiu.com/article/429318.html?f=wangzhan)<br/>[‣ 张一鸣“退”上头条](http://www.huxiu.com/article/429212.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 科氪丨惠普OMEN暗影精灵7游戏本重磅首发](https://36kr.com/p/1233001280639366)<br/>[‣ 最前线丨峰米科技自有品牌“小明”发布首款家用投影仪，主打千元高清显示](https://36kr.com/p/1232628541706630) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 科氪丨惠普OMEN暗影精灵7游戏本重磅首发](https://36kr.com/p/1233001280639366)<br/>[‣ 最前线丨��米科技自有品牌“小明”发布首款家用投影仪，主打千元高清显示](https://36kr.com/p/1232628541706630) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ 从数据分析、密码学角度看区块链未来](https://www.msra.cn/zh-cn/news/features/pipezk-and-ethereum-mining-power-decentralization)<br/>[‣ 一键部署分布式训练，微软“群策 MARO”上新集群管理助手](https://www.msra.cn/zh-cn/news/features/maro-cli) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ 降噪能打只卖 499 元，vivo 这款真无线耳机让我只想大喊「买它」](http://www.geekpark.net/news/278572)<br/>[‣ 被吐槽抽成过高，是滴滴和美团们的「宿命」](http://www.geekpark.net/news/278514) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
@@ -115,7 +115,7 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ PC 版微信、QQ、TIM 防撤回补丁\[Windows\]](https://www.appinn.com/revoke-msg-patcher-for-wechat-qq-tim/)<br/>[‣ Dishes Launcher – 托盘里的快速启动工具\[Windows\]](https://www.appinn.com/dishes-launcher/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ PayPal：2020年全球影响力报告](https://www.199it.com/archives/1247136.html)<br/>[‣ 614 Group：2021年品牌安全报告](https://www.199it.com/archives/1248112.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 今日小满：微雨过，小荷翻，初夏至](https://www.ithome.com/0/552/680.htm)<br/>[‣ 《王者荣耀》将进一步提升战场清晰度：预警效果、敌我特效、信息补全...](https://www.ithome.com/0/552/681.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 失业数据推高美股，公布新车型交付时间特斯拉涨超 4%](https://www.ithome.com/0/552/688.htm)<br/>[‣ 苹果 iOS 14.7、iPadOS 14.7、macOS Big Sur 11.5 公测版 Beta 1 发布](https://www.ithome.com/0/552/687.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 473](https://weekly.pychina.org/issue/issue-473.html)<br/>[‣ pythonista-weekly : Pyw 499](https://weekly.pychina.org/python-weekly/pyw-499.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7.2 修复 PHPMailer 安全漏洞，请及时更新](https://www.wpdaxue.com/wordpress-5-7-2.html)<br/>[‣ Gutenberg 10.6 添加Duotone过滤器、查询模式轮播和最常用标签选择器](https://www.wpdaxue.com/gutenberg-10-6.html) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Jetpack Compose What and Why, 6个问题 - 圣骑士wind](http://www.cnblogs.com/mengdd/p/Jetpack-Compose-What-and-Why.html)<br/>[‣ 通俗易懂的JS之Proxy - kongsam](http://www.cnblogs.com/kongsam/p/14792115.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 漫威爆雷王換人當？《蜘蛛人：無家日》](https://www.ptt.cc/bbs/movie/M.1621548333.A.2FB.html)<br/>[‣ \[討論\] 《尚氣》新產品圖！女主角戰鬥服裝微調？](https://www.ptt.cc/bbs/movie/M.1621543671.A.70E.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 300 壯士：斯巴達的逆襲 (2006)](https://www.ptt.cc/bbs/movie/M.1621549770.A.2B0.html)<br/>[‣ \[新聞\] 漫威爆雷王換人當？《蜘蛛人：無家日》](https://www.ptt.cc/bbs/movie/M.1621548333.A.2FB.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 廣告常客](https://www.ptt.cc/bbs/Beauty/M.1621541999.A.CE2.html)<br/>[‣ \[正妹\] 短髮](https://www.ptt.cc/bbs/Beauty/M.1621530457.A.DF8.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ \[DC29 Quals\] Reverse-Tiamat WriteUp](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1437363)<br/>[‣ capstone2llvmir入门---如何把汇编转换为llvmir](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1436845) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
@@ -136,5 +136,5 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 惠普公布OMEN暗影精灵7游戏本，6月1日正式发售](https://www.gcores.com/articles/137315)<br/>[‣ 《猎魔人 卷七：湖中女士》Episode 3](https://www.gcores.com/radios/137268) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 核聚变2021北京站后记之《北京美食地图本地篇》评测](https://www.gcores.com/articles/137245)<br/>[‣ 惠普公布OMEN暗影精灵7游戏本，6月1日正式发售](https://www.gcores.com/articles/137315) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 他在《怪物猎人：崛起》中试图挑战“最速毁灭神火村”](https://www.yystv.cn/p/7919)<br/>[‣ 《殊途》—— 那些写游戏杂谈的老家伙们（三）](https://www.yystv.cn/p/7918) |
