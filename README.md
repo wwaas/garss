@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-24 04:09:25)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-24 05:07:28)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 使用CSS revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)<br/>[‣ 输入框value属性赋值触发js change事件的实现](https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 这里有5030张88类免费开源表情包待领取!](https://v2fy.com/p/2021-05-23-chinesebqb-1621735166000/)<br/>[‣ 088YuanLongping_袁隆平_BQB](https://v2fy.com/p/088yuanlongping_%e8%a2%81%e9%9a%86%e5%b9%b3_bqb/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ BinaryRacks - 便宜英国和土耳其机房VPS主机 月付半价低至$2](https://www.laozuo.org/19352.html)<br/>[‣ ION Cloud - 圣何塞/洛杉矶机房CN2 VPS主机年付终身75折](https://www.laozuo.org/19349.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Shin Megami Tensei III Nocturne HD Remaster Trainer](https://flingtrainer.com/trainer/shin-megami-tensei-iii-nocturne-hd-remaster-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=shin-megami-tensei-iii-nocturne-hd-remaster-trainer)<br/>[‣ Uncharted Waters IV HD Version Trainer](https://flingtrainer.com/trainer/uncharted-waters-iv-hd-version-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=uncharted-waters-iv-hd-version-trainer) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多可获 6折 以上优惠！！！](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/)<br/>[‣ 鼓励犯错 - 读《华为供应链管理》](https://blog.devtang.com/2021/04/18/the-supply-chain-of-huawei-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 在你家公司使用 Django Migrate](https://www.kawabangga.com/posts/4249)<br/>[‣ Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) |
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 心里堵，可老爷子值得我们很认真的表达感恩、感谢！爷爷多谢您❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️...](https://weibo.com/2970452952/KgDVG6oCi)<br/>[‣ 最近跟去年过完年一样，搁家里忙春种来着。因为想自己做发饰拍照所以有了这个视频用真丝布料做了些“绢花”工艺的汉服饰品趁着春色正好，桃花漫山带上老人家去她...](https://weibo.com/2970452952/K9G6zC37c) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 每周一书：伊查克·爱迪思《企业生命周期》](http://www.toodaylab.com/79842)<br/>[‣ 每周鞋报：Balenciaga  再次带来话题鞋款、KITH 和 Vans 庆祝合作十周年](http://www.toodaylab.com/79840) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Project "Mo"](https://www.behance.net/gallery/113835451/Project-Mo)<br/>[‣ IBM Security Brand Identity](https://www.behance.net/gallery/119949381/IBM-Security-Brand-Identity) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ FIAU Malta](https://www.behance.net/gallery/100225847/FIAU-Malta)<br/>[‣ Project "Mo"](https://www.behance.net/gallery/113835451/Project-Mo) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Inclusion and Diversity at Pinterest](https://newsroom.pinterest.com/en/post/diversity-report-2021)<br/>[‣ Pinterest introduces Idea Pins globally and launches new creator discovery features](https://newsroom.pinterest.com/en/post/pinterest-introduces-idea-pins-globally-and-launches-new-creator-discovery-features) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 太看重用户体验，有时容易把自己绕进去](https://www.uisdc.com/user-experience-dilemma)<br/>[‣ 进度条用剩余时间，还是用百分比？](https://www.uisdc.com/progress-bar-design) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 《圣斗士星矢》中的众神体系是怎么样的？](http://www.zhihu.com/question/19770753/answer/1862524459?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 动画《圣斗士星矢》中有哪些冷知识？](http://www.zhihu.com/question/408112814/answer/1901195238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ XP Shutdown / Logoff Menu – Windows XP 风格的关机菜单](https://www.appinn.com/xp-shutdown-and-logoff-menu-windows-xp-style/)<br/>[‣ 总结 Windows 下 38 款常见的「快速启动类软件」，欢迎补充](https://www.appinn.com/38-quick-start/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 埃森哲：未来系统实现，企业价值转向（附下载）](https://www.199it.com/archives/1170504.html)<br/>[‣ 直销或代理：汽车销售的未来之路（附下载）](https://www.199it.com/archives/1231304.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 世界经济论坛：石油和天然气行业的网络复原力](https://www.199it.com/archives/1249340.html)<br/>[‣ 埃森哲：未来系统实现，企业价值转向（附下载）](https://www.199it.com/archives/1170504.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 三年之期已到：《英雄联盟》MSI 总决赛 RNG 重铸荣光，战胜前世界冠军](https://www.ithome.com/0/553/105.htm)<br/>[‣ 压缩率惊人，这些老司机必备的图片神器你用过吗](https://www.ithome.com/0/553/104.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 473](https://weekly.pychina.org/issue/issue-473.html)<br/>[‣ pythonista-weekly : Pyw 499](https://weekly.pychina.org/python-weekly/pyw-499.html) |
@@ -130,7 +130,7 @@
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Arduino杀手在此！！ESP 8266 NodeMCU小白手把手入门（二）（解惑篇） - 滴漏咖啡](http://www.cnblogs.com/hilary0614/p/nodemcu.html)<br/>[‣ “三次握手，四次挥手”这么讲，保证你忘不了 - 三分恶](http://www.cnblogs.com/three-fighter/p/14802786.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 活人生吃 Dawn of The Dead (2004)](https://www.ptt.cc/bbs/movie/M.1621799634.A.B2D.html)<br/>[‣ Re: \[分享\] 魔戒印象最深刻的劇情（片段）](https://www.ptt.cc/bbs/movie/M.1621798595.A.FE3.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 可以教我游泳嗎？](https://www.ptt.cc/bbs/Beauty/M.1621786694.A.B58.html)<br/>[‣ \[正妹\] 妳想嫁的人，是？](https://www.ptt.cc/bbs/Beauty/M.1621785577.A.3D9.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 从零开始的Linux堆利用（四）](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1430344)<br/>[‣ 看雪CTF逆向练习题-\[直言直语\] 难度181](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1430044) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
