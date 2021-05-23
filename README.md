@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-24 05:07:28)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-24 06:08:46)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 《圣斗士星矢》中的众神体系是怎么样的？](http://www.zhihu.com/question/19770753/answer/1862524459?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 动画《圣斗士星矢》中有哪些冷知识？](http://www.zhihu.com/question/408112814/answer/1901195238?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ XP Shutdown / Logoff Menu – Windows XP 风格的关机菜单](https://www.appinn.com/xp-shutdown-and-logoff-menu-windows-xp-style/)<br/>[‣ 总结 Windows 下 38 款常见的「快速启动类软件」，欢迎补充](https://www.appinn.com/38-quick-start/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 世界经济论坛：石油和天然气行业的网络复原力](https://www.199it.com/archives/1249340.html)<br/>[‣ 埃森哲：未来系统实现，企业价值转向（附下载）](https://www.199it.com/archives/1170504.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ SproutSocial：2020年社交媒体报告](https://www.199it.com/archives/1247329.html)<br/>[‣ MEF：2021年消费者信任调查报告](https://www.199it.com/archives/1247986.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 三年之期已到：《英雄联盟》MSI 总决赛 RNG 重铸荣光，战胜前世界冠军](https://www.ithome.com/0/553/105.htm)<br/>[‣ 压缩率惊人，这些老司机必备的图片神器你用过吗](https://www.ithome.com/0/553/104.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 473](https://weekly.pychina.org/issue/issue-473.html)<br/>[‣ pythonista-weekly : Pyw 499](https://weekly.pychina.org/python-weekly/pyw-499.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7.2 修复 PHPMailer 安全漏洞，请及时更新](https://www.wpdaxue.com/wordpress-5-7-2.html)<br/>[‣ Gutenberg 10.6 添加Duotone过滤器、查询模式轮播和最常用标签选择器](https://www.wpdaxue.com/gutenberg-10-6.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| PowerShell 成为关键安全威胁的首要来源](https://linux.cn/article-13418-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 使用 sed 命令进行复制、剪切和粘贴](https://linux.cn/article-13417-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 你是否真的喜欢你的爱好？](https://www.v2ex.com/t/778750#reply1)<br/>[‣ \[分享发现\] amplication，一个基于 NestJS 的代码生成器。可以建模 + 角色权限控制 + REST API + GraphQL + 管理后台（react admin）](https://www.v2ex.com/t/778749#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[程序员\] 打算上个小程序商城卖食品,请问需要办理什么样的资质?](https://www.v2ex.com/t/778751#reply1)<br/>[‣ \[问与答\] 你是否真的喜欢你的爱好？](https://www.v2ex.com/t/778750#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 死亡因暗恋得被释怀，暗恋因死亡得以永生 (评论: 情书)](https://movie.douban.com/review/13562674/)<br/>[‣ 豆瓣原贴：与我十年长跑的女朋友就要嫁人了…… (评论: 我要我们在一起)](https://movie.douban.com/review/13557078/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 如果真的存在名为“青森”的场所 (评论: 谁人不思乡)](https://book.douban.com/review/13559862/)<br/>[‣ 一次和大山诚一郎先生的见面 (评论: 字母表谜案)](https://book.douban.com/review/13562313/) |
@@ -130,11 +130,11 @@
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Arduino杀手在此！！ESP 8266 NodeMCU小白手把手入门（二）（解惑篇） - 滴漏咖啡](http://www.cnblogs.com/hilary0614/p/nodemcu.html)<br/>[‣ “三次握手，四次挥手”这么讲，保证你忘不了 - 三分恶](http://www.cnblogs.com/three-fighter/p/14802786.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 活人生吃 Dawn of The Dead (2004)](https://www.ptt.cc/bbs/movie/M.1621799634.A.B2D.html)<br/>[‣ Re: \[分享\] 魔戒印象最深刻的劇情（片段）](https://www.ptt.cc/bbs/movie/M.1621798595.A.FE3.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 可以教我游泳嗎？](https://www.ptt.cc/bbs/Beauty/M.1621786694.A.B58.html)<br/>[‣ \[正妹\] 妳想嫁的人，是？](https://www.ptt.cc/bbs/Beauty/M.1621785577.A.3D9.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 从零开始的Linux堆利用（四）](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1430344)<br/>[‣ 看雪CTF逆向练习题-\[直言直语\] 难度181](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1430044) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 无名世界的终结 超清](https://bukaivip.com/index.php/vod/detail/id/51321.html)<br/>[‣ 月光变奏曲 共36集,更新至14集](https://bukaivip.com/index.php/vod/detail/id/51273.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 袁隆平 超清](https://bukaivip.com/index.php/vod/detail/id/51336.html)<br/>[‣ 无名世界的终结 超清](https://bukaivip.com/index.php/vod/detail/id/51321.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 等我开炮了没你好果子吃：非正常军武之小舰巨炮故事 第五集](https://www.gcores.com/radios/137392)<br/>[‣ DPC S2 中国区战罢，Aster 首次打进 Ti 赛事](https://www.gcores.com/articles/137387) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ AI训练的空洞骑士能打败大黄蜂小姐姐吗？](https://www.yystv.cn/p/7929)<br/>[‣ 遭遇\[数据删除\]的基金会，是怎么从科幻新星变成“儿童邪典”的？](https://www.yystv.cn/p/7928) |
