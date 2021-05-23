@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-24 03:19:28)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-24 04:09:25)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 使用CSS revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)<br/>[‣ 输入框value属性赋值触发js change事件的实现](https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 这里有5030张88类免费开源表情包待领取!](https://v2fy.com/p/2021-05-23-chinesebqb-1621735166000/)<br/>[‣ 088YuanLongping_袁隆平_BQB](https://v2fy.com/p/088yuanlongping_%e8%a2%81%e9%9a%86%e5%b9%b3_bqb/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ BinaryRacks - 便宜英国和土耳其机房VPS主机 月付半价低至$2](https://www.laozuo.org/19352.html)<br/>[‣ ION Cloud - 圣何塞/洛杉矶机房CN2 VPS主机年付终身75折](https://www.laozuo.org/19349.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Shin Megami Tensei III Nocturne HD Remaster Trainer](https://flingtrainer.com/trainer/shin-megami-tensei-iii-nocturne-hd-remaster-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=shin-megami-tensei-iii-nocturne-hd-remaster-trainer)<br/>[‣ Uncharted Waters IV HD Version Trainer](https://flingtrainer.com/trainer/uncharted-waters-iv-hd-version-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=uncharted-waters-iv-hd-version-trainer) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多可获 6折 以上优惠！！！](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/)<br/>[‣ 鼓励犯错 - 读《华为供应链管理》](https://blog.devtang.com/2021/04/18/the-supply-chain-of-huawei-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 在你家公司使用 Django Migrate](https://www.kawabangga.com/posts/4249)<br/>[‣ Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) |
@@ -123,18 +123,18 @@
 | V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 你是否真的喜欢你的爱好？](https://www.v2ex.com/t/778750#reply1)<br/>[‣ \[分享发现\] amplication，一个基于 NestJS 的代码生成器。可以建模 + 角色权限控制 + REST API + GraphQL + 管理后台（react admin）](https://www.v2ex.com/t/778749#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 死亡因暗恋得被释怀，暗恋因死亡得以永生 (评论: 情书)](https://movie.douban.com/review/13562674/)<br/>[‣ 豆瓣原贴：与我十年长跑的女朋友就要嫁人了…… (评论: 我要我们在一起)](https://movie.douban.com/review/13557078/) |
-| 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 如果真的存在名为“青森”的场所 (评论: 谁人不思乡)](https://book.douban.com/review/13559862/)<br/>[‣ 读《痴人之爱》浅谈“被包养后的逆袭” (评论: 痴人之爱)](https://book.douban.com/review/13550212/) |
+| 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 如果真的存在名为“青森”的场所 (评论: 谁人不思乡)](https://book.douban.com/review/13559862/)<br/>[‣ 一次和大山诚一郎先生的见面 (评论: 字母表谜案)](https://book.douban.com/review/13562313/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 转眼就谈不上年轻 (评论: 呼吸之野)](https://music.douban.com/review/13545074/)<br/>[‣ 《万古》中的存在主义 (评论: 呼吸之野)](https://music.douban.com/review/13545696/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Arduino杀手在此！！ESP 8266 NodeMCU小白手把手入门（二）（解惑篇） - 滴漏咖啡](http://www.cnblogs.com/hilary0614/p/nodemcu.html)<br/>[‣ “三次握手，四次挥手”这么讲，保证你忘不了 - 三分恶](http://www.cnblogs.com/three-fighter/p/14802786.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 無法再當「超人」 亨利卡維爾開心改扮](https://www.ptt.cc/bbs/movie/M.1621787392.A.047.html)<br/>[‣ \[新聞\] 早有規劃！查克史奈德談《活屍大軍》續集](https://www.ptt.cc/bbs/movie/M.1621787125.A.7E7.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 活人生吃 Dawn of The Dead (2004)](https://www.ptt.cc/bbs/movie/M.1621799634.A.B2D.html)<br/>[‣ Re: \[分享\] 魔戒印象最深刻的劇情（片段）](https://www.ptt.cc/bbs/movie/M.1621798595.A.FE3.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 可以教我游泳嗎？](https://www.ptt.cc/bbs/Beauty/M.1621786694.A.B58.html)<br/>[‣ \[正妹\] 妳想嫁的人，是？](https://www.ptt.cc/bbs/Beauty/M.1621785577.A.3D9.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 从零开始的Linux堆利用（四）](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1430344)<br/>[‣ 看雪CTF逆向练习题-\[直言直语\] 难度181](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1430044) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 袁隆平 超清](https://bukaivip.com/index.php/vod/detail/id/51336.html)<br/>[‣ 无名世界的终结 超清](https://bukaivip.com/index.php/vod/detail/id/51321.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 无名世界的终结 超清](https://bukaivip.com/index.php/vod/detail/id/51321.html)<br/>[‣ 月光变奏曲 共36集,更新至14集](https://bukaivip.com/index.php/vod/detail/id/51273.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 等我开炮了没你好果子吃：非正常军武之小舰巨炮故事 第五集](https://www.gcores.com/radios/137392)<br/>[‣ DPC S2 中国区战罢，Aster 首次打进 Ti 赛事](https://www.gcores.com/articles/137387) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ AI训练的空洞骑士能打败大黄蜂小姐姐吗？](https://www.yystv.cn/p/7929)<br/>[‣ 遭遇\[数据删除\]的基金会，是怎么从科幻新星变成“儿童邪典”的？](https://www.yystv.cn/p/7928) |
