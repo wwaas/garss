@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-25 01:49:18)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-25 02:30:59)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,8 +114,8 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ ChinaSys十周年感想](http://zhuanlan.zhihu.com/p/374658103?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 《甄嬛传》中有哪件服装或头饰是最戳你的？](http://www.zhihu.com/question/353682503/answer/1897659881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 团队项目进度跟踪难？延期风险高？国内企服排行榜第一的通用项目管理工具在这里了](https://www.appinn.com/worktile-project-manage/)<br/>[‣ LANDrop – 类 AirDrop 跨平台局域网文件传输工具](https://www.appinn.com/landrop-files-transfer-tools/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 韩国中央大学：研究发现每天喝三杯以上咖啡有助于降低全因死亡风险](https://www.199it.com/archives/1250038.html)<br/>[‣ 调查显示Switch游戏依然是日本小学生们的最爱](https://www.199it.com/archives/1250028.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苹果 iOS 14.6/iPadOS 14.6 正式版发布：预支持空间 / 无损音频（附更新内容大全）](https://www.ithome.com/0/553/348.htm)<br/>[‣ 高通、微软合作发布 Win10 ARM 全新骁龙开发套件：小巧台式机](https://www.ithome.com/0/553/347.htm) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Preqin：2028年全球宠物市场将达到3260亿美元](https://www.199it.com/archives/1248876.html)<br/>[‣ 蓝色光标：2021年新国货彩妆洞察白皮书（附下载）](https://www.199it.com/archives/1250280.html) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苹果 HomePod 14.6/tvOS 14.6 正式版发布](https://www.ithome.com/0/553/351.htm)<br/>[‣ 苹果 watchOS 7.5 正式版发布：支持播客，“彩虹编织”新表盘，ECG 功能上线多国](https://www.ithome.com/0/553/350.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 473](https://weekly.pychina.org/issue/issue-473.html)<br/>[‣ pythonista-weekly : Pyw 499](https://weekly.pychina.org/python-weekly/pyw-499.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7.2 修复 PHPMailer 安全漏洞，请及时更新](https://www.wpdaxue.com/wordpress-5-7-2.html)<br/>[‣ Gutenberg 10.6 添加Duotone过滤器、查询模式轮播和最常用标签选择器](https://www.wpdaxue.com/gutenberg-10-6.html) |
