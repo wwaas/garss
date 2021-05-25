@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-26 02:48:59)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-26 03:29:32)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 使用CSS revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)<br/>[‣ 输入框value属性赋值触发js change事件的实现](https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 这里有5030张88类免费开源表情包待领取!](https://v2fy.com/p/2021-05-23-chinesebqb-1621735166000/)<br/>[‣ 088YuanLongping_袁隆平_BQB](https://v2fy.com/p/088yuanlongping_%e8%a2%81%e9%9a%86%e5%b9%b3_bqb/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ 解决网站HTTPS配置后出现"ERR_TOO_MANY_REDIRECTS"问题](https://www.laozuo.org/19383.html)<br/>[‣ Linode云服务器重新安装系统流程微小调整 简单记录一二](https://www.laozuo.org/19378.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Mega Man X Legacy Collection 2 Trainer](https://flingtrainer.com/trainer/mega-man-x-legacy-collection-2-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=mega-man-x-legacy-collection-2-trainer)<br/>[‣ Kingdom Hearts 0.2: Birth by Sleep – A Fragmentary Passage Trainer](https://flingtrainer.com/trainer/kingdom-hearts-02-birth-by-sleep-a-fragmentary-passage-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=kingdom-hearts-02-birth-by-sleep-a-fragmentary-passage-trainer) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多可获 6折 以上优惠！！！](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/)<br/>[‣ 鼓励犯错 - 读《华为供应链管理》](https://blog.devtang.com/2021/04/18/the-supply-chain-of-huawei-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 在你家公司使用 Django Migrate](https://www.kawabangga.com/posts/4249)<br/>[‣ Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) |
