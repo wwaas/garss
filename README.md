@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-27 06:14:47)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-27 07:16:12)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 猫咪锁屏提醒 – 拥有 20 只猫，在 iPhone 锁屏界面显示待办事项](https://www.appinn.com/maomi-suoping-for-iphone/)<br/>[‣ 密码管理器 1Password for Mac 测试版的浏览器扩展终于支持自动解锁了](https://www.appinn.com/1password-for-mac-shares-lock-state/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ IAB：2020年美国播客广告收入调查报告](https://www.199it.com/archives/1250621.html)<br/>[‣ Conviva：2021年第一季度亚洲流媒体报告](https://www.199it.com/archives/1252181.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 万物皆鸿蒙，华为 HarmonyOS 连发三个视频：正式揭晓前，想象一下它的模样](https://www.ithome.com/0/553/794.htm)<br/>[‣ 两分钟给电动汽车换电，还省 3 万元电池费，车电分离你想试试吗](https://www.ithome.com/0/553/793.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苹果 Apple Via del Corso 零售店今日开业，所在大楼始建于 1873 年](https://www.ithome.com/0/553/805.htm)<br/>[‣ Facebook 董事会拒绝让扎克伯格卸任董事长](https://www.ithome.com/0/553/804.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 474](https://weekly.pychina.org/issue/issue-474.html)<br/>[‣ pythonista-weekly : Pyw 500](https://weekly.pychina.org/python-weekly/pyw-500.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7.2 修复 PHPMailer 安全漏洞，请及时更新](https://www.wpdaxue.com/wordpress-5-7-2.html)<br/>[‣ Gutenberg 10.6 添加Duotone过滤器、查询模式轮播和最常用标签选择器](https://www.wpdaxue.com/gutenberg-10-6.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 用开源软件保护你的文件的 5 种方法](https://linux.cn/article-13428-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 \| 微软使用 GPT-3 让你可以用自然语言编码](https://linux.cn/article-13427-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享创造\] 通过聊天实现轻量记录及至构建知识库](https://www.v2ex.com/t/779458#reply0)<br/>[‣ \[职场话题\] offer 不满意，纠结要不要去](https://www.v2ex.com/t/779456#reply2) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 深度学习的分布式训练，这个有没有可能做？](https://www.v2ex.com/t/779461#reply0)<br/>[‣ \[酷工作\] \[社招\] \[美团优选\] \[北京\] 前端开发工程师](https://www.v2ex.com/t/779460#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 比火场更可怕的是“刁民”？ (评论: 火神的眼泪)](https://movie.douban.com/review/13570666/)<br/>[‣ Halston 侯斯顿& Elsa Peretti艾尔莎·博瑞蒂 (评论: 侯斯顿)](https://movie.douban.com/review/13571204/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 一次和大山诚一郎先生的见面 (评论: 字母表谜案)](https://book.douban.com/review/13562313/)<br/>[‣ 如果真的存在名为“青森”的场所 (评论: 谁人不思乡)](https://book.douban.com/review/13559862/) |
