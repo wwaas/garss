@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-28 04:20:23)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-28 05:14:12)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -50,7 +50,7 @@
 | MacTalk-池建强的随想录 | 关注技术和人文 | [订阅地址](http://macshuo.com/?feed=rss2) | [‣ 为啥你一入场就开始跌呢？聊聊长期主义](http://macshuo.com/?p=1500)<br/>[‣ 人生的乐趣不就在于不努力吗？](http://macshuo.com/?p=1496) |
 | ShrekShao | ShrekShao's Blog | [订阅地址](http://shrekshao.github.io/feed.xml) | [‣ 更新了吴健雄院队和健雄杯的网站](http://shrekshao.github.io/2021/02/24/wjxfootball/)<br/>[‣ shrekshao.com](http://shrekshao.github.io/2021/01/01/shrekshao-com/) |
 | Phodal | Phodal - A Growth Engineer | [订阅地址](https://www.phodal.com/blog/feeds/rss/) | [‣ UI 设计代码化：低代码式设计语言 —— Unflow](http://www.phodal.com/blog/ui-design-as-code/)<br/>[‣ 研发工具一体化：效能演进](http://www.phodal.com/blog/develop-tools-as-one/) |
-| 追梦人物 | 追梦人物的博客 | [订阅地址](https://www.zmrenwu.com/all/rss/) | [‣ \[None\] Django 老项目如何从 SQLite 迁到 PostgreSQL](https://www.zmrenwu.com/post/95/)<br/>[‣ \[None\] 如何在 Windows 下搭建高效的 django 开发环境](https://www.zmrenwu.com/post/94/) |
+| 追梦人物 | 追梦人物的博客 | [订阅地址](https://www.zmrenwu.com/all/rss/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 小明明s à domicile | 小明明s à domicile | [订阅地址](https://www.dongwm.com/atom.xml) | [‣ 博客十年](https://www.dongwm.com/post/ten-years/)<br/>[‣ 搞了下Github  Profile](https://www.dongwm.com/post/custom-github-profile/) |
 | 但行好事，莫问前程 | Windard's simple blog web  | [订阅地址](https://windard.com/feed.xml) | [‣ 探究 Golang interface](https://windard.com/opinion/2021/03/16/Explore-Golang-Interface)<br/>[‣ Skyline 3D 打印](https://windard.com/project/2021/03/12/3D-Print-Github-Skyline-Model) |
 | 罗磊的独立博客 | 前端工程师，ZUOLUOTV制作人  | [订阅地址](https://luolei.org/feed/) | [‣ 从9元到9000元，我包里常备的十件产品 \| EDC](https://luolei.org/edc-2020/)<br/>[‣ 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机](https://luolei.org/pamu-quiet/) |
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 几千年前，神奇的东方树叶从这里飘向世界。今年谷雨，我也赶着好时节采了些茶叶。炒了绿茶，又窖制了些花茶！在我看来喝茶这件事呢？既可以是精致高雅的茶艺；也...](https://weibo.com/2970452952/Khrbh3RFG)<br/>[‣ 心里堵，可老爷子值得我们很认真的表达感恩、感谢！爷爷多谢您❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️...](https://weibo.com/2970452952/KgDVG6oCi) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 和 NIGO 继续合作，Blue Bottle Coffee 开进了 HUMAN MADE 京都门店](http://www.toodaylab.com/79850)<br/>[‣ 时隔近 7 年，Jean Paul Gaultier 将重新推出成衣系列](http://www.toodaylab.com/79849) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Ford Kuga designs](https://www.behance.net/gallery/120257293/Ford-Kuga-designs)<br/>[‣ Mag](https://www.behance.net/gallery/119878191/Mag) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Mühlholz ? Handwerk, Huhn und Hingabe.](https://www.behance.net/gallery/120273625/Muehlholz-Handwerk-Huhn-und-Hingabe)<br/>[‣ Ford Kuga designs](https://www.behance.net/gallery/120257293/Ford-Kuga-designs) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Our H2 Transparency Report](https://newsroom.pinterest.com/en/post/our-h2-transparency-report)<br/>[‣ Pinterest unveils its brand campaign “You just might surprise yourself”](https://newsroom.pinterest.com/en/post/pinterest-unveils-its-brand-campaign-you-just-might-surprise-yourself) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ PS宝藏级小众样机插件，内附超多福利！](https://www.uisdc.com/ps-treasure-plugin)<br/>[‣ 如何提升下拉菜单的设计体验？看看这些关键知识点！](https://www.uisdc.com/dropdown-menu-design) |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 排球少年有哪些伏笔或者细节？](http://www.zhihu.com/question/60773763/answer/1908661420?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《画江湖之不良人》第四季第六集(上)和第六集(下)的《落花洞》？](http://www.zhihu.com/question/460592898/answer/1908616029?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ DeepL 发布 iPhone 客户端，可能是最好的在线翻译工具](https://www.appinn.com/deepl-for-iphone-and-ipad/)<br/>[‣ 猫咪锁屏提醒 – 拥有 20 只猫，在 iPhone 锁屏界面显示待办事项](https://www.appinn.com/maomi-suoping-for-iphone/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 腾讯基金会&腾讯研究院：2021年公益数字化研究报告（附下载）](https://www.199it.com/archives/1250535.html)<br/>[‣ 中国信通院&腾讯：2021年数字化时代零信任安全蓝皮报告（附下载）](https://www.199it.com/archives/1252473.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 生态环境部：2020年中国海洋生态环境状况公报](https://www.199it.com/archives/1252667.html)<br/>[‣ 2022基金会：创建香港在粤港澳大湾区中的新优势报告](https://www.199it.com/archives/1252726.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ Redmi K20 Pro 获推 MIUI 12.5 稳定版更新](https://www.ithome.com/0/554/013.htm)<br/>[‣ 路透：继特斯拉之后，宝马、戴姆勒和福特汽车在中国建立数据中心](https://www.ithome.com/0/554/012.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/)<br/>[‣ HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 474](https://weekly.pychina.org/issue/issue-474.html)<br/>[‣ pythonista-weekly : Pyw 500](https://weekly.pychina.org/python-weekly/pyw-500.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.7.2 修复 PHPMailer 安全漏洞，请及时更新](https://www.wpdaxue.com/wordpress-5-7-2.html)<br/>[‣ Gutenberg 10.6 添加Duotone过滤器、查询模式轮播和最常用标签选择器](https://www.wpdaxue.com/gutenberg-10-6.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 3 个值得使用的在 Python 3.1 中发布的特性](https://linux.cn/article-13432-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 \| 腾讯开源代码安全指南](https://linux.cn/article-13431-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 是否有关注视频编码器发展的朋友， google 的 av1 到底是不是画大饼？](https://www.v2ex.com/t/779692#reply1)<br/>[‣ \[微软\] Microsoft Authenticator 恢復不全](https://www.v2ex.com/t/779691#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 是否有关注视频编码器发展的朋友， google 的 av1 到底是不是画大饼？](https://www.v2ex.com/t/779692#reply4)<br/>[‣ \[微软\] Microsoft Authenticator 恢復不全](https://www.v2ex.com/t/779691#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ AB双视角叙事你看懂了吗？ (评论: 最初的相遇，最后的别离)](https://movie.douban.com/review/13572381/)<br/>[‣ 可悬疑可爱情 可看可看！ (评论: 最初的相遇，最后的别离)](https://movie.douban.com/review/13572368/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 一次和大山诚一郎先生的见面 (评论: 字母表谜案)](https://book.douban.com/review/13562313/)<br/>[‣ 如果真的存在名为“青森”的场所 (评论: 谁人不思乡)](https://book.douban.com/review/13559862/) |
@@ -130,11 +130,11 @@
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 重新整理 .net core 实践篇————依赖注入应用之生命法则\[三\] - 不问前世](http://www.cnblogs.com/aoximin/p/14809538.html)<br/>[‣ 浅议如何阅读一本书（一） - 溪源More](http://www.cnblogs.com/xiyuanMore/p/14820188.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 《搖滾教室》前童星騎車遭撞32歲逝](https://www.ptt.cc/bbs/movie/M.1622143809.A.AA6.html)<br/>[‣ \[討論\] 奈沙馬蘭驚悚新片《詭老》釋出全新正式預](https://www.ptt.cc/bbs/movie/M.1622135546.A.05A.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 未來的醫生](https://www.ptt.cc/bbs/Beauty/M.1622127347.A.3AD.html)<br/>[‣ \[正妹\] Diving From Home](https://www.ptt.cc/bbs/Beauty/M.1622125693.A.44C.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ CVE-2021-3156调试分享](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1439734)<br/>[‣ \[DC29 Quals\] Reverse-Tiamat WriteUp](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1437363) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 清落 更新至22集](https://bukaivip.com/index.php/vod/detail/id/51211.html)<br/>[‣ 陛下在左，将军在右 更新至14集](https://bukaivip.com/index.php/vod/detail/id/51304.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 索尼克神秘新作将于2022年发售，索尼克专场直播资讯汇总](https://www.gcores.com/articles/137554)<br/>[‣ 9月30日发售！《英雄传说 黎之轨迹》公布新情报](https://www.gcores.com/articles/137545) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《消逝的光芒2：坚守人性》将于12月7日发售，现已在各大平台开启预售](https://www.gcores.com/articles/137556)<br/>[‣ 索尼克神秘新作将于2022年发售，索尼克专场直播资讯汇总](https://www.gcores.com/articles/137554) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 为了证明你是人类，你需要用DOOM做成的验证码杀4个敌人](https://www.yystv.cn/p/7945)<br/>[‣ 【白夜谈】饭馆老板娘的好感度增加了](https://www.yystv.cn/p/7946) |
