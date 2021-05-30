@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-31 05:24:19)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-05-31 06:23:25)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价电影《哆啦A梦：伴我同行 2》？](http://www.zhihu.com/question/390164272/answer/1834970123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价国漫《星海镖师》？](http://www.zhihu.com/question/29169402/answer/1911903006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ PhotoPrism – 可私有部署，基于机器学习 TensorFlow 的图像自动分类、开源照片管理工具，类本地化 Google Photos 服务](https://www.appinn.com/photoprism/)<br/>[‣ When The Last Time – 我上次做这事情是什么时候？我有多久没有处理这件事情呢？](https://www.appinn.com/when-the-last-time-for-iphone/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 群邑报告：探秘越南农村](https://www.199it.com/archives/1240152.html)<br/>[‣ 华兴资本：2021年中国创新经济报告](https://www.199it.com/archives/1253927.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Vidyard：2021年商业视频报告](https://www.199it.com/archives/1250865.html)<br/>[‣ 群邑报告：探秘越南农村](https://www.199it.com/archives/1240152.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ Chrome 看了也得跪，微软 Edge 这些神技你用过多少](https://www.ithome.com/0/554/441.htm)<br/>[‣ 魅族的智能生活发布会直播（视频）](https://www.ithome.com/0/554/428.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 474](https://weekly.pychina.org/issue/issue-474.html)<br/>[‣ pythonista-weekly : Pyw 500](https://weekly.pychina.org/python-weekly/pyw-500.html) |
@@ -129,7 +129,7 @@
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 大数据开发-Flink-窗口全解析 - Hoult丶吴邪](http://www.cnblogs.com/hulichao/p/14829736.html)<br/>[‣ 如何成为一名拖垮整个团队的产品经理？ - 冰河团队](http://www.cnblogs.com/binghe001/p/14829290.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[經典雷\] 大都會  真的蠻屌的](https://www.ptt.cc/bbs/movie/M.1622410057.A.89C.html)<br/>[‣ \[雷\] 舞孃俱樂部 兩小時的精緻MV](https://www.ptt.cc/bbs/movie/M.1622409409.A.8E1.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[神人\] 在網路看到的gif](https://www.ptt.cc/bbs/Beauty/M.1622396041.A.5B4.html)<br/>[‣ \[正妹\] 安兪真（安宥真）](https://www.ptt.cc/bbs/Beauty/M.1622380372.A.20D.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[神人\] 在wallpaper engine看到的舞娘](https://www.ptt.cc/bbs/Beauty/M.1622411408.A.91B.html)<br/>[‣ \[正妹\] YT上奇怪的影片](https://www.ptt.cc/bbs/Beauty/M.1622410589.A.7D7.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 版权问题 我调了最高权限](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1448384)<br/>[‣ CVE-2021-3156调试分享](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1439734) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
