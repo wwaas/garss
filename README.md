@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-01 05:02:39)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-01 06:33:44)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -91,7 +91,7 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Apple Entrepreneur Camp participants break barriers on their coding journeys](https://www.apple.com/newsroom/2021/05/apple-entrepreneur-camp-participants-break-barriers-on-their-coding-journeys/)<br/>[‣ Apple Via del Corso opens Thursday, May 27, in Rome](https://www.apple.com/newsroom/2021/05/apple-via-del-corso-opens-thursday-may-27-in-rome/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 大多企业的组织转型需求全都是泡沫](http://www.huxiu.com/article/431713.html?f=wangzhan)<br/>[‣ 教你用科学的方法，在考试前20分钟“解决粗心”](http://www.huxiu.com/article/431520.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 最前线 丨有赞要帮100个品牌出海，聚焦从社交营销和私域流量切入](https://36kr.com/p/1248156014962185)<br/>[‣ 知乎靠什么延续内容生命力 ？](https://36kr.com/p/1248100764640265) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 36氪首发 \| 做年轻人喜欢的美容保健品，口服美容品品牌「UNOMI」完成数千万元 Pre-A 轮融资](https://36kr.com/p/1248273218741250)<br/>[‣ 最前线 丨有赞要帮100个品牌出海，聚焦从社交营销和私域流量切入](https://36kr.com/p/1248156014962185) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ ICSE 2021：微软亚洲研究院精选论文，洞察软件工程前沿研究](https://www.msra.cn/zh-cn/news/features/icse-2021)<br/>[‣ 微软出“奇招”，用沸腾液体为数据中心降温](https://www.msra.cn/zh-cn/news/features/datacenter-liquid-cooling) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ AirPods 都不支持的「无损音乐」，苹果为什么还要强推](http://www.geekpark.net/news/279133)<br/>[‣ 酷派 COOL20 体验：699 元的手机也有玻璃后盖，酷派能「回来」吗？](http://www.geekpark.net/news/279084) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何看待《喜羊羊与灰太狼之筐出胜利》狼队夺冠的结局？难道守护者队不该赢吗？](http://www.zhihu.com/question/443100256/answer/1915698241?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 边缘性人格障碍是一种严重的病吗？](http://www.zhihu.com/question/362535053/answer/1911812832?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 滴答清单6.0 – 专注时间管理和提醒事项的全能 Todo 应用](https://www.appinn.com/dida365-6/)<br/>[‣ 图片视频压缩大师 – 批量压缩 iPhone 相册中的照片、视频尺寸，修改、删除 EXIF、GPS 信息](https://www.appinn.com/shrink-video-exif-viewer-for-ios/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Transporeon：2021年运输Pulse“信任网络”报告](https://www.199it.com/archives/1205209.html)<br/>[‣ 如何建立对疫苗的信任：了解疫苗信心的驱动力报告](https://www.199it.com/archives/1254448.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ IEA：2021-2021年可再生能源前景报告](https://www.199it.com/archives/1248076.html)<br/>[‣ SensorTower：2021年美国流媒体应用报告](https://www.199it.com/archives/1250707.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 通通 4 折起：爱奇艺 / 腾讯视频 / 优酷 / B 站 / 芒果 TV / 酷我音乐会员大促](https://www.ithome.com/0/554/682.htm)<br/>[‣ 全世界第一个 RTX 3080 Ti 开箱偷跑](https://www.ithome.com/0/554/681.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 474](https://weekly.pychina.org/issue/issue-474.html)<br/>[‣ pythonista-weekly : Pyw 500](https://weekly.pychina.org/python-weekly/pyw-500.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ Gutenberg 10.7 集成块模式目录，引入新的块设计控件](https://www.wpdaxue.com/gutenberg-10-7.html)<br/>[‣ WordPress 5.7.2 修复 PHPMailer 安全漏洞，请及时更新](https://www.wpdaxue.com/wordpress-5-7-2.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 \| 微软前高管解释了为什么 Windows 10 删除了开机声音](https://linux.cn/article-13447-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 在 Flutter 移动应用程序中创建一个列表](https://linux.cn/article-13446-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[京东\] 多地九折消费券，满 1000 打 9 折，最高 400。](https://www.v2ex.com/t/780479#reply0)<br/>[‣ \[V2EX\] 被墙之后是否考虑移除手机号码验证？](https://www.v2ex.com/t/780476#reply3) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 大龄程序员应该如何面对中年危机](https://www.v2ex.com/t/780482#reply0)<br/>[‣ \[Apple\] 平时拍的视频应该怎么在手机和 Pad 的存储空间上分配？](https://www.v2ex.com/t/780481#reply4) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 专访《白蛇传·情》导演：女权本质上是挑战男权中没有人性的部分 (评论: 白蛇传·情)](https://movie.douban.com/review/13581447/)<br/>[‣ 關於主的流言便是主流 (评论: 主流)](https://movie.douban.com/review/13580349/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 无产阶级·马克思主义躺平学 (评论: 懶惰的權利以及其他)](https://book.douban.com/review/13576364/)<br/>[‣ 关于自由与依恋 (评论: 姆咪爸爸回忆录)](https://book.douban.com/review/13573858/) |
