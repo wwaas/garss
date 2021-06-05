@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-06 04:20:43)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-06 05:14:59)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...](https://weibo.com/2970452952/KiODBxDuN)<br/>[‣ 几千年前，神奇的东方树叶从这里飘向世界。今年谷雨，我也赶着好时节采了些茶叶。炒了绿茶，又窖制了些花茶！在我看来喝茶这件事呢？既可以是精致高雅的茶艺；也...](https://weibo.com/2970452952/Khrbh3RFG) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 从工艺到拍摄，OPPO Reno6 Pro+ 讲了一个关于“美”的故事](http://www.toodaylab.com/79876)<br/>[‣ 华为发布 HarmonyOS 2，一系列新设备已经用上了新系统](http://www.toodaylab.com/79877) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ 13 Crestwood Drive](https://www.behance.net/gallery/120809941/13-Crestwood-Drive)<br/>[‣ Pandemonium](https://www.behance.net/gallery/120614947/Pandemonium) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Fugue](https://www.behance.net/gallery/120862091/Fugue)<br/>[‣ 13 Crestwood Drive](https://www.behance.net/gallery/120809941/13-Crestwood-Drive) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Our H2 Transparency Report](https://newsroom.pinterest.com/en/post/our-h2-transparency-report)<br/>[‣ Pinterest unveils its brand campaign “You just might surprise yourself”](https://newsroom.pinterest.com/en/post/pinterest-unveils-its-brand-campaign-you-just-might-surprise-yourself) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 设计师的面试作品集，千万别踩这6个坑！](https://www.uisdc.com/portfolio-6-pits)<br/>[‣ 设计师口袋心理学系列指南（一）：社会认同](https://www.uisdc.com/social-proof-2) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 手机游戏《摩尔庄园》有哪些对新人的建议？](http://www.zhihu.com/question/462564990/answer/1922671025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 手机游戏《摩尔庄园》里有哪些攻略和技巧？](http://www.zhihu.com/question/462565011/answer/1922672103?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ VectorIcons Mixer –  超过 23,000 个可定制的图标](https://www.appinn.com/vectoricons-mixer/)<br/>[‣ Rclone for Android – 云服务/网盘文件管理工具 Rclone 的 Android 客户端](https://www.appinn.com/rclone-for-android/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ CMR：2021年最受印度消费者信任的品牌排行榜](https://www.199it.com/archives/1245371.html)<br/>[‣ YouGov：37%的美国人认为经济复苏需要两年以上的时间](https://www.199it.com/archives/1252120.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 毕马威：2021年全球家族企业报告](https://www.199it.com/archives/1223431.html)<br/>[‣ CMR：2021年最受印度消费者信任的品牌排行榜](https://www.199it.com/archives/1245371.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 华为已捐赠鸿蒙最核心基础架构，开放原子：开源 OpenHarmony 是每个人的 OpenHarmony](https://www.ithome.com/0/555/725.htm)<br/>[‣ 效率刷新三观，这款复制粘贴的神器推荐给你](https://www.ithome.com/0/555/724.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 475](https://weekly.pychina.org/issue/issue-475.html)<br/>[‣ pythonista-weekly : Pyw 501](https://weekly.pychina.org/python-weekly/pyw-501.html) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 27.Qt Quick QML-State、Transition - 诺谦](http://www.cnblogs.com/lifexy/p/14854427.html)<br/>[‣ 线性代数1 行列式 - szTom](http://www.cnblogs.com/szdytom/p/linear-det.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[情報\]《鬼影》與《哭聲》泰韓兩大導演跨國合作恐怖新片首曝預告！](https://www.ptt.cc/bbs/movie/M.1622919106.A.308.html)<br/>[‣ \[好雷\] 計程車司機](https://www.ptt.cc/bbs/movie/M.1622915812.A.141.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[討論\] 韓蘇演過兩次獅子山奴隸](https://www.ptt.cc/bbs/movie/M.1622926266.A.D89.html)<br/>[‣ \[情報\]《鬼影》與《哭聲》泰韓兩大導演跨國合作恐怖新片首曝預告！](https://www.ptt.cc/bbs/movie/M.1622919106.A.308.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] OK嗎](https://www.ptt.cc/bbs/Beauty/M.1622908294.A.2E3.html)<br/>[‣ \[帥哥\] 今日帥哥一張](https://www.ptt.cc/bbs/Beauty/M.1622906366.A.3B2.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 360Safe驱动学习笔记和实现源码](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1452575)<br/>[‣ 逆向360hookport驱动学习](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1451677) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
