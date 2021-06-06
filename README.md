@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-07 05:16:02)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-07 06:16:43)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 如何使用CSS禁止元素拖拽？](https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/)<br/>[‣ 666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 如何让国内的阿里云服务器可以高速下载Github代码](https://v2fy.com/p/2021-06-06-clash-wordpress-1622973106000/)<br/>[‣ 想把Github当网盘? 解决github资源下载速度慢的问题](https://v2fy.com/p/2021-06-06-github-download-1622963380000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [‣ 影响网站和服务器不能自动续期Let's Encrypt证书的原因](https://www.laozuo.org/19557.html)<br/>[‣ Kdatacenter提供九折优惠码可选韩国原生IP独立服务器/VPS主机](https://www.laozuo.org/19552.html) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ The Last Spell Trainer](https://flingtrainer.com/trainer/the-last-spell-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=the-last-spell-trainer)<br/>[‣ Sniper Ghost Warrior Contracts 2 Trainer](https://flingtrainer.com/trainer/sniper-ghost-warrior-contracts-2-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=sniper-ghost-warrior-contracts-2-trainer) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多可获 6折 以上优惠！！！](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/)<br/>[‣ 鼓励犯错 - 读《华为供应链管理》](https://blog.devtang.com/2021/04/18/the-supply-chain-of-huawei-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 在你家公司使用 Django Migrate](https://www.kawabangga.com/posts/4249)<br/>[‣ Docker (容器) 的原理](https://www.kawabangga.com/posts/4224) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价《一人之下》529（561）话？](http://www.zhihu.com/question/463000516/answer/1921586458?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 手机游戏《摩尔庄园》有哪些对新人的建议？](http://www.zhihu.com/question/462564990/answer/1922671025?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ New Tab Studio – 可高度自定义的新标签页扩展\[Chrome\]](https://www.appinn.com/new-tab-studio/)<br/>[‣ VectorIcons Mixer –  超过 23,000 个可定制的图标](https://www.appinn.com/vectoricons-mixer/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 江苏通信管理局：2019年度江苏省互联网发展状况报告（附下载）](https://www.199it.com/archives/1256955.html)<br/>[‣ 克劳锐：2020-2021广告主KOL营销市场盘点及趋势预测报告（附下载）](https://www.199it.com/archives/1256493.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ IAS：2021年推文趋势和信息流广告研究报告](https://www.199it.com/archives/1256140.html)<br/>[‣ 经合组织：2021年5月最新全球经济展望报告（221页）](https://www.199it.com/archives/1257795.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 手机 QQ 8.8.0 体验，表情弹射比微信还要好玩](https://www.ithome.com/0/555/812.htm)<br/>[‣ PNY 大幅降低 XLR8 CS3030 固态硬盘标称寿命，阻止其用于奇亚币挖矿](https://www.ithome.com/0/555/811.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 475](https://weekly.pychina.org/issue/issue-475.html)<br/>[‣ pythonista-weekly : Pyw 501](https://weekly.pychina.org/python-weekly/pyw-501.html) |
