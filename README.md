@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-08 22:15:05)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-08 23:07:56)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -102,7 +102,7 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ iPhone/iPad投屏到Mac，可以如此简单！](https://iseex.github.io//2021-05/iPhone-iPad-Screen-to-Mac/)<br/>[‣ 位图转矢量图，这个工具值得一试！](https://iseex.github.io//2021-05/Convertio/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...](https://weibo.com/2970452952/KiODBxDuN)<br/>[‣ 几千年前，神奇的东方树叶从这里飘向世界。今年谷雨，我也赶着好时节采了些茶叶。炒了绿茶，又窖制了些花茶！在我看来喝茶这件事呢？既可以是精致高雅的茶艺；也...](https://weibo.com/2970452952/Khrbh3RFG) |
+| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 今日消费资讯：Canada Goose 南京德基精品店开幕、阿斯顿·马丁推出 DBX 22 年款车型](http://www.toodaylab.com/79883)<br/>[‣ 史上最无聊的一场苹果 WWDC 发布会？看完这 25 点再说](http://www.toodaylab.com/79884) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Dark Matter](https://www.behance.net/gallery/120915615/Dark-Matter)<br/>[‣ NIKE AIR MAG SERIES POSTER](https://www.behance.net/gallery/66486247/NIKE-AIR-MAG-SERIES-POSTER) |
@@ -115,20 +115,20 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 2021 Epic BundleHunt：51 款正版软件捆绑包，包含 iStat Menus，支持支付宝付款](https://www.appinn.com/2021-epic-bundlehunt/)<br/>[‣ ReadMark alpha – 轻芒杂志新产品，带马克「Mark」功能的 RSS 阅读器](https://www.appinn.com/readmark-alpha/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Automotive News：福特、雪佛兰和吉普为美国受芯片短缺影响最严重的汽车厂商](https://www.199it.com/archives/1259048.html)<br/>[‣ NOAA：2021年5月二氧化碳浓度再次达到历史最高水平](https://www.199it.com/archives/1259047.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 华为发布鸿蒙 HarmonyOS 2 最新宣传视频：轻拟物设计，精彩全场景交互](https://www.ithome.com/0/556/263.htm)<br/>[‣ 中科院物理所等提出高能量密度锂电池新策略](https://www.ithome.com/0/556/262.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 6.9 省钱攻略：京东 3C 数码狂欢、天猫服饰大促最后一天](https://www.ithome.com/0/556/270.htm)<br/>[‣ 台积电错失大客户？曝高通下代 4nm 旗舰芯，三星造](https://www.ithome.com/0/556/269.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 475](https://weekly.pychina.org/issue/issue-475.html)<br/>[‣ pythonista-weekly : Pyw 501](https://weekly.pychina.org/python-weekly/pyw-501.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 阿里云云虚拟主机导致WordPress【此响应不是合法的JSON响应】的解决办法](https://www.wpdaxue.com/aliyun-wordpress-rest-api-error.html)<br/>[‣ WordPress 5.8 增加了 WebP 图像格式支持](https://www.wpdaxue.com/wordpress-5-8-adds-support-for-webp.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业版的差距](https://linux.cn/article-13469-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 寻找为 Linux 内核贡献数千补丁的“超能力者”！](https://linux.cn/article-13468-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享发现\] 使用 wolai 搭建个人轻博客、知识库&轻文档中心](https://www.v2ex.com/t/782264#reply0)<br/>[‣ \[Android\] XprivacyLua Pro 有玩的溜的吗？安卓 11 上有个泄露的拦不住了](https://www.v2ex.com/t/782263#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Android\] 有哥们在 Linux 系下开发安卓应用吗？](https://www.v2ex.com/t/782270#reply0)<br/>[‣ \[京东\] 出京东会员剩下的万达权益和美团外卖 100 红包， 20 打包吧](https://www.v2ex.com/t/782268#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
-| 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ Intelligence Intelligent (评论: 叛逆者)](https://movie.douban.com/review/13595704/)<br/>[‣ 简评叛逆者：这叙事功力不愧是李晓明编剧——好作品的核心是故事，演职人员的完美配合是保障 (评论: 叛逆者)](https://movie.douban.com/review/13595610/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 熟悉的文字，跳起陌生的舞蹈 (评论: 黑豹红狼)](https://book.douban.com/review/13589589/)<br/>[‣ 《道德的谱系》梁锡江译本正误 (评论: 道德的谱系)](https://book.douban.com/review/13594195/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 春天毁灭论，与Auto-Tune的生态哀伤 (评论: Spring Styx)](https://music.douban.com/review/13580345/)<br/>[‣ Liner Note中译 (评论: ライブ・アット・びーどろ'77)](https://music.douban.com/review/13585360/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 双非硕士的辛酸求职之旅--第 5 篇：好开心我进入了面试环节中，那么我该如何自我介绍？ - 宇宙之一粟](http://www.cnblogs.com/yushou1su/p/14864662.html)<br/>[‣ 第一个 Angular 应用程序 - 聆耳吟风](http://www.cnblogs.com/lapoo/p/14864632.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[ 好雷\] 豪情四兄弟 小屁孩v.s戀童男](https://www.ptt.cc/bbs/movie/M.1623160583.A.756.html)<br/>[‣ \[討論\] Netflix電影群組（line社群）](https://www.ptt.cc/bbs/movie/M.1623160540.A.658.html) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 值类型和引用类型 - fano](http://www.cnblogs.com/fano/p/14864896.html)<br/>[‣ 十四、.net core（.NET 6）搭建ElasticSearch(ES)系列之给ElasticSearch添加SQL插件和浏览器插件 - WeskyNet](http://www.cnblogs.com/weskynet/p/14864888.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[新聞\] 泰諾克傳將於《黑豹2》飾演「納摩」！](https://www.ptt.cc/bbs/movie/M.1623165113.A.B5E.html)<br/>[‣ \[請益\] 燃燒女子的畫像其中一段劇情](https://www.ptt.cc/bbs/movie/M.1623162756.A.452.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 兇兇的可愛辮子妹](https://www.ptt.cc/bbs/Beauty/M.1623144784.A.A6A.html)<br/>[‣ \[正妹\]  韓國氣場很強的妹子](https://www.ptt.cc/bbs/Beauty/M.1623137933.A.67A.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
