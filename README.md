@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-08 23:07:56)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-09 00:25:05)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -102,10 +102,10 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ iPhone/iPad投屏到Mac，可以如此简单！](https://iseex.github.io//2021-05/iPhone-iPad-Screen-to-Mac/)<br/>[‣ 位图转矢量图，这个工具值得一试！](https://iseex.github.io//2021-05/Convertio/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...](https://weibo.com/2970452952/KiODBxDuN)<br/>[‣ 几千年前，神奇的东方树叶从这里飘向世界。今年谷雨，我也赶着好时节采了些茶叶。炒了绿茶，又窖制了些花茶！在我看来喝茶这件事呢？既可以是精致高雅的茶艺；也...](https://weibo.com/2970452952/Khrbh3RFG) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 今日消费资讯：Canada Goose 南京德基精品店开幕、阿斯顿·马丁推出 DBX 22 年款车型](http://www.toodaylab.com/79883)<br/>[‣ 史上最无聊的一场苹果 WWDC 发布会？看完这 25 点再说](http://www.toodaylab.com/79884) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Dark Matter](https://www.behance.net/gallery/120915615/Dark-Matter)<br/>[‣ NIKE AIR MAG SERIES POSTER](https://www.behance.net/gallery/66486247/NIKE-AIR-MAG-SERIES-POSTER) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Parrots](https://www.behance.net/gallery/121041525/Parrots)<br/>[‣ Dark Matter](https://www.behance.net/gallery/120915615/Dark-Matter) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest inspires Pinners and Creators to show their true colors](https://newsroom.pinterest.com/en/post/pinterest-inspires-pinners-and-creators-to-show-their-true-colors)<br/>[‣ Pinterest takes the best of offline shopping and brings it online](https://newsroom.pinterest.com/en/post/pinterest-takes-the-best-of-offline-shopping-and-brings-it-online) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 壹周速读：高手的作品集优化秘诀](https://www.uisdc.com/quick-reading-weekly-vol106)<br/>[‣ 7000+超详细智能产品深度解析：智能面板篇](https://www.uisdc.com/smart-panel) |
@@ -114,27 +114,27 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 游戏《摩尔庄园》中有哪些冷知识？](http://www.zhihu.com/question/462564909/answer/1928201336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《阴阳师》动画剧场「天域篇」？](http://www.zhihu.com/question/463588518/answer/1927031020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 2021 Epic BundleHunt：51 款正版软件捆绑包，包含 iStat Menus，支持支付宝付款](https://www.appinn.com/2021-epic-bundlehunt/)<br/>[‣ ReadMark alpha – 轻芒杂志新产品，带马克「Mark」功能的 RSS 阅读器](https://www.appinn.com/readmark-alpha/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Automotive News：福特、雪佛兰和吉普为美国受芯片短缺影响最严重的汽车厂商](https://www.199it.com/archives/1259048.html)<br/>[‣ NOAA：2021年5月二氧化碳浓度再次达到历史最高水平](https://www.199it.com/archives/1259047.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 6.9 省钱攻略：京东 3C 数码狂欢、天猫服饰大促最后一天](https://www.ithome.com/0/556/270.htm)<br/>[‣ 台积电错失大客户？曝高通下代 4nm 旗舰芯，三星造](https://www.ithome.com/0/556/269.htm) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 乘联会：2021年5月中国汽车保值率报告](https://www.199it.com/archives/1259173.html)<br/>[‣ 中国汽车流通协会：2021年5月份中国汽车经销商库存预警指数为52.9%](https://www.199it.com/archives/1259167.html) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 小冰框架 X Studio・歌手 1.7.0 AI 演唱模型 V6 版本发布：提升表现力，华智冰演唱《六月，不是离别》](https://www.ithome.com/0/556/273.htm)<br/>[‣ 鸿蒙系统专属，华为全新品牌定制字体 HarmonyOS Sans 正式上线](https://www.ithome.com/0/556/272.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 475](https://weekly.pychina.org/issue/issue-475.html)<br/>[‣ pythonista-weekly : Pyw 501](https://weekly.pychina.org/python-weekly/pyw-501.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 阿里云云虚拟主机导致WordPress【此响应不是合法的JSON响应】的解决办法](https://www.wpdaxue.com/aliyun-wordpress-rest-api-error.html)<br/>[‣ WordPress 5.8 增加了 WebP 图像格式支持](https://www.wpdaxue.com/wordpress-5-8-adds-support-for-webp.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业版的差距](https://linux.cn/article-13469-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 寻找为 Linux 内核贡献数千补丁的“超能力者”！](https://linux.cn/article-13468-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Android\] 有哥们在 Linux 系下开发安卓应用吗？](https://www.v2ex.com/t/782270#reply0)<br/>[‣ \[京东\] 出京东会员剩下的万达权益和美团外卖 100 红包， 20 打包吧](https://www.v2ex.com/t/782268#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[全球工单系统\] 有开心网的员工嘛？](https://www.v2ex.com/t/782278#reply0)<br/>[‣ \[DevOps\] terraform 1.0](https://www.v2ex.com/t/782276#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ Intelligence Intelligent (评论: 叛逆者)](https://movie.douban.com/review/13595704/)<br/>[‣ 简评叛逆者：这叙事功力不愧是李晓明编剧——好作品的核心是故事，演职人员的完美配合是保障 (评论: 叛逆者)](https://movie.douban.com/review/13595610/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 熟悉的文字，跳起陌生的舞蹈 (评论: 黑豹红狼)](https://book.douban.com/review/13589589/)<br/>[‣ 《道德的谱系》梁锡江译本正误 (评论: 道德的谱系)](https://book.douban.com/review/13594195/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 春天毁灭论，与Auto-Tune的生态哀伤 (评论: Spring Styx)](https://music.douban.com/review/13580345/)<br/>[‣ Liner Note中译 (评论: ライブ・アット・びーどろ'77)](https://music.douban.com/review/13585360/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 值类型和引用类型 - fano](http://www.cnblogs.com/fano/p/14864896.html)<br/>[‣ 十四、.net core（.NET 6）搭建ElasticSearch(ES)系列之给ElasticSearch添加SQL插件和浏览器插件 - WeskyNet](http://www.cnblogs.com/weskynet/p/14864888.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[新聞\] 泰諾克傳將於《黑豹2》飾演「納摩」！](https://www.ptt.cc/bbs/movie/M.1623165113.A.B5E.html)<br/>[‣ \[請益\] 燃燒女子的畫像其中一段劇情](https://www.ptt.cc/bbs/movie/M.1623162756.A.452.html) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ ZooKeeper学习笔记四：使用ZooKeeper实现一个简单的分布式锁 - Grey Zeng](http://www.cnblogs.com/greyzeng/p/14864943.html)<br/>[‣ 前端面试题 - 湖北有个女人叫做方方](http://www.cnblogs.com/chenabo/p/mst.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[情報\] 2021 柏林影展 最佳新導演 & 紀錄片 得獎名單](https://www.ptt.cc/bbs/movie/M.1623169711.A.992.html)<br/>[‣ \[新聞\] 柯南疫軍突起 緋色的彈丸52天賣座67億](https://www.ptt.cc/bbs/movie/M.1623168533.A.6CE.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 兇兇的可愛辮子妹](https://www.ptt.cc/bbs/Beauty/M.1623144784.A.A6A.html)<br/>[‣ \[正妹\]  韓國氣場很強的妹子](https://www.ptt.cc/bbs/Beauty/M.1623137933.A.67A.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 秘密访客 超清](https://bukaivip.com/index.php/vod/detail/id/50829.html)<br/>[‣ 理想照耀中国 共40集,更新至21集](https://bukaivip.com/index.php/vod/detail/id/50382.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 秘密访客 超清](https://bukaivip.com/index.php/vod/detail/id/50829.html)<br/>[‣ 理想照耀中国 共40集,更新至22集](https://bukaivip.com/index.php/vod/detail/id/50382.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 我的智能机器人有点“笨”，20世纪影业动画电影《天赐灵机》放出首个预告](https://www.gcores.com/articles/137974)<br/>[‣ 专为PS5打造：《瑞奇与叮当 时空跳转》和它稳健的次世代体验](https://www.gcores.com/articles/137725) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 有人在25年前的软盘里找到了MOTHER 2的新秘密](https://www.yystv.cn/p/7989)<br/>[‣ 因涉嫌素材盗用，卡普空被一名设计师索赔1200万美元](https://www.yystv.cn/p/7988) |
