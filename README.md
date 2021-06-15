@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-16 01:28:22)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-16 02:11:36)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价西行纪第三季《西行纪宿命篇》？](http://www.zhihu.com/question/462786180/answer/1936987479?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《一人之下》530（562）话？](http://www.zhihu.com/question/464193183/answer/1934211068?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 无需公网，低成本快速实现外网访问内网、实现远程控制、穿透群晖nas](https://www.appinn.com/xiaomy-202106/)<br/>[‣ 通知播报助手 – 用语音自动读出手机通知：微信、QQ、来电、短信、蓝牙、电池状态等\[Android\]](https://www.appinn.com/tongzhi-bobao-zhushou-for-android/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 易观：2021中国数字科技专题洞察](https://www.199it.com/archives/1262572.html)<br/>[‣ IDC：HDD和SSD市场虽受疫情冲击 但需求强劲](https://www.199it.com/archives/1261938.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 巨量算数：2021年Q1母婴行业季度洞察报告（附下载）](https://www.199it.com/archives/1262251.html)<br/>[‣ 中国信通院：2021年移动互联网数据安全蓝皮报告（附下载）](https://www.199it.com/archives/1262284.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 小米发布音视频会议扬声器：1999 元 4K 输出，高通 8 核处理器](https://www.ithome.com/0/557/463.htm)<br/>[‣ 华为 Mate 40 鸿蒙 HarmonyOS 2 重要补丁更新：优化游戏音效和应用使用](https://www.ithome.com/0/557/461.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 476](https://weekly.pychina.org/issue/issue-476.html)<br/>[‣ pythonista-weekly : Pyw 502](https://weekly.pychina.org/python-weekly/pyw-502.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WooCommerce 优惠券及促销指南](https://www.wpdaxue.com/woocommerce-coupon.html)<br/>[‣ Gutenberg 10.8 添加新的排版控件和块预览](https://www.wpdaxue.com/gutenberg-10-8.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #303 硬派，美国卡车司机工会面对勒索软件攻击拒付赎金](https://linux.cn/article-13489-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 自主安全+优质体验，优麒麟这场发布会解决你的操作系统难题！](https://linux.cn/article-13488-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[生活\] 关于一段感情](https://www.v2ex.com/t/783620#reply3)<br/>[‣ \[Nintendo Switch\] 野炊 2 新预告](https://www.v2ex.com/t/783619#reply4) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[生活\] 关于一段感情](https://www.v2ex.com/t/783620#reply6)<br/>[‣ \[Nintendo Switch\] 野炊 2 新预告](https://www.v2ex.com/t/783619#reply5) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 用单一画面视听语言突出的人性转变——从电影制作角度对《热带往事》进行视听语言小评 (评论: 热带往事)](https://movie.douban.com/review/13606068/)<br/>[‣ 《你好世界》剧情全解析+世界观解读：远不是表面上的「纯爱」那么简单 (评论: 你好世界)](https://movie.douban.com/review/13605865/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《字母表谜案》浅谈“创新” (评论: 字母表谜案)](https://book.douban.com/review/13608045/)<br/>[‣ 这一次，我做了一本书。 (评论: 人间失格)](https://book.douban.com/review/13601879/) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ seldom 2.0  让接口自动化测试更简单 - 虫师](http://www.cnblogs.com/fnng/p/14887574.html)<br/>[‣ 一文带你了解.Net自旋锁 - 初夏的阳光丶](http://www.cnblogs.com/ancold/p/14887461.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[情報\] 瑞秋懷茲、柯林法洛將再度合演黑色喜劇《Love Child》](https://www.ptt.cc/bbs/movie/M.1623775983.A.384.html)<br/>[‣ \[新聞\] 陳木勝遺作《怒火》甄子丹謝霆鋒爆哭](https://www.ptt.cc/bbs/movie/M.1623774287.A.3DC.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 蝴蝶效應](https://www.ptt.cc/bbs/movie/M.1623779026.A.C3A.html)<br/>[‣ \[情報\] 瑞秋懷茲、柯林法洛將再度合演黑色喜劇《Love Child》](https://www.ptt.cc/bbs/movie/M.1623775983.A.384.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] JiHo 金祉呼](https://www.ptt.cc/bbs/Beauty/M.1623775835.A.B35.html)<br/>[‣ \[正妹\] 端午立蛋 妲妲](https://www.ptt.cc/bbs/Beauty/M.1623768407.A.F5B.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
@@ -136,5 +136,5 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 爱上特种兵 共45集,更新至20集](https://bukaivip.com/index.php/vod/detail/id/51945.html)<br/>[‣ 叛逆者 共43集,更新至22集](https://bukaivip.com/index.php/vod/detail/id/52402.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 美丽的恐怖得意复活，《零 濡鸦之巫女》预计2021年登录家用机与PC平台](https://www.gcores.com/articles/138249)<br/>[‣ 《旷野之息》续作公布全新演示：任天堂 E3 2021 直面会信息汇总](https://www.gcores.com/articles/138247) |
-| 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 任天堂E3直面会汇总：《塞尔达传说：旷野之息2》《真女神转生5》，还有“新机”公布](https://www.yystv.cn/p/8018)<br/>[‣ 梗图里那张无所不能的胶带到底有多神奇？](https://www.yystv.cn/p/8017) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《Dota2》选手Ana 正式退役，Sumail 回归 OG](https://www.gcores.com/articles/138248)<br/>[‣ 美丽的恐怖得意复活，《零 濡鸦之巫女》预计2021年登录家用机与PC，支持中文](https://www.gcores.com/articles/138249) |
+| 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 任天堂E3直面会汇总：《塞尔达传说 旷野之息2》《真女神转生5》，还有“新机”公布](https://www.yystv.cn/p/8018)<br/>[‣ 梗图里那张无所不能的胶带到底有多神奇？](https://www.yystv.cn/p/8017) |
