@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-17 02:10:08)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-17 03:09:51)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,9 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 477](https://weekly.pychina.org/issue/issue-477.html)<br/>[‣ pythonista-weekly : Pyw 503](https://weekly.pychina.org/python-weekly/pyw-503.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WooCommerce 优惠券及促销指南](https://www.wpdaxue.com/woocommerce-coupon.html)<br/>[‣ Gutenberg 10.8 添加新的排版控件和块预览](https://www.wpdaxue.com/gutenberg-10-8.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #304 几乎所有的 DDoS 攻击都来自不到 50 家的托管公司](https://linux.cn/article-13493-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ FreeDOS 入门](https://linux.cn/article-13492-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Linux\] 脚本算法求解，备份轮替](https://www.v2ex.com/t/783856#reply0)<br/>[‣ \[macOS\] 有没有老铁已经升了 MacOS Monterey ？ 来分享下更新后的感受如何？工作本子升级有啥建议不？
-
-分享些经验，避免 V 友踩坑。](https://www.v2ex.com/t/783855#reply2) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Windows\] Windows 的祖传屎山代码里到底还有多少东西依赖 IE 内核？](https://www.v2ex.com/t/783858#reply0)<br/>[‣ \[互联网\] 无力吐槽的 B 站首页...](https://www.v2ex.com/t/783857#reply1) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 《刑侦日记》四大专业专家 (评论: 刑侦日记)](https://movie.douban.com/review/13613433/)<br/>[‣ 爱是感同身受的勇气，触手可及 (评论: 人间世)](https://movie.douban.com/review/13614308/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《字母表谜案》浅谈“创新” (评论: 字母表谜案)](https://book.douban.com/review/13608045/)<br/>[‣ 在1000年前，人们是怎么藏书的？ (评论: 藏书的艺术)](https://book.douban.com/review/13605398/) |
@@ -131,8 +129,8 @@
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Redis 数据结构 - CnCSL](http://www.cnblogs.com/cncsl/p/14891640.html)<br/>[‣ 对话Apache Hudi VP, 洞悉数据湖的过去现在和未来 - leesf](http://www.cnblogs.com/leesf456/p/14891629.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 方法演技入魂《PRADA惡魔》梅莉史翠普](https://www.ptt.cc/bbs/movie/M.1623865343.A.8F3.html)<br/>[‣ \[問片\] 因為矮所以逃過一劫的西洋片](https://www.ptt.cc/bbs/movie/M.1623864979.A.F8E.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] PS 希希](https://www.ptt.cc/bbs/Beauty/M.1623861707.A.B12.html)<br/>[‣ \[正妹\] 奶特](https://www.ptt.cc/bbs/Beauty/M.1623854188.A.EDE.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 360Safe驱动学习笔记和实现源码](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1452575)<br/>[‣ 逆向360hookport驱动学习](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1451677) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] PS 短今](https://www.ptt.cc/bbs/Beauty/M.1623870267.A.9C8.html)<br/>[‣ \[正妹\] PS 希希](https://www.ptt.cc/bbs/Beauty/M.1623861707.A.B12.html) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
