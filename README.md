@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-19 04:08:00)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-19 05:07:04)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 继续拓展酒店之外的领域，安缦推出零售服饰系列](http://www.toodaylab.com/79915)<br/>[‣ 实验室带你过周末：2021.6.19 - 6.20 成都篇](http://www.toodaylab.com/79913) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Brest Bretagne Handball - Brand design](https://www.behance.net/gallery/121739987/Brest-Bretagne-Handball-Brand-design)<br/>[‣ Weak Vision Freaks](https://www.behance.net/gallery/120567183/Weak-Vision-Freaks) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Equinox Collection](https://www.behance.net/gallery/119804273/Equinox-Collection)<br/>[‣ Brest Bretagne Handball - Brand design](https://www.behance.net/gallery/121739987/Brest-Bretagne-Handball-Brand-design) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Summer Shop Trends: Gen Z versus Millennials Post-lockdown Looks](https://newsroom.pinterest.com/en/post/summer-shop-trends-gen-z-versus-millennials-post-lockdown-looks)<br/>[‣ Pinterest inspires Pinners and Creators to show their true colors](https://newsroom.pinterest.com/en/post/pinterest-inspires-pinners-and-creators-to-show-their-true-colors) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 按钮不会设计？掌握这 5 个黄金法则就够了～](https://www.uisdc.com/5-button-design-rules)<br/>[‣ 从设计师角度，说说我对鸿蒙设计系统的看法](https://www.uisdc.com/harmonyos) |
@@ -128,8 +128,8 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 【Azure 机器人】微软Azure Bot 编辑器系列(2) : 机器人/用户提问回答模式，机器人从API获取响应并组织答案 (The Bot Framework Composer tutorials) - 路边两盏灯](http://www.cnblogs.com/lulight/p/14897260.html)<br/>[‣ 使用Flutter设计一个好看的"我"页面 - 程序设计实验室](http://www.cnblogs.com/deali/p/14901593.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[普雷\] 神劍闖江湖 The Final](https://www.ptt.cc/bbs/movie/M.1624039691.A.286.html)<br/>[‣ \[討論\] 沉默裡的鳥叫聲](https://www.ptt.cc/bbs/movie/M.1624035361.A.C4E.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 居家防疫照](https://www.ptt.cc/bbs/Beauty/M.1624042528.A.089.html)<br/>[‣ \[正妹\] OK嗎](https://www.ptt.cc/bbs/Beauty/M.1624036961.A.C57.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 皇室風波 L'Echange des princesses (2017 法國片)](https://www.ptt.cc/bbs/movie/M.1624048663.A.5F2.html)<br/>[‣ \[普雷\] 神劍闖江湖 The Final](https://www.ptt.cc/bbs/movie/M.1624039691.A.286.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 兩張GIF 流量注意](https://www.ptt.cc/bbs/Beauty/M.1624047099.A.A7F.html)<br/>[‣ \[正妹\] 居家防疫照](https://www.ptt.cc/bbs/Beauty/M.1624042528.A.089.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
