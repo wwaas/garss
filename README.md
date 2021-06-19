@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-20 02:07:40)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-20 03:05:49)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -76,7 +76,7 @@
 | <h2 id="数码">数码</h2> |  |   |  |
 | 少数派 | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质 | [订阅地址](https://sspai.com/feed) | [‣ 给你多一个爱上读书的理由，阅读记录管理工具新选择：众山小读书笔记](https://sspai.com/post/67271)<br/>[‣ FM3.14｜音乐最近听什么 EP02：内卷之歌](https://sspai.com/post/67324) |
 | 数字尾巴 | 分享美好数字生活 | [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | [‣ 「剁手清单」白色系主机的另外一种搭配：联力O11MINI装机作业分享](http://www.dgtle.com/article-1649270-1.html)<br/>[‣ 追风者 P600S 冰河白装机秀](http://www.dgtle.com/article-1649064-1.html) |
-| Chiphell  | 分享与交流用户体验 | [订阅地址](https://www.chiphell.com/portal.php?mod=rss)  | [‣ G.SKILL Z5i 评测](https://www.chiphell.com/article-25724-1.html)<br/>[‣ 618提前剁手第一弹：傲雷WARRIOR Mini 2——1750流明的小手电](https://www.chiphell.com/article-25723-1.html) |
+| Chiphell  | 分享与交流用户体验 | [订阅地址](https://www.chiphell.com/portal.php?mod=rss)  | [‣ 活动--CHH第三届桌面Show活动](https://www.chiphell.com/article-25725-1.html)<br/>[‣ G.SKILL Z5i 评测](https://www.chiphell.com/article-25724-1.html) |
 | <h2 id="IT团队博客">IT团队博客</h2> |  |   |  |
 | AlloyTeam | 腾讯全端AlloyTeam团队的技术博客 | [订阅地址](http://www.alloyteam.com/feed/) | [‣ 走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/)<br/>[‣ yield 学习](http://www.alloyteam.com/2021/03/15427/) |
 | 奇舞周刊 | 360前端团队博客，领略前端技术，阅读奇舞周刊  | [订阅地址](https://weekly.75.team/rss) | [‣ 奇舞周刊第 402 期](https://weekly.75.team/issue402.html)<br/>[‣ 奇舞周刊第 401 期](https://weekly.75.team/issue401.html) |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何看待《画江湖之不良人》第四季第10集？](http://www.zhihu.com/question/464286335/answer/1944713574?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何看待 2021 E3 游戏展「游力卡发布会」？有哪些值得关注的消息？](http://www.zhihu.com/question/465128349/answer/1943674386?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 3 款简单易用的免费词云生成器，无需扫码登录，即用即抛](https://www.appinn.com/word-cloud-online/)<br/>[‣ 极客词典：这 116 个单词怎么读？超爱读错的 App、Ctrl、Chrome、Linux、Wi-Fi、Python…](https://www.appinn.com/jike-cidian-wechat-miniapp/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Thales：2021年数据威胁报告](https://www.199it.com/archives/1258743.html)<br/>[‣ CCPIT：2020年企业对外投资国别（地区）营商环境指南–马来西亚](https://www.199it.com/archives/1264265.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ CMR：Realme和三星是2 -3万印度卢比细分市场的首选](https://www.199it.com/archives/1193817.html)<br/>[‣ eMarketer：2020年杂货应用用户数量增长40.9%](https://www.199it.com/archives/1237047.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ Excel 老手才知道的技巧：如何消除表格密码](https://www.ithome.com/0/558/282.htm)<br/>[‣ Clubhouse 最新估值 40 亿美元，但终局未定](https://www.ithome.com/0/558/281.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 477](https://weekly.pychina.org/issue/issue-477.html)<br/>[‣ pythonista-weekly : Pyw 503](https://weekly.pychina.org/python-weekly/pyw-503.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress图库资源下载站主题 Popcorn](https://www.wpdaxue.com/shop/wordpress-theme-popcorn-2)<br/>[‣ WordPress 5.8 引入了模板编辑器](https://www.wpdaxue.com/wordpress-5-8-introduces-template-editor.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #307 以打击盗版为目标的恶意程序](https://linux.cn/article-13502-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 使用 cpulimit 来释放你的 CPU](https://linux.cn/article-13501-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[iCloud\] icloud 2T 空间开车了（香港区，但除个别特殊区外支持所有区上车）](https://www.v2ex.com/t/784551#reply1)<br/>[‣ \[酷工作\] \[上海静安\] 前端开发 (Vue)。15K - 30K（全职）](https://www.v2ex.com/t/784550#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[酷工作\] \[上海静安\] 前端开发 (Vue)。15K - 30K（全职）](https://www.v2ex.com/t/784550#reply0)<br/>[‣ \[问与答\] 如果有两个 AirPods Pro 其中一副 刚买的 上了 AC+ 那么另外一副没有 AC+ 的是否可以享受到 ac+的福利？](https://www.v2ex.com/t/784548#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 当我给《末路狂花》打五星的时候，我在想些什么 (评论: 末路狂花)](https://movie.douban.com/review/13620029/)<br/>[‣ 现在仙侠剧选角标准这么低了吗 (评论: 千古玦尘)](https://movie.douban.com/review/13616405/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《字母表谜案》浅谈“创新” (评论: 字母表谜案)](https://book.douban.com/review/13608045/)<br/>[‣ 愿每一天都是热爱 (评论: 放学后的小巷)](https://book.douban.com/review/13618325/) |
