@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-20 05:06:11)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-20 06:07:21)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何看待《画江湖之不良人》第四季第10集？](http://www.zhihu.com/question/464286335/answer/1944713574?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何看待 2021 E3 游戏展「游力卡发布会」？有哪些值得关注的消息？](http://www.zhihu.com/question/465128349/answer/1943674386?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 3 款简单易用的免费词云生成器，无需扫码登录，即用即抛](https://www.appinn.com/word-cloud-online/)<br/>[‣ 极客词典：这 116 个单词怎么读？超爱读错的 App、Ctrl、Chrome、Linux、Wi-Fi、Python…](https://www.appinn.com/jike-cidian-wechat-miniapp/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 德勤咨询：2030碳达峰和2060碳中和再造企业可持续发展创新力–详解版](https://www.199it.com/archives/1264336.html)<br/>[‣ CMR：Realme和三星是2 -3万印度卢比细分市场的首选](https://www.199it.com/archives/1193817.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 益普索：2021年全球不平等调查报告](https://www.199it.com/archives/1224602.html)<br/>[‣ 埃森哲报告：重塑行业以提升未来竞争力](https://www.199it.com/archives/1255293.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ Excel 老手才知道的技巧：如何消除表格密码](https://www.ithome.com/0/558/282.htm)<br/>[‣ Clubhouse 最新估值 40 亿美元，但终局未定](https://www.ithome.com/0/558/281.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 477](https://weekly.pychina.org/issue/issue-477.html)<br/>[‣ pythonista-weekly : Pyw 503](https://weekly.pychina.org/python-weekly/pyw-503.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress图库资源下载站主题 Popcorn](https://www.wpdaxue.com/shop/wordpress-theme-popcorn-2)<br/>[‣ WordPress 5.8 引入了模板编辑器](https://www.wpdaxue.com/wordpress-5-8-introduces-template-editor.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #307 以打击盗版为目标的恶意程序](https://linux.cn/article-13502-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 使用 cpulimit 来释放你的 CPU](https://linux.cn/article-13501-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Apple\] 入了个二手的 Dell U2720Q，发现屏幕表面有擦不掉的白霜](https://www.v2ex.com/t/784553#reply1)<br/>[‣ \[云计算\] Oracle Cloud 可能把测试版界面放上来了](https://www.v2ex.com/t/784552#reply2) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Apple\] 入了个二手的 Dell U2720Q，发现屏幕表面有擦不掉的白霜](https://www.v2ex.com/t/784553#reply1)<br/>[‣ \[云计算\] Oracle Cloud 可能把测试版界面放上来了](https://www.v2ex.com/t/784552#reply3) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 当我给《末路狂花》打五星的时候，我在想些什么 (评论: 末路狂花)](https://movie.douban.com/review/13620029/)<br/>[‣ 现在仙侠剧选角标准这么低了吗 (评论: 千古玦尘)](https://movie.douban.com/review/13616405/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《字母表谜案》浅谈“创新” (评论: 字母表谜案)](https://book.douban.com/review/13608045/)<br/>[‣ 愿每一天都是热爱 (评论: 放学后的小巷)](https://book.douban.com/review/13618325/) |
@@ -130,7 +130,7 @@
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Java IO学习笔记七：多路复用从单线程到多线程 - Grey Zeng](http://www.cnblogs.com/greyzeng/p/14897141.html)<br/>[‣ 【Azure 机器人】微软Azure Bot 编辑器系列(4) : 使用语言生成功能\[LG: Language Generation\] (The Bot Framework Composer tutorials) - 路边两盏灯](http://www.cnblogs.com/lulight/p/14902657.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 《黑寡婦》片酬增至5.6億 史嘉蕾約翰森](https://www.ptt.cc/bbs/movie/M.1624121276.A.5F7.html)<br/>[‣ \[情報\] 第24屆上海國際電影節 得獎名單](https://www.ptt.cc/bbs/movie/M.1624118536.A.431.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 內衣](https://www.ptt.cc/bbs/Beauty/M.1624136369.A.B3A.html)<br/>[‣ \[正妹\] Law School 李秀敬](https://www.ptt.cc/bbs/Beauty/M.1624123947.A.458.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 某网站字幕加密的wasm分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1461335)<br/>[‣ CVE-2019-6447漏洞的利用](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1460346) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
