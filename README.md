@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-26 01:16:49)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-26 02:08:32)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -102,7 +102,7 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ iPhone/iPad投屏到Mac，可以如此简单！](https://iseex.github.io//2021-05/iPhone-iPad-Screen-to-Mac/)<br/>[‣ 位图转矢量图，这个工具值得一试！](https://iseex.github.io//2021-05/Convertio/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...](https://weibo.com/2970452952/KiODBxDuN)<br/>[‣ 几千年前，神奇的东方树叶从这里飘向世界。今年谷雨，我也赶着好时节采了些茶叶。炒了绿茶，又窨制了些花茶！在我看来喝茶这件事呢？既可以是精致高雅的茶艺；也...](https://weibo.com/2970452952/Khrbh3RFG) |
+| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 全程回顾 GUCCI“Aria-时尚咏叹调”上海大秀：“二次展示”依然惊喜不断](http://www.toodaylab.com/79929)<br/>[‣ 今日消费资讯：Lisa 成为宝格丽全球品牌代言人、Shake Shack 成都首店将在 2022 年开出](http://www.toodaylab.com/79927) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Reflective City](https://www.behance.net/gallery/119577205/Reflective-City)<br/>[‣ Cleanlab](https://www.behance.net/gallery/117557559/Cleanlab) |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价 6 月 11 日公测的《鬼泣-巅峰之战》手游？](http://www.zhihu.com/question/464092167/answer/1960966612?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《画江湖之不良人》第四季第 11 集？](http://www.zhihu.com/question/465504311/answer/1958249074?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 用微软官方工具「电脑健康状况检查」来检测你的电脑是否符合 Windows 11 最低配置](https://www.appinn.com/getpchealthcheckapp-for-windows-11/)<br/>[‣ Light 壁纸 – 由代码生成的无限数量壁纸应用\[iPhone/iPad\]](https://www.appinn.com/light-wallpaper-for-ios/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 赞意&艺恩：2021年CP圈层营销报告](https://www.199it.com/archives/1268339.html)<br/>[‣ 德国联邦统计局：2021年第一季德国房价比去年同期增长了9.4%](https://www.199it.com/archives/1268296.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 巨量算数：2021年成人教育行业趋势洞察报告（附下载）](https://www.199it.com/archives/1268299.html)<br/>[‣ 爱分析&CCFA：2021中国购物中心数字化趋势报告（附下载）](https://www.199it.com/archives/1268072.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 微软要求未来 Win11 笔记本电脑支持蓝牙和精密触控板，建议使用 SSD](https://www.ithome.com/0/559/452.htm)<br/>[‣ SiFive 发布最强 RISC-V 处理器：干翻 Arm A75，和苹果 A14 比差点意思](https://www.ithome.com/0/559/451.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 478](https://weekly.pychina.org/issue/issue-478.html)<br/>[‣ pythonista-weekly : Pyw 504](https://weekly.pychina.org/python-weekly/pyw-504.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.8 扩展了站点健康接口](https://www.wpdaxue.com/wordpress-5-8-extends-the-site-health-interface.html)<br/>[‣ 图文介绍 WordPress 5.8 新功能细节](https://www.wpdaxue.com/wordpress-5-8.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 用于调度任务的 systemd 定时器](https://linux.cn/article-13522-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 #313 微软正式宣布推出 Windows 11 操作系统](https://linux.cn/article-13521-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[京东\] 迫于晕 3d 原价出 xsx 京东自营 仅限武汉自提](https://www.v2ex.com/t/785868#reply2)<br/>[‣ \[酷工作\] 为啥有些公司看不起外包，但给的待遇却不如外包？](https://www.v2ex.com/t/785867#reply1) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[京东\] 迫于晕 3d 原价出 xsx 京东自营 仅限武汉自提](https://www.v2ex.com/t/785868#reply2)<br/>[‣ \[酷工作\] 为啥有些公司看不起外包，但给的待遇却不如外包？](https://www.v2ex.com/t/785867#reply2) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ Ride or die?To the inferno of dust. (评论: 与魔鬼共骑)](https://movie.douban.com/review/13632624/)<br/>[‣ 我喜欢泰罗奥特曼但不喜欢《泰罗奥特曼》，抛开童年滤镜细数泰罗奥特曼的反智剧情。 (评论: 泰罗奥特曼)](https://movie.douban.com/review/13632737/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《字母表谜案》浅谈“创新” (评论: 字母表谜案)](https://book.douban.com/review/13608045/)<br/>[‣ 青春无悔洒热血，不负韶华不负卿 (评论: 魔鬼周)](https://book.douban.com/review/13627808/) |
@@ -128,13 +128,13 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ \[非专业翻译\] Mapster - 配置位置 - 玩双截棍的熊猫](http://www.cnblogs.com/staneee/p/14913629.html)<br/>[‣ Arduino参考手册-函数和变量及电路图 - 梦幻之心星](http://www.cnblogs.com/Sky-seeker/p/14933016.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[新聞\] 角色死掉才能拿劇本！《自殺突擊隊：集](https://www.ptt.cc/bbs/movie/M.1624639231.A.3DE.html)<br/>[‣ \[新聞\] 邱澤《男戀》國台語齊發影迷二刷票房](https://www.ptt.cc/bbs/movie/M.1624637874.A.EBF.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[討論\] 「尚氣」劉思慕：全世界會再愛上梁朝偉！](https://www.ptt.cc/bbs/movie/M.1624642829.A.A36.html)<br/>[‣ \[片單\] 有階級對立的電影](https://www.ptt.cc/bbs/movie/M.1624642418.A.7A3.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 土耳其女排國家隊X4](https://www.ptt.cc/bbs/Beauty/M.1624631786.A.E02.html)<br/>[‣ \[正妹\] 你想跟誰結婚](https://www.ptt.cc/bbs/Beauty/M.1624630455.A.69F.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 某网站字幕加密的wasm分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1461335)<br/>[‣ InnoExtractor 捐赠机制](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1459729) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 37次想你 超清](https://bukaivip.com/index.php/vod/detail/id/34909.html)<br/>[‣ 你的婚礼 超清](https://bukaivip.com/index.php/vod/detail/id/50245.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 相约花戏楼 更新至2021-06-25期](https://bukaivip.com/index.php/vod/detail/id/50588.html)<br/>[‣ 密室大逃脱第三季 2021-06-24期](https://bukaivip.com/index.php/vod/detail/id/50641.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 天天ACG 6.26](https://www.gcores.com/radios/138374)<br/>[‣ 小小战棋，大大天地：小评《军团战棋英雄时代》](https://www.gcores.com/articles/138613) |
-| 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 创造“永远滴神”梗的山泥若，因为开设赌场罪被法院提审了](https://www.yystv.cn/p/8064)<br/>[‣ 印度不仅也有少林寺，还互相争夺“正统”](https://www.yystv.cn/p/8063) |
+| 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 创造“永远滴神”梗的山泥若，因为开设赌场罪被法院提审了](https://www.yystv.cn/p/8064)<br/>[‣ 【白夜谈】互联网冲浪可以让人实现数字永生吗](https://www.yystv.cn/p/8066) |
