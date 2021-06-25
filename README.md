@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-26 05:06:48)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-26 06:07:36)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价 6 月 11 日公测的《鬼泣-巅峰之战》手游？](http://www.zhihu.com/question/464092167/answer/1960966612?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《画江湖之不良人》第四季第 11 集？](http://www.zhihu.com/question/465504311/answer/1958249074?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 用微软官方工具「电脑健康状况检查」来检测你的电脑是否符合 Windows 11 最低配置](https://www.appinn.com/getpchealthcheckapp-for-windows-11/)<br/>[‣ Light 壁纸 – 由代码生成的无限数量壁纸应用\[iPhone/iPad\]](https://www.appinn.com/light-wallpaper-for-ios/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 巨量算数：2021年成人教育行业趋势洞察报告（附下载）](https://www.199it.com/archives/1268299.html)<br/>[‣ 爱分析&CCFA：2021中国购物中心数字化趋势报告（附下载）](https://www.199it.com/archives/1268072.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 爱立信：2021年6月移动报告](https://www.199it.com/archives/1265811.html)<br/>[‣ Ascend2：2021年重定向报告](https://www.199it.com/archives/1260141.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苏宁 30 年](https://www.ithome.com/0/559/454.htm)<br/>[‣ 比特币疯狂跳水，显卡真的降价可以入手了吗](https://www.ithome.com/0/559/453.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 478](https://weekly.pychina.org/issue/issue-478.html)<br/>[‣ pythonista-weekly : Pyw 504](https://weekly.pychina.org/python-weekly/pyw-504.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.8 扩展了站点健康接口](https://www.wpdaxue.com/wordpress-5-8-extends-the-site-health-interface.html)<br/>[‣ 图文介绍 WordPress 5.8 新功能细节](https://www.wpdaxue.com/wordpress-5-8.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 用于调度任务的 systemd 定时器](https://linux.cn/article-13522-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 硬核观察 #313 微软正式宣布推出 Windows 11 操作系统](https://linux.cn/article-13521-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[京东\] 迫于晕 3d 原价出 xsx 京东自营 仅限武汉自提](https://www.v2ex.com/t/785868#reply2)<br/>[‣ \[酷工作\] 为啥有些公司看不起外包，但给的待遇却不如外包？](https://www.v2ex.com/t/785867#reply2) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Linux\] 终于找到了在虚拟机下体积不超过 2G 的桌面 Linux 系统！同时有几个小问题](https://www.v2ex.com/t/785871#reply0)<br/>[‣ \[程序员\] 验证短信供应商选择](https://www.v2ex.com/t/785870#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ Ride or die?To the inferno of dust. (评论: 与魔鬼共骑)](https://movie.douban.com/review/13632624/)<br/>[‣ 我喜欢泰罗奥特曼但不喜欢《泰罗奥特曼》，抛开童年滤镜细数泰罗奥特曼的反智剧情。 (评论: 泰罗奥特曼)](https://movie.douban.com/review/13632737/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《字母表谜案》浅谈“创新” (评论: 字母表谜案)](https://book.douban.com/review/13608045/)<br/>[‣ 青春无悔洒热血，不负韶华不负卿 (评论: 魔鬼周)](https://book.douban.com/review/13627808/) |
