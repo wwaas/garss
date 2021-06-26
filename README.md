@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-27 03:05:57)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-27 04:07:39)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 纯CSS实现标题栏、表格头水平滚动垂直不滚动](https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/)<br/>[‣ 如何使用CSS禁止元素拖拽？](https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ Windows专用Office Tool Plus 8.2.3.0 office部署工具一体zip包(含.net5)](https://v2fy.com/p/2021-06-24-office-1624527564000/)<br/>[‣ 给热心老哥挪个窝,将BBS网站Discourse从海外主机完美迁移到国内云服务器, 实现国内主机同时运行WordPress和Discourse](https://v2fy.com/p/2021-06-21-discourse-1624274883000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Scarlet Nexus Trainer](https://flingtrainer.com/trainer/scarlet-nexus-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=scarlet-nexus-trainer)<br/>[‣ Dungeons & Dragons: Dark Alliance Trainer](https://flingtrainer.com/trainer/dungeons-dragons-dark-alliance-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=dungeons-dragons-dark-alliance-trainer) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多 6 折优惠 !!!](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/)<br/>[‣ 鼓励犯错 - 读《华为供应链管理》](https://blog.devtang.com/2021/04/18/the-supply-chain-of-huawei-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 最近的工作感悟](https://www.kawabangga.com/posts/4294)<br/>[‣ P99 是如何计算的](https://www.kawabangga.com/posts/4284) |
@@ -105,7 +105,7 @@
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 实验室带你过周末：2021.6.26 - 6.27 成都篇](http://www.toodaylab.com/79933)<br/>[‣ 到明年春季，MUJI 就要实现一半服装“男女通穿”了](http://www.toodaylab.com/79932) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ LAVA.](https://www.behance.net/gallery/122153637/LAVA)<br/>[‣ YME architects](https://www.behance.net/gallery/122259687/YMEarchitects) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ NYC Votes](https://www.behance.net/gallery/122269689/NYC-Votes)<br/>[‣ LAVA.](https://www.behance.net/gallery/122153637/LAVA) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: Mue Studio](https://medium.com/behance-blog/meet-this-months-guest-curator-mue-studio-fd88935c264f?source=rss-f5272b7f3182------2)<br/>[‣ How to Get Featured on Behance: Insights and Tips from Our Curation Team](https://medium.com/behance-blog/how-to-get-featured-on-behance-insights-and-tips-from-our-curation-team-b81358a46b29?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Pinterest collaborates with American Express on a digital Shop to support small businesses this summer](https://newsroom.pinterest.com/en/pinterestshopamex)<br/>[‣ Pinterest Opens its Doors in Mexico City](https://newsroom.pinterest.com/en/post/pinterest-opens-its-doors-in-mexico-city) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 当产品说要把聊天气泡图标改成「加入聊天」四个字的时候…](https://www.uisdc.com/chat-design-details)<br/>[‣ 如何建立完善的设计验收机制？来看高手的实战总结！](https://www.uisdc.com/design-acceptance-mechanism) |
