@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-28 02:08:09)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-06-28 03:06:07)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ JS判断图像背景颜色单一还是丰富](https://www.zhangxinxu.com/wordpress/2021/06/js-image-colorful-or-pure/)<br/>[‣ 纯CSS实现标题栏、表格头水平滚动垂直不滚动](https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 零依赖!使用acme.sh设置nginx多个https证书自动更新，无限续期https证书](https://v2fy.com/p/2021-06-27-nginx-https-1624774964000/)<br/>[‣ Windows专用Office Tool Plus 8.2.3.0 office部署工具一体zip包(含.net5)](https://v2fy.com/p/2021-06-24-office-1624527564000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Red Solstice 2: Survivors Trainer](https://flingtrainer.com/trainer/red-solstice-2-survivors-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=red-solstice-2-survivors-trainer)<br/>[‣ Scarlet Nexus Trainer](https://flingtrainer.com/trainer/scarlet-nexus-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=scarlet-nexus-trainer) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多 6 折优惠 !!!](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 做难而正确的事 - 读《详谈左晖》](https://blog.devtang.com/2021/06/27/what-is-zuohui-said/)<br/>[‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 博客迁移到 Cloudflare](https://www.kawabangga.com/posts/4331)<br/>[‣ 最近的工作感悟](https://www.kawabangga.com/posts/4294) |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价 6 月 11 日公测的《鬼泣-巅峰之战》手游？](http://www.zhihu.com/question/464092167/answer/1960966612?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《画江湖之不良人》第四季第 11 集？](http://www.zhihu.com/question/465504311/answer/1958249074?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ MicrosoftHostsPicker – 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题](https://www.appinn.com/microsofthostspicker-python/)<br/>[‣ 用微软官方工具「电脑健康状况检查」来检测你的电脑是否符合 Windows 11 最低配置](https://www.appinn.com/getpchealthcheckapp-for-windows-11/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 大韩商工会议所：调查显示八成韩国人疫后网购增多](https://www.199it.com/archives/1269443.html)<br/>[‣ 教育部：2021年新增37个本科专业 工学类占比最高](https://www.199it.com/archives/1269442.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 百度&中国汽车流通协会：2021年中国汽车换购人群洞察（附下载）](https://www.199it.com/archives/1259603.html)<br/>[‣ 新东方：2021中国留学白皮书（附下载）](https://www.199it.com/archives/1269816.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 电脑也能刷短视频，抖音网页版详细体验](https://www.ithome.com/0/559/663.htm)<br/>[‣ 高途 CEO 陈向东回应质疑：确有人员优化，但员工总数在增加](https://www.ithome.com/0/559/662.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/)<br/>[‣ HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 478](https://weekly.pychina.org/issue/issue-478.html)<br/>[‣ pythonista-weekly : Pyw 504](https://weekly.pychina.org/python-weekly/pyw-504.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 5.8 扩展了站点健康接口](https://www.wpdaxue.com/wordpress-5-8-extends-the-site-health-interface.html)<br/>[‣ 图文介绍 WordPress 5.8 新功能细节](https://www.wpdaxue.com/wordpress-5-8.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #315 华为工程师向 Linux 内核提出一项“华为摘要列表”功能建议](https://linux.cn/article-13528-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 13 个 Linux 5.13 中最值得关注的变化](https://linux.cn/article-13527-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[科技\] 如何合理地分配磁盘？](https://www.v2ex.com/t/786128#reply0)<br/>[‣ \[Clojure\] 有没有比较活跃的 Clojure 论坛](https://www.v2ex.com/t/786127#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[宽带症候群\] ER-X: IP 列表似乎是放进去了, 但是分流还没有实现](https://www.v2ex.com/t/786130#reply0)<br/>[‣ \[Apple\] Macbook Pro 19Mid 升级到 Big Sur 的问题](https://www.v2ex.com/t/786129#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 向往的生活是自己的选择 (评论: 向往的生活 第五季)](https://movie.douban.com/review/13637173/)<br/>[‣ 这是谁的向往的生活？又惹了谁的意难平？ (评论: 向往的生活 第五季)](https://movie.douban.com/review/13637069/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 读《字母表谜案》浅谈“创新” (评论: 字母表谜案)](https://book.douban.com/review/13608045/)<br/>[‣ 青春无悔洒热血，不负韶华不负卿 (评论: 魔鬼周)](https://book.douban.com/review/13627808/) |
