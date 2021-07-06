@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-07 04:07:29)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-07 05:07:22)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,8 +114,8 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何看待游戏《我的世界》（Minecraft）1.17.1 pre2 版本加入了文言文？](http://www.zhihu.com/question/469226186/answer/1979682825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价2021年7月开播的动画《寒蝉鸣泣之时 卒》？](http://www.zhihu.com/question/469405052/answer/1974393667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Blendoku 2 (彩独) – 色彩大师？来挑战色彩辨识力吧\[iOS/Android\]](https://www.appinn.com/blendoku-2-game/)<br/>[‣ UZIP – 支持密码本，多密码自动解压缩加密文件\[Windows\]](https://www.appinn.com/uzip-7zip-for-windows/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ TopOn：2021上半年全球手游广告变现报告（附下载）](https://www.199it.com/archives/1274234.html)<br/>[‣ 浙商证券：2021年中国社区电商行业报告（附下载）](https://www.199it.com/archives/1274207.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 微信：爸妈，打它！](https://www.ithome.com/0/560/968.htm)<br/>[‣ 亚马逊新任 CEO 本周一上任，未来十年将获价值 2.1 亿美元公司股票](https://www.ithome.com/0/560/967.htm) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 生态环境部：2020中国环保产业发展状况报告](https://www.199it.com/archives/1274022.html)<br/>[‣ 益普索Ipsos：2020年学前在线教育发展趋势洞察专题报告](https://www.199it.com/archives/1273985.html) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 亚马逊新任 CEO 本周一上任，未来十年将获价值 2.1 亿美元公司股票](https://www.ithome.com/0/560/967.htm)<br/>[‣ 科普：航天员身上的白带子是什么？不只是“电话线”](https://www.ithome.com/0/560/965.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/)<br/>[‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 479](https://weekly.pychina.org/issue/issue-479.html)<br/>[‣ pythonista-weekly : Pyw 505](https://weekly.pychina.org/python-weekly/pyw-505.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ WordPress 作品展示博客主题 Clearwork](https://www.wpdaxue.com/wordpress-theme-clearwork.html)<br/>[‣ WordPress 免费杂志博客主题 Instorm](https://www.wpdaxue.com/wordpress-free-theme-instrum.html) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ FastDFS文件系统迁移和数据恢复 - 常见-youmen](http://www.cnblogs.com/you-men/p/14979729.html)<br/>[‣ Spring Cloud 专题之四：Zuul网关 - pluto_charon](http://www.cnblogs.com/pluto-charon/p/14979576.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[討論\] 《怪物奇兵全新世代》DC世界片段](https://www.ptt.cc/bbs/movie/M.1625592293.A.217.html)<br/>[‣ \[情報\] 《尚氣》曝封面劇照與英文名：新英雄崛起](https://www.ptt.cc/bbs/movie/M.1625591773.A.96B.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 物化女性爭議！漫威：更多投訴是物化男性](https://www.ptt.cc/bbs/movie/M.1625603214.A.C2F.html)<br/>[‣ \[問片\] 一部西洋片，會在鏡中的迷宮看到鬼](https://www.ptt.cc/bbs/movie/M.1625602587.A.C7C.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 五年級](https://www.ptt.cc/bbs/Beauty/M.1625589069.A.532.html)<br/>[‣ \[正妹\] 健康美](https://www.ptt.cc/bbs/Beauty/M.1625588910.A.CD2.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
