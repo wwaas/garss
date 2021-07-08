@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-09 00:15:30)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-09 01:20:32)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 下周一涨价倒计时！白描 App 永久会员折扣，别错过](https://www.appinn.com/baimiao-app-202107/)<br/>[‣ Sumatra PDF 3.3 版本发布，拥有 15 年历史的轻量级开源 PDF 阅读器](https://www.appinn.com/sumatra-pdf-3-3/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 华为 ：截止2021年6月HarmonyOS 2.0 用户累计达3000万](https://www.199it.com/archives/1275392.html)<br/>[‣ 央行：数字人民币白名单用户已达1000万](https://www.199it.com/archives/1275386.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ BOSS 直聘：积极配合网络安全审查工作，全面排查和防范网络安全风险](https://www.ithome.com/0/560/963.htm)<br/>[‣ 腾讯推出“Q 次元”App：主打年轻人多元群组社区](https://www.ithome.com/0/560/962.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 微信：爸妈，打它！](https://www.ithome.com/0/560/968.htm)<br/>[‣ 亚马逊新任 CEO 本周一上任，未来十年将获价值 2.1 亿美元公司股票](https://www.ithome.com/0/560/967.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/)<br/>[‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 480](https://weekly.pychina.org/issue/issue-480.html)<br/>[‣ pythonista-weekly : Pyw 506](https://weekly.pychina.org/python-weekly/pyw-506.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 如何在 WordPress 中禁用评论：完整指南](https://www.wpdaxue.com/how-to-disable-comments-in-wordpress.html)<br/>[‣ 使用 Duplicator 将 WordPress 网站从本地环境迁移到线上服务器](https://www.wpdaxue.com/wordpress-migration-plugin-duplicator.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #326 法官发布临时禁令，要求勒索团伙不得发布窃取的数据](https://linux.cn/article-13563-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 用 4 天时间，手把手教你成为 Linux 生态贡献者](https://linux.cn/article-13562-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[Apple\] 求一个能导出子节点的思维导图 iPad 端应用](https://www.v2ex.com/t/788410#reply0)<br/>[‣ \[PWA\] 利用 PWA 或者说 Service Worker 有没有可能做到完全离线的体验?](https://www.v2ex.com/t/788406#reply1) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[分享发现\] 一个差点以为是 LoveFrom 官网的网站](https://www.v2ex.com/t/788415#reply0)<br/>[‣ \[Java\] SpringBoot 如何获取原始请求体](https://www.v2ex.com/t/788414#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 评论里是在干什么？？？ (评论: 未知周刊！INTO1!)](https://movie.douban.com/review/13660897/)<br/>[‣ 老洛基才是神圣时间线的经典洛基啊（第五集） (评论: 洛基 第一季)](https://movie.douban.com/review/13660384/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 在“成为自己”这条路上，女性忍受多少打压才能赢得尊重？ (评论: 成为波伏瓦)](https://book.douban.com/review/13654581/)<br/>[‣ 不安的冯唐与消失的西西弗斯 (评论: 有本事)](https://book.douban.com/review/13646672/) |
@@ -129,12 +129,12 @@
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ Netty 框架学习 —— UDP 广播 - 低吟不作语](http://www.cnblogs.com/Yee-Q/p/14988692.html)<br/>[‣ Linux云计算-04_Linux用户及权限管理 - shuchaoyang](http://www.cnblogs.com/shuchaoyang/p/14988636.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 柯震東「月老」韓國首映 上線嘆30歲想轉](https://www.ptt.cc/bbs/movie/M.1625758973.A.BF8.html)<br/>[‣ Re: \[好雷\] 明日之戰](https://www.ptt.cc/bbs/movie/M.1625756544.A.3CD.html) |
-| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] Oh My Girl Binnie](https://www.ptt.cc/bbs/Beauty/M.1625756788.A.734.html)<br/>[‣ \[正妹\] 大尺碼｜肉特(530)](https://www.ptt.cc/bbs/Beauty/M.1625749018.A.D2E.html) |
+| PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 近期實用 七ツ森りり](https://www.ptt.cc/bbs/Beauty/M.1625762082.A.C4E.html)<br/>[‣ \[正妹\] 吳婉君](https://www.ptt.cc/bbs/Beauty/M.1625762037.A.CA9.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 【MacOS】SteerMouse 5.5.6 注册算法分析 新增一处暗桩校验](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1464030)<br/>[‣ 某网站字幕加密的wasm分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1461335) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 衡山医院 更新至02集](https://bukaivip.com/index.php/vod/detail/id/53876.html)<br/>[‣ 蜿蜒 超清](https://bukaivip.com/index.php/vod/detail/id/53850.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 衡山医院 更新至02集](https://bukaivip.com/index.php/vod/detail/id/53876.html)<br/>[‣ 喵，请许愿 共24集,更新至8集](https://bukaivip.com/index.php/vod/detail/id/53867.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《星空》带来幕后制作预告，B站高能电玩节直播汇总](https://www.gcores.com/articles/139040)<br/>[‣ 人生往回退十年，你有什么想改变 天天ACG 7.8](https://www.gcores.com/radios/138865) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 玩家在沃尔玛中提前发现了正版的动森主题《大富翁》](https://www.yystv.cn/p/8105)<br/>[‣ 美国警方试图用“游戏卡车”拉近警民距离，但民众并不买账](https://www.yystv.cn/p/8106) |
