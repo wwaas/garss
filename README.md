@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-19 05:07:04)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-19 06:06:56)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -37,7 +37,7 @@
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 借助SVG滤镜实现CSS无法实现的阴影和模糊效果](https://www.zhangxinxu.com/wordpress/2021/07/svg-filter-shadow-css-blur/)<br/>[‣ Proxy是代理，Reflect是干嘛用的？](https://www.zhangxinxu.com/wordpress/2021/07/js-proxy-reflect/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 将树莓派挂载的硬盘资源，同步展示到互联网](https://v2fy.com/p/2021-07-17-it-1626503043000/)<br/>[‣ 将VSCode部署到服务器教程, 网页游戏上号！开始「云代码」！可作为ssh客户端使用~](https://v2fy.com/p/2021-07-12-vscode-1626075074000/) |
 | 老左笔记 | 记录云主机商活动和建站运维教程  | [订阅地址](https://www.laozuo.org/feed) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
-| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [‣ Monster Hunter Stories 2: Wings of Ruin Trainer](https://flingtrainer.com/trainer/monster-hunter-stories-2-wings-of-ruin-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=monster-hunter-stories-2-wings-of-ruin-trainer)<br/>[‣ Ys IX: Monstrum Nox Trainer](https://flingtrainer.com/trainer/ys-ix-monstrum-nox-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=ys-ix-monstrum-nox-trainer) |
+| FLiNG Trainer | 修改器大神风灵月影 | [订阅地址](https://flingtrainer.com/feed/) | [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 奔跑中的奶酪 | 有智，有趣，有爱 | [订阅地址](https://www.runningcheese.com/feed) | [‣ \[置顶\] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview)<br/>[‣ 正版软件优惠购买，最多 6 折优惠 !!!](https://www.runningcheese.com/coupon) |
 | 唐巧的博客 | 记录下自己学习的点滴 | [订阅地址](https://blog.devtang.com/atom.xml) | [‣ 做难而正确的事 - 读《详谈左晖》](https://blog.devtang.com/2021/06/27/what-is-zuohui-said/)<br/>[‣ 会计指标应该反映出经营活动 - 读《经营与会计》](https://blog.devtang.com/2021/04/24/operating-and-accounting-book-summary/) |
 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [订阅地址](https://www.kawabangga.com/feed) | [‣ 警惕复用的陷阱](https://www.kawabangga.com/posts/4392)<br/>[‣ 开源软件源码编译指南](https://www.kawabangga.com/posts/4373) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价《初代奥特曼》？](http://www.zhihu.com/question/265413321/answer/1996395962?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 翻译漫画有哪些需要知道的要点或技巧？](http://www.zhihu.com/question/351873262/answer/2003865793?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Tager – 免费的 macOS 文件夹图标自定义工具（与系统原生功能效果不同）](https://www.appinn.com/tager-for-macos/)<br/>[‣ ExtractNow – 批量解压缩加密压缩包、二级解压缩，支持从 Windows 95 到 Windows 11 的操作系统](https://www.appinn.com/extractnow-for-windows/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ WTO：2021年世贸组织年度报告（215页）](https://www.199it.com/archives/1279817.html)<br/>[‣ 哈佛大学：地方碳排放权交易体系的经验和教训](https://www.199it.com/archives/1279769.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ ABM：2021年妈妈游戏玩家报告](https://www.199it.com/archives/1277028.html)<br/>[‣ TVSquared：2021年联网电视发展报告](https://www.199it.com/archives/1279347.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 滴滴被下架，目前打车还有这些香香的选择](https://www.ithome.com/0/563/632.htm)<br/>[‣ 华为 MatePad 11 智能磁吸键盘上架：599 元，支持无线充电](https://www.ithome.com/0/563/631.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/)<br/>[‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 481](https://weekly.pychina.org/issue/issue-481.html)<br/>[‣ pythonista-weekly : Pyw 507](https://weekly.pychina.org/python-weekly/pyw-507.html) |
@@ -127,8 +127,8 @@
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 充满正气与能量的红歌 (评论: 红船)](https://music.douban.com/review/13664835/)<br/>[‣ 这首歌的词曲真的好喜欢  张哲瀚开口就很好听很抓耳  旋律一开始婉转渐渐走向高潮   就很正能量 听得我还有点热泪盈眶的那种动容 越听越喜欢的一首歌 (评论: 红船)](https://music.douban.com/review/13671911/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
-| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 记一次数据量上亿的后台服务的性能优化 - 特务依昂](http://www.cnblogs.com/tuyang1129/p/15028363.html)<br/>[‣ 嵌入式Redis服务器在Spring Boot测试中的使用 - 码农熊猫](http://www.cnblogs.com/eyougo/p/15028270.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 我是傳奇：我也是最後生還者](https://www.ptt.cc/bbs/movie/M.1626638914.A.083.html)<br/>[‣ Re: \[討論\] 老實說, 串流平台真的威脅到電影院生計](https://www.ptt.cc/bbs/movie/M.1626633025.A.2C8.html) |
+| 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ libzip开发笔记（二）：libzip库介绍、ubuntu平台编译和工程模板 - 红胖子(红模仿)](http://www.cnblogs.com/qq21497936/p/15028571.html)<br/>[‣ 记一次数据量上亿的后台服务的性能优化 - 特务依昂](http://www.cnblogs.com/tuyang1129/p/15028363.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[討論\] 老實說, 串流平台真的威脅到電影院生計](https://www.ptt.cc/bbs/movie/M.1626645480.A.A7B.html)<br/>[‣ \[好雷\] 我是傳奇：我也是最後生還者](https://www.ptt.cc/bbs/movie/M.1626638914.A.083.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] OK嗎](https://www.ptt.cc/bbs/Beauty/M.1626627400.A.BE5.html)<br/>[‣ \[正妹\] 晚安](https://www.ptt.cc/bbs/Beauty/M.1626625369.A.381.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 【原创源码】【VB6】浅谈丘陵算法：一种用于Roguelike地图的随机生成算法](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1476723)<br/>[‣ 魔改CobaltStrike：beacon浅析(下)](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1473464) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
