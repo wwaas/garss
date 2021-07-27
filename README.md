@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-28 06:07:20)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-28 07:07:41)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -32,7 +32,7 @@
 | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [订阅地址](https://www.appinn.com/feed/) | [‣ DynaWin – 让 Windows 10/11 根据时间自动切换深色模式，还支持自动更换壁纸](https://www.appinn.com/dynawin/)<br/>[‣ 鸟儿咖啡公园 – 简单的咖啡豆记录工具\[微信小程序\]](https://www.appinn.com/bird-coffee-park-wechat-miniapp/) |
 | <h2 id="个人博客">个人博客</h2> |  |   |  |
 | 阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) | [‣ 科技爱好者周刊（第 168 期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)<br/>[‣ 科技爱好者周刊（第 167 期）：广告拦截器太过分了](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html) |
-| 当我在扯淡 | 王垠的博客，观点奇妙有趣 | [订阅地址](https://yinwang1.wordpress.com/feed/) | [‣ 皇帝的新装（AI 版）](https://yinwang1.wordpress.com/2021/07/27/ai-emperors-new-clothes/)<br/>[‣ 居里夫人，核物理和诺贝尔奖](https://yinwang1.wordpress.com/2021/07/25/marie-curie-nobel-prize/) |
+| 当我在扯淡 | 王垠的博客，观点奇妙有趣 | [订阅地址](https://yinwang1.wordpress.com/feed/) | [‣ 皇帝的新装（AI 版）](https://yinwang1.wordpress.com/2021/07/27/ai-emperors-new-clothes/)<br/>[‣ 居里夫人，核武器和诺贝尔奖](https://yinwang1.wordpress.com/2021/07/25/marie-curie-nobel-prize/) |
 | 黑果小兵的部落阁 | Hackintosh安装镜像、教程及经验分享| [订阅地址](https://blog.daliansky.net/atom.xml) | [‣ 【黑果小兵】【微信首发】macOS Big Sur 11.4 20F71 Installer for OpenCore 0.6.9 and CLOVER 5134 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.4-20F71-Release-version-with-OC-0.6.9-and-Clover-5134-and-PE-original-image.html)<br/>[‣ 【黑果小兵】【微信首发】macOS Big Sur 11.3.1 20E241 Installer for OpenCore 0.6.8 and CLOVER 5134 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.3.1-20E241-Release-version-with-OC-0.6.8-and-Clover-5134-and-PE-original-image.html) |
 | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | [‣ 为什么HTML <picture>元素很少见人使用？](https://www.zhangxinxu.com/wordpress/2021/07/html-picture/)<br/>[‣ 为什么white-space:nowrap可以让文字一行显示？](https://www.zhangxinxu.com/wordpress/2021/07/css-white-space-nowrap/) |
 | V2方圆 | zhaoolee的博客  | [订阅地址](https://v2fy.com/feed/) | [‣ 如何下载Windows各版本纯净镜像? 附吾爱破解好评如潮的迅雷单文件版~](https://v2fy.com/p/2021-07-27-win-1627375107000/)<br/>[‣ Ubuntu20.04试水k8s单机版minikube部署实录](https://v2fy.com/p/2021-07-26-k8s-1627292526000/) |
@@ -91,7 +91,7 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/)<br/>[‣ Apple deploys $1 billion in affordable housing support across California](https://www.apple.com/newsroom/2021/07/apple-deploys-1-billion-in-affordable-housing-support-across-california/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 削尖脑袋的医疗企业们，为什么进不去医院？](http://www.huxiu.com/article/443948.html?f=wangzhan)<br/>[‣ 马斯克有多烦开会？](http://www.huxiu.com/article/443942.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 双减新政下的K12，两条快车道在浮现 \| 焦点分析](https://36kr.com/p/1328964109359362)<br/>[‣ 国外创投新闻｜争做外卖服务和即时餐包的有力竞争者，德国初创公司Kitchenful助力在家做饭的快捷智能化](https://36kr.com/p/1323225487411975) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 36氪首发 ｜提供云原生开发平台产品及解决方案，「行云创新」完成阿里云独家投资的B轮融资](https://36kr.com/p/1328555224963330)<br/>[‣ 双减新政下的K12，两条快车道在浮现 \| 焦点分析](https://36kr.com/p/1328964109359362) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ 对话 \| 图灵奖得主John Hopcroft：深度理解AI技术理论，路漫漫其修远](https://www.msra.cn/zh-cn/news/features/hon-fireside-chat-with-john)<br/>[‣ ICML 2021 \| 微软亚洲研究院精选论文一览](https://www.msra.cn/zh-cn/news/features/icml-2021) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ 中兴 Axon 30 5G 评测：还你一块「完整」屏幕，触屏手机的终极形态？](http://www.geekpark.net/news/281800)<br/>[‣ 【抽奖】OPPO Watch 2 体验：没有续航焦虑，更「智能」的智能手表](http://www.geekpark.net/news/281963) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
@@ -115,12 +115,12 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ DynaWin – 让 Windows 10/11 根据时间自动切换深色模式，还支持自动更换壁纸](https://www.appinn.com/dynawin/)<br/>[‣ 鸟儿咖啡公园 – 简单的咖啡豆记录工具\[微信小程序\]](https://www.appinn.com/bird-coffee-park-wechat-miniapp/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ The Good Food Institute：2020年人造肉行业报告](https://www.199it.com/archives/1282714.html)<br/>[‣ Carbon Trust&GSMA：智能技术赋能碳中和的九大应用场景报告](https://www.199it.com/archives/1285457.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苹果算法突然改变，科研人员很难再在研究中使用 Apple Watch 智能手表](https://www.ithome.com/0/565/545.htm)<br/>[‣ 调查：微软 Win11 PC 占比份额已达 0.9%，Win10 21H1 份额 7 月增至 26.6%](https://www.ithome.com/0/565/544.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 库克谈“苹果自研硬件”：如果我们自己做得更好，就不会去外面买](https://www.ithome.com/0/565/552.htm)<br/>[‣ 苹果 CFO：供应链限制将变严重，iPhone 和 iPad 首当其冲](https://www.ithome.com/0/565/551.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/)<br/>[‣ HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 482](https://weekly.pychina.org/issue/issue-482.html)<br/>[‣ pythonista-weekly : Pyw 508](https://weekly.pychina.org/python-weekly/pyw-508.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 您应该为网站选择哪种类型的 SSL 证书？](https://www.wpdaxue.com/ssl-certificate.html)<br/>[‣ WordPress 5.8 正式版发布，超全更新详解来啦](https://www.wpdaxue.com/wordpress-5-8-2.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #345 “不再索取赎金” 项目的免费解密工具节省了 10 亿美元](https://linux.cn/article-13623-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 编程基础：Java 中的输入和输出](https://linux.cn/article-13622-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 23 岁，就有点秃头了，有什么方法可以补救一下？](https://www.v2ex.com/t/792166#reply0)<br/>[‣ \[宽带症候群\] mosdns: 在 Hyper-V 虚拟机的 Debian 10 用脚本安装二进制文件后, 无法使用](https://www.v2ex.com/t/792165#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 前端怎么判断滚动条滚动到元素第一次出现的位置，然后在出现时播放动画？](https://www.v2ex.com/t/792167#reply1)<br/>[‣ \[问与答\] 23 岁，就有点秃头了，有什么方法可以补救一下？](https://www.v2ex.com/t/792166#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 偶像剧红利好吃，但用心程度不够仍然会拖后腿哦 (评论: 你是我的荣耀)](https://movie.douban.com/review/13705633/)<br/>[‣ 你可以永远相信杨洋 (评论: 你是我的荣耀)](https://movie.douban.com/review/13705142/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 上帝读完《为什么要把小说写得那么好》之后 (评论: 为什么要把小说写得那么好)](https://book.douban.com/review/13703623/)<br/>[‣ 穿越《虚无时代》的迷雾，解读上帝死后我们如何生活 (评论: 虚无时代)](https://book.douban.com/review/13701180/) |
