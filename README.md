@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-29 07:07:56)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-29 08:22:54)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -91,11 +91,11 @@
 | Apple新闻 | Apple官方消息 | [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  [‣ Educators in Australia embrace Swift to forge a new future](https://www.apple.com/newsroom/2021/07/educators-in-australia-embrace-swift-to-forge-a-new-future/)<br/>[‣ Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/) |
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | 虎嗅 | 虎嗅网新闻 | [订阅地址](https://www.huxiu.com/rss/0.xml) |  [‣ 以快手为例，谈谈以内容SKU扩张为锚定点的估值方法](http://www.huxiu.com/article/444290.html?f=wangzhan)<br/>[‣ 变成电动后，还是豪华车吗？](http://www.huxiu.com/article/444268.html?f=wangzhan) |
-| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 躲在手机背后谈恋爱，2.4亿单身男女的隐秘情事｜氪金](https://36kr.com/p/1330640603551749)<br/>[‣ 鉴锋：To B公司，如何从0开始做视频号获取流量](https://36kr.com/p/1330278950181122) |
+| 36kr | 36氪 | [订阅地址](https://www.36kr.com/feed) |  [‣ 腾讯瑞声等推动新一代移动游戏标准接口制定，为用户提供更好的交互体验](https://36kr.com/p/1330527571662854)<br/>[‣ 36氪首发 \| 奶茶供应商「宇峰食品」获数千万元A轮融资，主打高品质仙草加工](https://36kr.com/p/1330198864795907) |
 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [订阅地址](https://www.msra.cn/feed) | [‣ ACL 2021 \| 难度预测和采样平滑，提高ELECTRA模型的表现！](https://www.msra.cn/zh-cn/news/features/acl-2021-electra-hp)<br/>[‣ 对话 \| 图灵奖得主John Hopcroft：深度理解AI技术理论，路漫漫其修远](https://www.msra.cn/zh-cn/news/features/hon-fireside-chat-with-john) |
 | 极客公园 | 极客公园  | [订阅地址](https://www.geekpark.net/rss) | [‣ 抽奖｜颜值在线超多配件，WOWSTICK PLAY MINI SD 电动螺丝刀套装开箱](http://www.geekpark.net/news/282015)<br/>[‣ 周杰伦、五月天望上架网易云音乐；华为再调造车，手机团队全面介入；侃爷新歌试听创苹果音乐直播纪录 \| 极客早知道](http://www.geekpark.net/news/282026) |
 | <h2 id="金融类">金融类</h2> |  |   |  |
-| 雪球 | 聪明的投资者都在这里,雪球每日精华 | [订阅地址](https://xueqiu.com/hots/topic/rss) |  [‣ 闲来札记：再谈谈我的“心中抹去一片浮盈”](http://xueqiu.com/3491303582/192418026)<br/>[‣ 两天下跌10%，银行股今年还有机会吗？](http://xueqiu.com/8534614057/192287258) |
+| 雪球 | 聪明的投资者都在这里,雪球每日精华 | [订阅地址](https://xueqiu.com/hots/topic/rss) |  [‣ 再谈谈我的“心中抹去一片浮盈”](http://xueqiu.com/3491303582/192418026)<br/>[‣ 两天下跌10%，银行股今年还有机会吗？](http://xueqiu.com/8534614057/192287258) |
 | <h2 id="学习类">学习类</h2> |  |   |  |
 | 扔物线 | 帮助 Android 工程师进阶成长 | [订阅地址](https://rengwuxian.com/feed) |  [‣ View 嵌套太深会卡？来用 Jetpack Compose，随便套——Intrinsic Measurement](https://rengwuxian.com/compose-intrinsic-measurement/)<br/>[‣ 扔物线学堂的一封致歉信](https://rengwuxian.com/hashmap-announcement/) |
 | MOOC中国 | 慕课改变你，你改变世界  | [订阅地址](https://www.mooc.cn/feed) |  [‣ 黑色星期五从现在开始！好课年度大优惠](https://www.cmooc.com/news/32024.html)<br/>[‣ 研究方法](https://www.cmooc.com/course/31468.html) |
@@ -108,19 +108,19 @@
 | Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ De viajes x Chocotoy](https://www.behance.net/gallery/124214169/De-viajes-x-Chocotoy)<br/>[‣ Google Drop Icon System](https://www.behance.net/gallery/122222581/Google-Drop-Icon-System) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ Meet This Month’s Guest Curator: James Roper](https://medium.com/behance-blog/meet-this-months-guest-curator-james-roper-6ad48393df61?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: Antonio Luvs](https://medium.com/behance-blog/meet-this-months-curator-antonio-luvs-b7dec6cb988e?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Introducing new ways for Creators to earn money and partner with brands on Pinterest](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-creators-to-earn-money-and-partner-with-brands-on-pinterest)<br/>[‣ Introducing Arabic on Pinterest](https://newsroom.pinterest.com/en/post/introducing-arabic-on-pinterest) |
-| 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 第七波！快速提升 UI 设计效果的 6 个小技巧](https://www.uisdc.com/improve-ui-designs-faster-7)<br/>[‣ 视频压缩标准简史：从 1929 到 2020](https://www.uisdc.com/video-compression-history-2021) |
+| 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 第七波！快速提升 UI 设计效果的 6 个小技巧](https://www.uisdc.com/improve-ui-designs-faster-7)<br/>[‣ 8000字干货！写给设计师的需求分析指南](https://www.uisdc.com/requirements-analysis-guide) |
 | 腾讯CDC | 腾讯用户研究与体验设计部 | [订阅地址](https://cdc.tencent.com/feed/) | [‣ 产品力专题 NO.4｜生鲜商超小程序产品运营易出现的问题](https://cdc.tencent.com/2021/06/23/%e4%ba%a7%e5%93%81%e5%8a%9b%e4%b8%93%e9%a2%98-no-4%ef%bd%9c%e7%94%9f%e9%b2%9c%e5%95%86%e8%b6%85%e5%b0%8f%e7%a8%8b%e5%ba%8f%e4%ba%a7%e5%93%81%e8%bf%90%e8%90%a5%e6%98%93%e5%87%ba%e7%8e%b0%e7%9a%84/)<br/>[‣ 产品力专题 NO.3｜生鲜商超小程序购买链路易出现的问题](https://cdc.tencent.com/2021/06/23/%e4%ba%a7%e5%93%81%e5%8a%9b%e4%b8%93%e9%a2%98-no-3%ef%bd%9c%e7%94%9f%e9%b2%9c%e5%95%86%e8%b6%85%e5%b0%8f%e7%a8%8b%e5%ba%8f%e8%b4%ad%e4%b9%b0%e9%93%be%e8%b7%af%e6%98%93%e5%87%ba%e7%8e%b0%e7%9a%84/) |
 | <h2 id="内容平台">内容平台</h2> |  |   |  |
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 《白蛇2：青蛇劫起》中小青的执念到底是什么？小青和小白之间是什么样的感情？](http://www.zhihu.com/question/473707179/answer/2015810318?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价《一人之下》漫画536（569）话？](http://www.zhihu.com/question/474119152/answer/2015179823?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Thiro – 学习工作专注计时器\[macOS/iOS\]](https://www.appinn.com/thiro-for-macos-and-ios/)<br/>[‣ 小众软件《发现频道月报》2021年7月](https://www.appinn.com/appinn-monthly-list-202107/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 运输与环境组织：2021年电动汽车基础设施发展障碍报告](https://www.199it.com/archives/1271352.html)<br/>[‣ CNNIC：2020年全国未成年人互联网使用情况研究报告](https://www.199it.com/archives/1286834.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 苹果已致函中国 iPhone 工程机爆料者，要求其提供泄露设备来源](https://www.ithome.com/0/565/809.htm)<br/>[‣ 苹果 iOS/iPadOS 15、macOS 12、watchOS 8 公测版 Beta 4 更新发布](https://www.ithome.com/0/565/808.htm) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Facebook财报：2021年Q2营收291亿美元 净利同比增长101%](https://www.199it.com/archives/1287285.html)<br/>[‣ 果集数据：母婴品牌半年度社媒营销投放分析报告](https://www.199it.com/archives/1287213.html) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 三星电子公布 2021 财年 Q2 财报：营收约 553 亿美元，同比增长 20.21%](https://www.ithome.com/0/565/823.htm)<br/>[‣ 佳明公司第二季度收入超 13 亿美元，户外智能手表销售良好](https://www.ithome.com/0/565/822.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64/)<br/>[‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 483](https://weekly.pychina.org/issue/issue-483.html)<br/>[‣ pythonista-weekly : Pyw 509](https://weekly.pychina.org/python-weekly/pyw-509.html) |
-| WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 使用中国 Cravatar 彻底解决 Gravatar 头像无法访问的问题](https://www.wpdaxue.com/cravatar.html)<br/>[‣ 您应该为网站选择哪种类型的 SSL 证书？](https://www.wpdaxue.com/ssl-certificate.html) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #346 谷歌宣布新的游戏化漏洞赏金平台](https://linux.cn/article-13626-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 满足日常需求的应用（一）：Web 浏览器](https://linux.cn/article-13625-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[宽带症候群\] 华为或思科的 FAT AP 能否拨号](https://www.v2ex.com/t/792379#reply1)<br/>[‣ \[Python\] 从用 ccxt 时遇到的 SSL 证书问题，参照 github 上更新了证书，创建并复制到相应路径还是没法解决，之后不记得怎么折腾了（删除再创建之类反复试验...）再请求 https 的网页又报 OSError 了](https://www.v2ex.com/t/792377#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[随想\] 小老弟相亲记](https://www.v2ex.com/t/792382#reply4)<br/>[‣ \[问与答\] 有个商业营销的问题](https://www.v2ex.com/t/792381#reply2) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 两个人都在用程式化表演交60分及格答卷 (评论: 你是我的荣耀)](https://movie.douban.com/review/13706050/)<br/>[‣ 你可以永远相信杨洋 (评论: 你是我的荣耀)](https://movie.douban.com/review/13705142/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 上帝读完《为什么要把小说写得那么好》之后 (评论: 为什么要把小说写得那么好)](https://book.douban.com/review/13703623/)<br/>[‣ 穿越《虚无时代》的迷雾，解读上帝死后我们如何生活 (评论: 虚无时代)](https://book.douban.com/review/13701180/) |
@@ -128,7 +128,7 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 关于 .NET 与 JAVA 在 JIT 编译上的一些差异 - Agile.Zhou](http://www.cnblogs.com/kklldog/p/net-java-jit-different.html)<br/>[‣ Docker简易安装教程 - 虚无境](http://www.cnblogs.com/xuwujing/p/15073174.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[討論\] 阿拉斯加之死是真蠢還是真啟發？](https://www.ptt.cc/bbs/movie/M.1627506888.A.060.html)<br/>[‣ \[情報\] 西恩潘最新執導作品《Flag Day》預告](https://www.ptt.cc/bbs/movie/M.1627499606.A.83E.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ 哪裡電影院有開？](https://www.ptt.cc/bbs/movie/M.1627518163.A.7C8.html)<br/>[‣ Re: \[討論\] 阿拉斯加之死是真蠢還是真啟發？](https://www.ptt.cc/bbs/movie/M.1627506888.A.060.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[神人\] 韓國旅遊廣告](https://www.ptt.cc/bbs/Beauty/M.1627491956.A.A96.html)<br/>[‣ \[正妹\] 漂亮但不實用的 本庄鈴](https://www.ptt.cc/bbs/Beauty/M.1627490855.A.06C.html) |
 | 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 【原创源码】【VB6】浅谈丘陵算法：一种用于Roguelike地图的随机生成算法](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1476723)<br/>[‣ 魔改CobaltStrike：beacon浅析(下)](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1473464) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
@@ -136,5 +136,5 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 万代收藏部METAL ROBOT魂《聖戰士》比尔拜因公布！8月即将开启预定](https://www.gcores.com/articles/139709)<br/>[‣ TapTap发布开发者服务：降低开发者研运成本 聚焦创作优质内容](https://www.gcores.com/articles/139746) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 喝过这么多雪莉桶威士忌，仍不知道它到底是什么](https://www.gcores.com/articles/139734)<br/>[‣ QUESQ版1/120《R-TYPE》R-9/0 RAGNAROK明年5月上市，售价18,480日元](https://www.gcores.com/articles/139736) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ TapTap发布开发者服务：降低开发者研运成本 聚焦创作优质内容](https://www.yystv.cn/p/8183)<br/>[‣ 来看直播！游研社即将与斗鱼对阵《马力欧卡丁车8 豪华版》](https://www.yystv.cn/p/8181) |
