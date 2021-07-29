@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-30 04:08:03)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-30 05:07:20)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -102,10 +102,10 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ iPhone/iPad投屏到Mac，可以如此简单！](https://iseex.github.io//2021-05/iPhone-iPad-Screen-to-Mac/)<br/>[‣ 位图转矢量图，这个工具值得一试！](https://iseex.github.io//2021-05/Convertio/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 柴米油盐酱醋茶，少了盐可不行。作为百味之首，从夙沙氏“煮海为盐”经历海盐 湖盐 井盐小到改变食物味道，大到支撑曾经的社稷财政盐这粒小小的晶体，见证着中国...](https://weibo.com/2970452952/KoJhuB4pk)<br/>[‣ 对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...](https://weibo.com/2970452952/KiODBxDuN) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 华为新旗舰手机 P50 系列正式发布，同场还有一大波智能新品亮相](http://www.toodaylab.com/80023)<br/>[‣ “超深度”的联名是怎样做的？OPPO《名侦探柯南》限定系列可能会给你答案](http://www.toodaylab.com/80022) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Microsoft \| Windows 365 Cloud PC](https://www.behance.net/gallery/124339281/Microsoft-Windows-365-Cloud-PC)<br/>[‣ Barcelona és clau](https://www.behance.net/gallery/123751601/Barcelona-s-clau) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ AURA](https://www.behance.net/gallery/124331431/AURA)<br/>[‣ Microsoft \| Windows 365 Cloud PC](https://www.behance.net/gallery/124339281/Microsoft-Windows-365-Cloud-PC) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ 25+ Creatives to Subscribe to on Behance](https://medium.com/behance-blog/25-creatives-to-subscribe-to-on-behance-4fc02fb3e8ee?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: James Roper](https://medium.com/behance-blog/meet-this-months-guest-curator-james-roper-6ad48393df61?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Introducing new ways for Creators to earn money and partner with brands on Pinterest](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-creators-to-earn-money-and-partner-with-brands-on-pinterest)<br/>[‣ Introducing Arabic on Pinterest](https://newsroom.pinterest.com/en/post/introducing-arabic-on-pinterest) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 第七波！快速提升 UI 设计效果的 6 个小技巧](https://www.uisdc.com/improve-ui-designs-faster-7)<br/>[‣ 8000字干货！写给设计师的需求分析指南](https://www.uisdc.com/requirements-analysis-guide) |
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价玄机出品的动画《武庚纪》第四季第一集，如何看待逆天而行之死？](http://www.zhihu.com/question/475547867/answer/2027215850?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 心理学家阿尔伯特·班杜拉（Albert Bandura）2021.7.28 逝世，如何评价他的一生？](http://www.zhihu.com/question/475684348/answer/2026194701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Reso – 9KB，以指定屏幕分辨率运行程序\[Windows\]](https://www.appinn.com/reso-for-windows/)<br/>[‣ 消失的图标 – 在 iPhone 上随意排列应用图标](https://www.appinn.com/invisible-icon-for-iphone/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ CCFA&美团：2021中国餐饮加盟行业白皮书](https://www.199it.com/archives/1287759.html)<br/>[‣ 中指研究院&IMS：2021中国红人新经济发展报告（附下载）](https://www.199it.com/archives/1288027.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 华为 P50 Pro DxOMark 后置相机得分 144 ，前置得分 106 ，位列双榜第一名](https://www.ithome.com/0/566/100.htm)<br/>[‣ 苹果造车传闻再起：这次是 LG 麦格纳的合资公司，韩媒称已在商讨合同细节](https://www.ithome.com/0/566/098.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64/)<br/>[‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 483](https://weekly.pychina.org/issue/issue-483.html)<br/>[‣ pythonista-weekly : Pyw 509](https://weekly.pychina.org/python-weekly/pyw-509.html) |
@@ -123,7 +123,7 @@
 | V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 给主流 Linux 发行版离线安装补丁的正确姿势是?](https://www.v2ex.com/t/792592#reply3)<br/>[‣ \[产品经理茶话会\] 在市面上已经有这么多糟糕的产品做典型的情况下，为什么还有人前仆后继的继续去做更糟糕的产品](https://www.v2ex.com/t/792591#reply4) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ 你可以永远相信杨洋 (评论: 你是我的荣耀)](https://movie.douban.com/review/13705142/)<br/>[‣ 两个人都在用程式化表演交60分及格答卷 (评论: 你是我的荣耀)](https://movie.douban.com/review/13706050/) |
-| 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 上帝读完《为什么要把小说写得那么好》之后 (评论: 为什么要把小说写得那么好)](https://book.douban.com/review/13703623/)<br/>[‣ 穿越《虚无时代》的迷雾，解读上帝死后我们如何生活 (评论: 虚无时代)](https://book.douban.com/review/13701180/) |
+| 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 上帝读完《为什么要把小说写得那么好》之后 (评论: 为什么要把小说写得那么好)](https://book.douban.com/review/13703623/)<br/>[‣ 做你自己人生剧本的改写者 (评论: 也许你该找个人聊聊)](https://book.douban.com/review/13707495/) |
 | 豆瓣 | 豆瓣最受欢迎的乐评 | [订阅地址](https://www.douban.com/feed/review/music) |  [‣ 来 做我的宝贝 (评论: Come And Be My Love)](https://music.douban.com/review/13691588/)<br/>[‣ 0717的浪漫 (评论: Come And Be My Love)](https://music.douban.com/review/13691525/) |
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
