@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-30 03:05:37)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-07-30 04:08:03)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价玄机出品的动画《武庚纪》第四季第一集，如何看待逆天而行之死？](http://www.zhihu.com/question/475547867/answer/2027215850?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 心理学家阿尔伯特·班杜拉（Albert Bandura）2021.7.28 逝世，如何评价他的一生？](http://www.zhihu.com/question/475684348/answer/2026194701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Reso – 9KB，以指定屏幕分辨率运行程序\[Windows\]](https://www.appinn.com/reso-for-windows/)<br/>[‣ 消失的图标 – 在 iPhone 上随意排列应用图标](https://www.appinn.com/invisible-icon-for-iphone/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 中指研究院&IMS：2021中国红人新经济发展报告（附下载）](https://www.199it.com/archives/1288027.html)<br/>[‣ eMarketer：2021年中国社交电子商务收入将接近2.5万亿元](https://www.199it.com/archives/1277624.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 华为 P50 Pro DxOMark 后置相机得分 144 ，前置得分 106 ，位列双榜第一名](https://www.ithome.com/0/566/100.htm)<br/>[‣ 苹果造车传闻再起：这次是 LG 麦格纳的合资公司，韩媒称已在商讨合同细节](https://www.ithome.com/0/566/098.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64/)<br/>[‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 483](https://weekly.pychina.org/issue/issue-483.html)<br/>[‣ pythonista-weekly : Pyw 509](https://weekly.pychina.org/python-weekly/pyw-509.html) |
@@ -128,9 +128,9 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ sql注入之类型及提交注入 - 朝朝_暮暮](http://www.cnblogs.com/zhaohzaomumu/p/15077741.html)<br/>[‣ HCNA Routing&Switching之OSPF缺省路由发布 - Linux-1874](http://www.cnblogs.com/qiuhom-1874/p/15076961.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 史嘉蕾不滿《黑寡婦》怒告迪士尼！](https://www.ptt.cc/bbs/movie/M.1627584890.A.E47.html)<br/>[‣ \[新聞\] 「黑寡婦」演員正式對迪士尼公司提起訴訟](https://www.ptt.cc/bbs/movie/M.1627582829.A.3F3.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[新聞\] 「黑寡婦」演員正式對迪士尼公司提起訴訟](https://www.ptt.cc/bbs/movie/M.1627588723.A.4F1.html)<br/>[‣ \[新聞\] 史嘉蕾不滿《黑寡婦》怒告迪士尼！](https://www.ptt.cc/bbs/movie/M.1627584890.A.E47.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 中國體操選手](https://www.ptt.cc/bbs/Beauty/M.1627577081.A.C3B.html)<br/>[‣ \[正妹\] 瘦身成功](https://www.ptt.cc/bbs/Beauty/M.1627572764.A.0C8.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 【封神台】数据库注入 wp](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1483577)<br/>[‣ 极x壁纸 - 图片请求数据解密](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1482491) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
