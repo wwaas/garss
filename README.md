@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-09 03:06:26)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-09 04:07:45)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -103,7 +103,7 @@
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ 使用wolai制作To Do List，超好看巨实用！](https://iseex.github.io//2021-08/wolai-to-do-list/)<br/>[‣ 硕博新生暑假To Do List，赢在起跑线就靠它！](https://iseex.github.io//2021-08/summer-vacation-to-do-list/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
 | 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
-| 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 每周鞋报：adidas Originals 和 Melting Sadness 再合作；JJJJOUND x Vans 联名来了](http://www.toodaylab.com/80051)<br/>[‣ 从服装到杂志，盘点 2020 东京奥运赛场内外的时尚瞬间](http://www.toodaylab.com/80050) |
+| 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 每周鞋报：adidas Originals 和 Melting Sadness 再合作；JJJJOUND x Vans 联名来了](http://www.toodaylab.com/80051)<br/>[‣ 从服装、口罩到杂志，盘点 2020 东京奥运赛场内外的时尚瞬间](http://www.toodaylab.com/80050) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Puppy Matters](https://www.behance.net/gallery/124796981/Puppy-Matters)<br/>[‣ Rede Globo Sports Illustrations](https://www.behance.net/gallery/124353935/Rede-Globo-Sports-Illustrations) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ 25+ Creatives to Subscribe to on Behance](https://medium.com/behance-blog/25-creatives-to-subscribe-to-on-behance-4fc02fb3e8ee?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: James Roper](https://medium.com/behance-blog/meet-this-months-guest-curator-james-roper-6ad48393df61?source=rss-f5272b7f3182------2) |
@@ -128,13 +128,13 @@
 | 开源中国 | 开源中国社区推荐文章 | [订阅地址](https://www.oschina.net/blog/rss) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 博客园 | 博客园精华区 | [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  [‣ Dapr 知多少 \| 分布式应用运行时 - 「圣杰」](http://www.cnblogs.com/sheng-jie/archive/2021/02/20/14420239.html)<br/>[‣ Identity Server 4 - Hybrid Flow - MVC客户端身份验证 - yangxu-pro](http://www.cnblogs.com/yangxu-pro/archive/2018/07/04/9253667.html) |
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 服务网格Istio入门-详细记录Kubernetes安装Istio并使用 - 南瓜慢说](http://www.cnblogs.com/larrydpk/p/15116902.html)<br/>[‣ linux之frp服务部署（内网穿透） - Micah666](http://www.cnblogs.com/MxMicah/p/15116887.html) |
-| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[好雷\] 絕世女英豪 Kenau (2014 荷蘭片)](https://www.ptt.cc/bbs/movie/M.1628448996.A.035.html)<br/>[‣ \[新聞\] 發哥獲榮譽學位謝香港 憶李安找拍臥虎](https://www.ptt.cc/bbs/movie/M.1628440167.A.EA4.html) |
+| PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ \[新聞\] 強尼戴普影迷別吐血！安珀赫德水行俠2](https://www.ptt.cc/bbs/movie/M.1628449925.A.841.html)<br/>[‣ \[好雷\] 絕世女英豪 Kenau (2014 荷蘭片)](https://www.ptt.cc/bbs/movie/M.1628448996.A.035.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\]想要這種釣友](https://www.ptt.cc/bbs/Beauty/M.1628446659.A.1FC.html)<br/>[‣ \[正妹\] OK嗎](https://www.ptt.cc/bbs/Beauty/M.1628439875.A.5ED.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 某网站心跳包参数加密的wasm分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1487959)<br/>[‣ 某验滑块加密分析下](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1486705) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 公子，我娶定你了2 24集全](https://bukaivip.com/index.php/vod/detail/id/55016.html)<br/>[‣ 在家更安全 超清](https://bukaivip.com/index.php/vod/detail/id/55004.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 公子，我娶定你了2 24集全](https://bukaivip.com/index.php/vod/detail/id/55016.html)<br/>[‣ 你和我一样不正经 高清](https://bukaivip.com/index.php/vod/detail/id/55015.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 狼群与狼牙堡：战锤40K星际战士战团故事 太空野狼 第二期](https://www.gcores.com/radios/140117)<br/>[‣ 原创《恶魔城》同人故事丨位面行者（五）](https://www.gcores.com/articles/139989) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 【红白机N合一】34年前最早的和风ARPG《月风魔传》](https://alioss.yystv.cn/doc/8225/e57cd93cd23b5901ef910610e80a7244.mp4)<br/>[‣ 刘华强买瓜又火了，到底是谁征服了谁？](https://www.yystv.cn/p/8230) |
