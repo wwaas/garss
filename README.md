@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-09 05:06:46)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-09 06:07:30)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -102,10 +102,10 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ 使用wolai制作To Do List，超好看巨实用！](https://iseex.github.io//2021-08/wolai-to-do-list/)<br/>[‣ 硕博新生暑假To Do List，赢在起跑线就靠它！](https://iseex.github.io//2021-08/summer-vacation-to-do-list/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 柴米油盐酱醋茶，少了盐可不行。作为百味之首，从夙沙氏“煮海为盐”经历海盐 湖盐 井盐小到改变食物味道，大到支撑曾经的社稷财政盐这粒小小的晶体，见证着中国...](https://weibo.com/2970452952/KoJhuB4pk)<br/>[‣ 对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...](https://weibo.com/2970452952/KiODBxDuN) |
+| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 每周鞋报：adidas Originals 和 Melting Sadness 再合作；JJJJOUND x Vans 联名来了](http://www.toodaylab.com/80051)<br/>[‣ 从服装、口罩到杂志，盘点 2020 东京奥运赛场内外的时尚瞬间](http://www.toodaylab.com/80050) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Puppy Matters](https://www.behance.net/gallery/124796981/Puppy-Matters)<br/>[‣ Rede Globo Sports Illustrations](https://www.behance.net/gallery/124353935/Rede-Globo-Sports-Illustrations) |
+| Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ Recovery Plan](https://www.behance.net/gallery/124730641/Recovery-Plan)<br/>[‣ Puppy Matters](https://www.behance.net/gallery/124796981/Puppy-Matters) |
 | Behance官方博客 |  Behance官方博客 | [订阅地址](https://medium.com/feed/@behance) |  [‣ 25+ Creatives to Subscribe to on Behance](https://medium.com/behance-blog/25-creatives-to-subscribe-to-on-behance-4fc02fb3e8ee?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: James Roper](https://medium.com/behance-blog/meet-this-months-guest-curator-james-roper-6ad48393df61?source=rss-f5272b7f3182------2) |
 | Pinterest |  图片设计社交 | [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  [‣ Introducing new ways for Creators to earn money and partner with brands on Pinterest](https://newsroom.pinterest.com/en/post/introducing-new-ways-for-creators-to-earn-money-and-partner-with-brands-on-pinterest)<br/>[‣ Introducing Arabic on Pinterest](https://newsroom.pinterest.com/en/post/introducing-arabic-on-pinterest) |
 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [订阅地址](https://www.uisdc.com/feed) |  [‣ 想开公司/接私单的设计师，这份避坑指南请收好](https://www.uisdc.com/start-business-experience)<br/>[‣ 从五大方面，盘点2021年中UI/UX设计趋势](https://www.uisdc.com/ui-ux-design-trends) |
@@ -114,13 +114,13 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 2020 东京奥运田径男子 4 x 100 米接力决赛中国队夺得第 4，如何评价本场比赛？](http://www.zhihu.com/question/477844835/answer/2043691123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 2020 东京奥运乒乓球女团中国 3:0 完胜日本夺冠，如何评价本场比赛？](http://www.zhihu.com/question/477548190/answer/2041170193?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 大型线上游戏](https://wanqu.co/p/7578?s=rss)<br/>[‣ Don't End The Week With Nothing](https://wanqu.co/p/7577?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Wicked Backgrounds – 简单易用的波浪形背景生成器，SVG 格式](https://www.appinn.com/wicked-backgrounds/)<br/>[‣ 【白话科普】网站图片不显示，背后的原因你都清楚吗？](https://www.appinn.com/website-images-not-displayed-upyun/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 国家信息中心&华为：2021年政务外网IPv6演进技术白皮书](https://www.199it.com/archives/1291981.html)<br/>[‣ 粮农组织：营养导向型农业与食物系统实践–干预措施](https://www.199it.com/archives/1292020.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ BrightLocal：2021年本地搜索报告](https://www.199it.com/archives/1289707.html)<br/>[‣ Wunderman Thompson：2021年亚太地区零售报告](https://www.199it.com/archives/1287434.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 不必等待：教你将系统音效换成微软 Win11](https://www.ithome.com/0/568/017.htm)<br/>[‣ 稳定版临近，苹果希望扩大 iOS 15 Beta 版测试](https://www.ithome.com/0/568/015.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64/)<br/>[‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 484](https://weekly.pychina.org/issue/issue-484.html)<br/>[‣ pythonista-weekly : Pyw 510](https://weekly.pychina.org/python-weekly/pyw-510.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 使用 theme.json 配置WordPress主题设计](https://www.wpdaxue.com/configuring-theme-design-with-theme-json.html)<br/>[‣ WordPress 轻社区/淘宝客主题  November](https://www.wpdaxue.com/shop/wordpress-theme-november) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #357 ElasticSearch 继续对抗亚马逊 AWS 的开源分叉](https://linux.cn/article-13660-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 初级：如何在 Linux Mint 上安装 Google Chrome](https://linux.cn/article-13659-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 移民需要考虑什么？](https://www.v2ex.com/t/794503#reply0)<br/>[‣ \[问与答\] 有什么好用的网页收藏夹快照工具吗？技术博客总是被删除](https://www.v2ex.com/t/794501#reply0) |
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[问与答\] 移民需要考虑什么？](https://www.v2ex.com/t/794503#reply6)<br/>[‣ \[问与答\] 有什么好用的网页收藏夹快照工具吗？技术博客总是被删除](https://www.v2ex.com/t/794501#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
 | 豆瓣 | 豆瓣最受欢迎的影评 | [订阅地址](https://www.douban.com/feed/review/movie) |  [‣ でも、きれい。 (评论: 夜以继日)](https://movie.douban.com/review/13737709/)<br/>[‣ Why rats papa？ (评论: X特遣队：全员集结)](https://movie.douban.com/review/13735420/) |
 | 豆瓣 | 豆瓣最受欢迎的书评 | [订阅地址](https://www.douban.com/feed/review/book) |  [‣ 为了给我写书名，父亲把我的一句诗抄了187遍 (评论: 说时迟)](https://book.douban.com/review/13714797/)<br/>[‣ 开始战斗 (评论: 斜阳)](https://book.douban.com/review/13736050/) |
