@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-10 03:06:29)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-10 04:08:22)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -114,7 +114,7 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 2020 东京奥运田径男子 4 x 100 米接力决赛中国队夺得第 4，如何评价本场比赛？](http://www.zhihu.com/question/477844835/answer/2043691123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 2020 东京奥运乒乓球女团中国 3:0 完胜日本夺冠，如何评价本场比赛？](http://www.zhihu.com/question/477548190/answer/2041170193?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为什么会有公司愿意花钱去买软件，而不去用开源的免费软件](https://wanqu.co/p/7581?s=rss)<br/>[‣ 一家奇怪的创业公司](https://wanqu.co/p/7580?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ Figen – 免费的封面图、背景图制作工具，支持添加文字](https://www.appinn.com/figen-online-cover-and-background-generator-tool/)<br/>[‣ Wicked Backgrounds – 简单易用的波浪形背景生成器，SVG 格式](https://www.appinn.com/wicked-backgrounds/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ 中汽协：2021年6月乘用车产销分别完成155.5万辆和156.9万辆](https://www.199it.com/archives/1293071.html)<br/>[‣ 中国汽车流通协会：2021年6月汽车经销商库存系数为1.48](https://www.199it.com/archives/1293064.html) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ IDC：预测2025年中国企业团队协同软件市场规模达到6.02亿美元](https://www.199it.com/archives/1293130.html)<br/>[‣ 硅谷银行：2021上半年医疗健康行业投资与退出趋势](https://www.199it.com/archives/1293110.html) |
 | IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 诺基亚 C20 Plus 登陆印度：搭载紫光展锐芯片，约 785 元起](https://www.ithome.com/0/568/264.htm)<br/>[‣ 亚马逊卖家违规追踪买家：删除差评双倍奖励，不删就长期骚扰](https://www.ithome.com/0/568/263.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64/)<br/>[‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 484](https://weekly.pychina.org/issue/issue-484.html)<br/>[‣ pythonista-weekly : Pyw 510](https://weekly.pychina.org/python-weekly/pyw-510.html) |
@@ -130,7 +130,7 @@
 | 博客园 | 博客园首页 | [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  [‣ 文件上传之解析漏洞编辑器安全 - 朝朝_暮暮](http://www.cnblogs.com/zhaohzaomumu/p/15121888.html)<br/>[‣ HCNA Routing&Switching之STP基础 - Linux-1874](http://www.cnblogs.com/qiuhom-1874/p/15121317.html) |
 | PTT(台湾论坛) | PTT电影专题 | [订阅地址](https://www.ptt.cc/atom/movie.xml) |  [‣ Re: \[討論\] 神劍闖江湖 beginning](https://www.ptt.cc/bbs/movie/M.1628533501.A.FB3.html)<br/>[‣ \[新聞\] 經紀人挨子彈身亡　李連杰捲槍殺案](https://www.ptt.cc/bbs/movie/M.1628527219.A.272.html) |
 | PTT(台湾论坛) | PTT正妹专题 | [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  [‣ \[正妹\] 變態女學生-中川梨花](https://www.ptt.cc/bbs/Beauty/M.1628535591.A.C0F.html)<br/>[‣ \[正妹\] 攀岩女王 Janja](https://www.ptt.cc/bbs/Beauty/M.1628527074.A.310.html) |
-| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [‣ 某网站心跳包参数加密的wasm分析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1487959)<br/>[‣ 某验滑块加密分析下](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1486705) |
+| 吾爱破解 | 吾爱破解 - LCG - LSG 安卓破解 病毒分析 - 最新精华 | [订阅地址](https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
