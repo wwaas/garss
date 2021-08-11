@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-12 03:06:26)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-12 04:08:23)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -120,7 +120,7 @@
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 485](https://weekly.pychina.org/issue/issue-485.html)<br/>[‣ pythonista-weekly : Pyw 511](https://weekly.pychina.org/python-weekly/pyw-511.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 使用 theme.json 配置WordPress主题设计](https://www.wpdaxue.com/configuring-theme-design-with-theme-json.html)<br/>[‣ WordPress 轻社区/淘宝客主题  November](https://www.wpdaxue.com/shop/wordpress-theme-november) |
 | Linux中国 | Linux中文开源社区 | [订阅地址](https://linux.cn/rss.xml) |  [‣ 硬核观察 #360 OpenAI 推出可将自然语言翻译成代码的 Codex API](https://linux.cn/article-13671-1.html?utm_source=rss&utm_medium=rss)<br/>[‣ 久等了！elementary OS 6 “Odin” 正式发布，带来令人激动的新变化](https://linux.cn/article-13670-1.html?utm_source=rss&utm_medium=rss) |
-| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[程序员\] GitHub 增加了 github1s 这样的功能](https://www.v2ex.com/t/795218#reply1)<br/>[‣ \[求职\] .net core 后端 9 年经验求成都的坑位，主力语言 c#，也写过 golang 和 Java 有远程机会也可以考虑。
+| V2EX | 创意工作者的社区 | [订阅地址](https://www.v2ex.com/index.xml) |  [‣ \[程序员\] GitHub 增加了 github1s 这样的功能](https://www.v2ex.com/t/795218#reply4)<br/>[‣ \[求职\] .net core 后端 9 年经验求成都的坑位，主力语言 c#，也写过 golang 和 Java 有远程机会也可以考虑。
 前端熟悉 vue
 需要转 golang 或者 Java 也可以，毕竟语言只是工具，上手做项目还是没问题的](https://www.v2ex.com/t/795217#reply0) |
 | 酷 壳 | 酷 壳RSS | [订阅地址](https://coolshell.cn/feed) |  [‣ Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html)<br/>[‣ Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) |
@@ -136,7 +136,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 那些日子 更新至2集](https://bukaivip.com/index.php/vod/detail/id/55096.html)<br/>[‣ 住在空中 高清](https://bukaivip.com/index.php/vod/detail/id/55091.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 与君歌卫视版 更新至8集](https://bukaivip.com/index.php/vod/detail/id/55102.html)<br/>[‣ 玫瑰行者 更新至4集](https://bukaivip.com/index.php/vod/detail/id/55097.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 《风来之国》公布发售日《公理边缘2》今日登陆NS，任天堂Indie World直播汇总](https://www.gcores.com/articles/140284)<br/>[‣ 给他铅笔，他是“漫画之神”](https://www.gcores.com/radios/140119) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 一位设计师通过3D打印还原出了GTA5里的圣洛都](https://www.yystv.cn/p/8241)<br/>[‣ 【白夜谈】炒冰视频如何演变为线上赌场](https://www.yystv.cn/p/8240) |
