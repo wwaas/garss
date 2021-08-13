@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-14 06:07:36)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-14 07:07:30)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -102,7 +102,7 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [订阅地址](https://iseex.github.io/feed) |  [‣ 我的苹果全家桶有哪些设备？创造了哪些生产力？](https://iseex.github.io//2021-08/my-Apple-products/)<br/>[‣ 使用wolai制作To Do List，超好看巨实用！](https://iseex.github.io//2021-08/wolai-to-do-list/) |
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
+| 李子柒 | 李子柒的微博 | [订阅地址](https://rsshub.app/weibo/user/2970452952) |  [‣ 柴米油盐酱醋茶，少了盐可不行。作为百味之首，从夙沙氏“煮海为盐”经历海盐 湖盐 井盐小到改变食物味道，大到支撑曾经的社稷财政盐这粒小小的晶体，见证着中国...](https://weibo.com/2970452952/KoJhuB4pk)<br/>[‣ 对的，就是上个视频最后那个流觞曲水桌！虽然我也不曾想到我会用张床做一桌子这个视频是之前刷剧刷到的改良款！几番曲折做完后还真香！事实证明，多陪老人家看电...](https://weibo.com/2970452952/KiODBxDuN) |
 | 理想生活实验室 | 为更理想的生活 | [订阅地址](https://www.toodaylab.com/rss) |  [‣ 2021 七夕限定系列大盘点之珠宝和腕表篇：粉色最受欢迎，联名也仍然有吸引力](http://www.toodaylab.com/80064)<br/>[‣ 方太举行 2021 年度发布会，集成烹饪中心和洗碗机产品线都更新了](http://www.toodaylab.com/80063) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | Behance |  Adobe旗下设计网站Behance | [订阅地址](https://www.behance.net/feeds/projects) |  [‣ MIAMI Soul](https://www.behance.net/gallery/124873027/MIAMI-Soul)<br/>[‣ The Media Bar](https://www.behance.net/gallery/125055029/The-Media-Bar) |
@@ -114,8 +114,8 @@
 | 知乎 | 知乎每日精选 | [订阅地址](https://www.zhihu.com/rss) |  [‣ 如何评价国产动画《春秋封神》？](http://www.zhihu.com/question/477793717/answer/2056504454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<br/>[‣ 如何评价国风推理游戏《古镜记》？](http://www.zhihu.com/question/479155481/answer/2056589796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title) |
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为什么会有公司愿意花钱去买软件，而不去用开源的免费软件](https://wanqu.co/p/7581?s=rss)<br/>[‣ 一家奇怪的创业公司](https://wanqu.co/p/7580?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ 优效文件助手 – 助你轻松掌控电脑文件\[Windows\]](https://www.appinn.com/youxiao-yxfile/)<br/>[‣ 基于最后一个《天若 OCR 文字识别工具》开源版，优化贴图功能的 5.0.1 闲来无事个人修改版](https://www.appinn.com/tian-ruo-ocr-501-open-source/) |
-| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [暂无法通过爬虫获取信息](https://github.com/zhaoolee/garss) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 用了 N 年未必懂：Excel 带圈数字输入小技巧](https://www.ithome.com/0/569/252.htm)<br/>[‣ 美参议员致信亚马逊 CEO：掌纹支付服务引发数据担忧](https://www.ithome.com/0/569/251.htm) |
+| 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ Clarus Commerce：2021年顾客忠诚计划报告](https://www.199it.com/archives/1293997.html)<br/>[‣ Stirista：2021年营销代理机构调查报告](https://www.199it.com/archives/1294788.html) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ Facebook 将在 Messenger 中启用端到端加密、消息定时销毁功能](https://www.ithome.com/0/569/255.htm)<br/>[‣ 曾是小众的 B 站，如何逆袭“优酷爱奇艺腾讯视频”？](https://www.ithome.com/0/569/254.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64/)<br/>[‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 485](https://weekly.pychina.org/issue/issue-485.html)<br/>[‣ pythonista-weekly : Pyw 511](https://weekly.pychina.org/python-weekly/pyw-511.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 当您的 WordPress 网站被黑客入侵时该怎么办？](https://www.wpdaxue.com/what-to-do-wordpress-website-is-hacked.html)<br/>[‣ Gutenberg 11.2 扩展了对搜索和引文块的颜色支持，为组块引入了实验性 Flex 布局](https://www.wpdaxue.com/gutenberg-11-2.html) |
@@ -134,7 +134,7 @@
 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [订阅地址](https://www.cnbeta.com/commentrss.php) |  [‣ 可是打工必须在故乡](https://www.cnbeta.com/articles/tech/1066805.htm)<br/>[‣ 两边竞价，哪边出钱多哪边是绿灯](https://www.cnbeta.com/articles/tech/786381.htm) |
 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [订阅地址](https://bitinn.net/feed/) |  [‣ 赛马娘 Pretty Derby：终点线的感动，起跑线的感慨](https://bitinn.net/11697/)<br/>[‣ 简短的十年回顾](https://bitinn.net/11681/) |
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 披荆斩棘的哥哥舞台纯享版 更新至20210812期](https://bukaivip.com/index.php/vod/detail/id/55152.html)<br/>[‣ 披荆斩棘的哥哥 更新至20210812期](https://bukaivip.com/index.php/vod/detail/id/55151.html) |
+| VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 披荆斩棘的哥哥舞台纯享版 更新至20210812期](https://bukaivip.com/index.php/vod/detail/id/55152.html)<br/>[‣ 韩公主 超清](https://bukaivip.com/index.php/vod/detail/id/55143.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 对《EVA 终》明日香所持掌机进行考据](https://www.gcores.com/articles/140386)<br/>[‣ 就特别teaser， 已有主播拿到官方给的《使命召唤》新作先导预告](https://www.gcores.com/articles/140383) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 【社长jing了！Vol.118】 “你单身啊？你怎么还单身啊？？”](https://www.yystv.cn/p/8250)<br/>[‣ 《堡垒之夜》删除了一个能够引发尴尬联想的表情动作](https://www.yystv.cn/p/8248) |
