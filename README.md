@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-15 06:07:21)
+# Github Actions Rss (garss, 嘎RSS! 已收集101个RSS源, 生成时间: 2021-08-15 07:07:13)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
 
@@ -115,7 +115,7 @@
 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [订阅地址](https://wanqu.co/feed/) |  [‣ 为什么会有公司愿意花钱去买软件，而不去用开源的免费软件](https://wanqu.co/p/7581?s=rss)<br/>[‣ 一家奇怪的创业公司](https://wanqu.co/p/7580?s=rss) |
 | 小众软件 | 小众软件RSS | [订阅地址](https://www.appinn.com/feed/) |  [‣ freeCodeCamp –  2700+ 小时交互式编程课，所有内容免费开放](https://www.appinn.com/freecodecamp/)<br/>[‣ 优效文件助手 – 助你轻松掌控电脑文件\[Windows\]](https://www.appinn.com/youxiao-yxfile/) |
 | 199IT | 互联网数据资讯网 | [订阅地址](https://www.199it.com/feed) |  [‣ GP Bullhound：2021年Q2网络平台经济报告](https://www.199it.com/archives/1287103.html)<br/>[‣ 世界经济论坛：2021年青年复兴计划洞察力报告](https://www.199it.com/archives/1295566.html) |
-| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 《英雄联盟》季后赛 TES 被淘汰：S10 四支 LPL 战队均无缘 S11](https://www.ithome.com/0/569/372.htm)<br/>[‣ realme Book 正面亮屏照曝光：窄边框 + 3:2 屏幕比例](https://www.ithome.com/0/569/371.htm) |
+| IT之家 | IT之家 - 软媒旗下网站 | [订阅地址](https://www.ithome.com/rss) |  [‣ 剑指蔚来 NOP，知名品牌称创始人因开启辅助驾驶遭遇车祸而逝世](https://www.ithome.com/0/569/375.htm)<br/>[‣ 机器人做手术，你敢躺平吗](https://www.ithome.com/0/569/374.htm) |
 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [订阅地址](https://hellogithub.com/rss) |  [‣ HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64/)<br/>[‣ HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63/) |
 | 蠎周刊 | Python各种Weekly中译版。 | [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  [‣ Issue 485](https://weekly.pychina.org/issue/issue-485.html)<br/>[‣ pythonista-weekly : Pyw 511](https://weekly.pychina.org/python-weekly/pyw-511.html) |
 | WordPress大学 | WordPress建站资源平台 | [订阅地址](https://www.wpdaxue.com/feed) |  [‣ 12 款实用的 WordPress 网站手机端移动设备测试工具](https://www.wpdaxue.com/12-best-mobile-testing-tools-for-wordpress-free-paid.html)<br/>[‣ 当您的 WordPress 网站被黑客入侵时该怎么办？](https://www.wpdaxue.com/what-to-do-wordpress-website-is-hacked.html) |
@@ -136,5 +136,5 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [订阅地址](https://bukaivip.com/rss) |  [‣ 太阳不能动 高清](https://bukaivip.com/index.php/vod/detail/id/55183.html)<br/>[‣ 健听女孩 高清](https://bukaivip.com/index.php/vod/detail/id/55181.html) |
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 探索佳作，GadioNews08.14](https://www.gcores.com/radios/140124)<br/>[‣ MEGA DRIVE-黑色的16bit传奇 Vol.3 16bit音乐探秘](https://www.gcores.com/radios/140121) |
+| 机核网 |  不止是游戏 | [订阅地址](https://www.gcores.com/rss) |  [‣ 对中国影响至深的日本电脑：拆解修复夏普 PC-1500](https://www.gcores.com/videos/139534)<br/>[‣ 探索佳作，GadioNews08.14](https://www.gcores.com/radios/140124) |
 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [订阅地址](https://www.yystv.cn/rss/feed) |  [‣ 我去一场真人互动影视游戏的片场，参观了拍摄过程](https://www.yystv.cn/p/8251)<br/>[‣ 一张作为“股票”出售的《超级马力欧》，卖出了200万美元的新纪录](https://www.yystv.cn/p/8252) |
